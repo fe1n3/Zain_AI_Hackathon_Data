@@ -5,13 +5,11 @@ This project generates mock datasets for various business scenarios using Python
 **Key Features:**
 - 25 comprehensive datasets with 10,000 rows each
 - Realistic business scenarios across telecommunications
-- Built-in data quality issues (missing values, duplicates, typos, outliers) 
-- Configurable noise injection for data cleaning practice
 - Multiple use cases from analytics to AI model training
 
 ## Structure
 
-- `generate_mock_data.py`: Main script to generate all datasets with data quality issues.
+- `generate_mock_data.py`: Main script to generate all datasets.
 - `ZainAI_MockData/`: Output folder containing all generated CSV files, organized by scenario.
 
 
@@ -20,7 +18,7 @@ This project generates mock datasets for various business scenarios using Python
 ### 1. Turning Information into Intelligence
 
 #### 1a_Customers.csv
-- **Description:** Customer demographic and account information with data quality issues.
+- **Description:** Customer demographic and account information.
 - **Example Row:**
    | customer_id | age | gender | city     | plan_type | join_date  | churned | last_month_usage_gb | complaints_count |
    |-------------|-----|--------|----------|-----------|------------|---------|---------------------|------------------|
@@ -28,11 +26,10 @@ This project generates mock datasets for various business scenarios using Python
 - **Use Cases:**
    - Customer segmentation
    - Churn prediction
-   - Data quality improvement
    - Personalization
 
 #### 1b_Calls.csv
-- **Description:** Call, SMS, and data session records for customers with noise.
+- **Description:** Call, SMS, and data session records for customers.
 - **Example Row:**
    | call_id | customer_id | call_type | duration_min | date       |
    |---------|-------------|-----------|--------------|------------|
@@ -41,10 +38,9 @@ This project generates mock datasets for various business scenarios using Python
    - Usage analytics
    - Fraud detection
    - Network optimization
-   - Data cleaning practices
 
 #### 1c_InternetUsage.csv
-- **Description:** Internet usage logs by app category with quality issues.
+- **Description:** Internet usage logs by app category.
 - **Example Row:**
    | usage_id | customer_id | date       | data_used_gb | app_category  |
    |----------|-------------|------------|--------------|---------------|
@@ -53,10 +49,9 @@ This project generates mock datasets for various business scenarios using Python
    - App popularity analysis
    - Data plan recommendations
    - Network planning
-   - Data quality assessment
 
 #### 1d_SupportTickets.csv
-- **Description:** Customer support ticket records with missing values and duplicates.
+- **Description:** Customer support ticket records.
 - **Example Row:**
    | ticket_id | customer_id | issue_category | priority | date_opened | status   |
    |-----------|-------------|----------------|----------|-------------|----------|
@@ -65,7 +60,6 @@ This project generates mock datasets for various business scenarios using Python
    - Support workload analysis
    - Issue trend detection
    - SLA monitoring
-   - Data deduplication
 
 #### 1e_SocialSentiment.csv
 - **Description:** Social media posts mentioning the company, with sentiment and topic.
@@ -125,7 +119,7 @@ This project generates mock datasets for various business scenarios using Python
 ### 2. Redefining Engagement & Experiences
 
 #### 2a_CustomerProfiles.csv
-- **Description:** Customer engagement preferences and recent activity with data quality challenges.
+- **Description:** Customer engagement preferences and recent activity.
 - **Example Row:**
    | customer_id | interests         | preferred_channel | last_engagement_date |
    |-------------|------------------|-------------------|---------------------|
@@ -134,7 +128,6 @@ This project generates mock datasets for various business scenarios using Python
    - Targeted marketing
    - Channel optimization
    - Engagement scoring
-   - Data quality improvement
 
 #### 2b_EmployeeProfiles.csv
 - **Description:** Employee department, role, and learning preferences.
@@ -362,24 +355,7 @@ python generate_mock_data.py
 
 The generated CSV files will be saved in the `ZainAI_MockData/` directory, organized by scenario.
 
-## Data Quality Features
-
-The generated datasets include realistic data quality issues to simulate real-world scenarios:
-
-- **Missing Values**: ~10% of data points are randomly set to null
-- **Duplicates**: ~5% duplicate rows are added
-- **Typos**: ~5% of text fields contain character errors  
-- **Outliers**: ~5% of numeric fields have extreme values
-- **Inconsistencies**: Varied formatting and data entry patterns
-
-This makes the datasets ideal for:
-- Data cleaning and preprocessing practice
-- ETL pipeline development
-- Data quality assessment tools
-- ML model robustness testing
-
 ## Customization
 
 - To change the number of rows, modify the `range` values in `generate_mock_data.py`.
-- To adjust data quality issues, modify the `dirty_level` parameter in the `inject_noise()` function.
 - You can adjust the fields, categories, or logic in the script to fit your needs.
