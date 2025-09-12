@@ -22,41 +22,6 @@ start_date = datetime(2020, 1, 1)
 end_date = datetime(2025, 9, 30)
 
 
-def inject_noise(df: pd.DataFrame, dirty_level=0.2):
-    df_noisy = df.copy()
-    n_rows = len(df_noisy)
-    if n_rows == 0:
-        return df_noisy
-
-    # 1. Missing values (~20%)
-    for col in df_noisy.columns:
-        mask = df_noisy.sample(frac=dirty_level * 0.5).index
-        df_noisy.loc[mask, col] = None
-
-    # 2. Typos in strings
-    for col in df_noisy.select_dtypes(include="object").columns:
-        mask = df_noisy.sample(frac=dirty_level * 0.25).index
-        df_noisy.loc[mask, col] = df_noisy.loc[mask, col].astype(str) + random.choice(["x", "_err", " "])
-
-    # 3. Duplicates
-    n_duplicates = int(n_rows * dirty_level * 0.25)
-    if n_duplicates > 0:
-        dupes = df_noisy.sample(n=n_duplicates)
-        df_noisy = pd.concat([df_noisy, dupes], ignore_index=True)
-
-    # 4. Outliers in numbers
-    for col in df_noisy.select_dtypes(include=[np.number]).columns:
-        mask = df_noisy.sample(frac=dirty_level * 0.25).index
-        df_noisy.loc[mask, col] = df_noisy[col] * random.choice([10, 100, -1])
-
-    # 5. Inconsistent categories
-    for col in df_noisy.select_dtypes(include="object").columns:
-        mask = df_noisy.sample(frac=dirty_level * 0.25).index
-        df_noisy.loc[mask, col] = df_noisy.loc[mask, col].str.upper()
-
-    return df_noisy
-
-
 # ---------------------------
 # 1️⃣ Turning Information into Intelligence
 # ---------------------------
@@ -79,10 +44,7 @@ for i in range(10000):
         "last_month_usage_gb": round(random.uniform(0, 50), 2),
         "complaints_count": random.randint(0, 5)
     })
-# pd.DataFrame(customers).to_csv(os.path.join(folder1, "1a_Customers.csv"), index=False)
-df = pd.DataFrame(customers)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder1, "1a_Customers.csv"), index=False)
+pd.DataFrame(customers).to_csv(os.path.join(folder1, "1a_Customers.csv"), index=False)
 
 # b. Calls.csv
 calls = []
@@ -95,10 +57,7 @@ for i in range(10000):
         "duration_min": round(random.uniform(0.5, 60), 2),
         "date": fake.date_between(start_date='-1y', end_date='today')
     })
-# pd.DataFrame(calls).to_csv(os.path.join(folder1, "1b_Calls.csv"), index=False)
-df = pd.DataFrame(calls)
-df = inject_noise(df, dirty_level=0.2)  
-df.to_csv(os.path.join(folder1, "1b_Calls.csv"), index=False)
+pd.DataFrame(calls).to_csv(os.path.join(folder1, "1b_Calls.csv"), index=False)
 
 # c. InternetUsage.csv
 internet_usage = []
@@ -111,10 +70,7 @@ for i in range(10000):
         "data_used_gb": round(random.uniform(0.1, 10), 2),
         "app_category": random.choice(app_categories)
     })
-# pd.DataFrame(internet_usage).to_csv(os.path.join(folder1, "1c_InternetUsage.csv"), index=False)
-df = pd.DataFrame(internet_usage)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder1, "1c_InternetUsage.csv"), index=False)
+pd.DataFrame(internet_usage).to_csv(os.path.join(folder1, "1c_InternetUsage.csv"), index=False)
 
 # d. SupportTickets.csv
 issue_categories = ["Billing", "Network", "Service", "Technical"]
@@ -129,10 +85,7 @@ for i in range(10000):
         "date_opened": fake.date_between(start_date='-6mo', end_date='today'),
         "status": random.choice(["Open", "Resolved", "Pending"])
     })
-# pd.DataFrame(support_tickets).to_csv(os.path.join(folder1, "1d_SupportTickets.csv"), index=False)
-df = pd.DataFrame(support_tickets)
-df = inject_noise(df, dirty_level=0.2)   
-df.to_csv(os.path.join(folder1, "1d_SupportTickets.csv"), index=False)
+pd.DataFrame(support_tickets).to_csv(os.path.join(folder1, "1d_SupportTickets.csv"), index=False)
 
 # e. SocialSentiment.csv
 platforms = ["Twitter", "Instagram", "Facebook"]
@@ -147,10 +100,7 @@ for i in range(10000):
         "topic": random.choice(topics),
         "date": fake.date_between(start_date='-1y', end_date='today')
     })
-# pd.DataFrame(social_sentiment).to_csv(os.path.join(folder1, "1e_SocialSentiment.csv"), index=False)
-df = pd.DataFrame(social_sentiment)
-df = inject_noise(df, dirty_level=0.2)  
-df.to_csv(os.path.join(folder1, "1e_SocialSentiment.csv"), index=False)
+pd.DataFrame(social_sentiment).to_csv(os.path.join(folder1, "1e_SocialSentiment.csv"), index=False)
 
 # f. FinancialTransactions.csv
 transactions = []
@@ -163,10 +113,7 @@ for i in range(10000):
         "date": random_date(start_date, end_date).date(),
         "status": random.choice(["Success", "Failed", "Pending"])
     })
-# pd.DataFrame(transactions).to_csv(os.path.join(folder1, "1f_FinancialTransactions.csv"), index=False)
-df = pd.DataFrame(transactions)
-df = inject_noise(df, dirty_level=0.2)  
-df.to_csv(os.path.join(folder1, "1f_FinancialTransactions.csv"), index=False)
+pd.DataFrame(transactions).to_csv(os.path.join(folder1, "1f_FinancialTransactions.csv"), index=False)
 
 # g. NetworkPerformance.csv
 network = []
@@ -179,10 +126,7 @@ for i in range(10000):
         "downtime_minutes": random.randint(0, 60),
         "date": random_date(start_date, end_date).date()
     })
-# pd.DataFrame(network).to_csv(os.path.join(folder1, "1g_NetworkPerformance.csv"), index=False)
-df = pd.DataFrame(network)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder1, "1g_NetworkPerformance.csv"), index=False)
+pd.DataFrame(network).to_csv(os.path.join(folder1, "1g_NetworkPerformance.csv"), index=False)
 
 # h. CustomerDemographics.csv
 demographics = []
@@ -193,10 +137,7 @@ for i in range(10000):
         "household_size": random.randint(1, 7),
         "nationality": random.choice(["Bahraini", "Expats-GCC", "Expats-Asia", "Expats-Other"])
     })
-# pd.DataFrame(demographics).to_csv(os.path.join(folder1, "1h_CustomerDemographics.csv"), index=False)
-df = pd.DataFrame(demographics)
-df = inject_noise(df, dirty_level=0.2)  
-df.to_csv(os.path.join(folder1, "1h_CustomerDemographics.csv"), index=False)
+pd.DataFrame(demographics).to_csv(os.path.join(folder1, "1h_CustomerDemographics.csv"), index=False)
 
 # i. ProductCatalog.csv
 products = []
@@ -208,11 +149,7 @@ for i in range(10000):
         "category": random.choice(["Data", "Voice", "Combo"]),
         "active": random.choice([0, 1])
     })
-# pd.DataFrame(products).to_csv(os.path.join(folder1, "1i_ProductCatalog.csv"), index=False)
-df = pd.DataFrame(products)
-df = inject_noise(df, dirty_level=0.2)   
-df.to_csv(os.path.join(folder1, "1i_ProductCatalog.csv"), index=False)
-
+pd.DataFrame(products).to_csv(os.path.join(folder1, "1i_ProductCatalog.csv"), index=False)
 
 
 # ---------------------------
@@ -232,10 +169,7 @@ for i in range(10000):
         "preferred_channel": random.choice(channels),
         "last_engagement_date": fake.date_between(start_date='-3mo', end_date='today')
     })
-# pd.DataFrame(customer_profiles).to_csv(os.path.join(folder2, "2a_CustomerProfiles.csv"), index=False)
-df = pd.DataFrame(customer_profiles)
-df = inject_noise(df, dirty_level=0.2)   
-df.to_csv(os.path.join(folder2, "2a_CustomerProfiles.csv"), index=False)
+pd.DataFrame(customer_profiles).to_csv(os.path.join(folder2, "2a_CustomerProfiles.csv"), index=False)
 
 # b. EmployeeProfiles.csv
 departments = ["Marketing", "IT", "HR", "Finance", "Operations"]
@@ -250,10 +184,7 @@ for i in range(10000):
         "completed_trainings": random.randint(0, 10),
         "preferred_learning_mode": random.choice(learning_modes)
     })
-# pd.DataFrame(employee_profiles).to_csv(os.path.join(folder2, "2b_EmployeeProfiles.csv"), index=False)
-df = pd.DataFrame(employee_profiles)
-df = inject_noise(df, dirty_level=0.2)   
-df.to_csv(os.path.join(folder2, "2b_EmployeeProfiles.csv"), index=False)
+pd.DataFrame(employee_profiles).to_csv(os.path.join(folder2, "2b_EmployeeProfiles.csv"), index=False)
 
 # c. Campaigns.csv
 campaign_types = ["Email", "SMS", "Push Notification"]
@@ -266,10 +197,7 @@ for i in range(10000):
         "engagement_rate": round(random.uniform(0.05, 0.7), 2),
         "date_sent": fake.date_between(start_date='-3mo', end_date='today')
     })
-# pd.DataFrame(campaigns).to_csv(os.path.join(folder2, "2c_Campaigns.csv"), index=False)
-df = pd.DataFrame(campaigns)
-df = inject_noise(df, dirty_level=0.2)   
-df.to_csv(os.path.join(folder2, "2c_Campaigns.csv"), index=False)
+pd.DataFrame(campaigns).to_csv(os.path.join(folder2, "2c_Campaigns.csv"), index=False)
 
 # d. MediaAssets.csv
 asset_types = ["Image", "Video", "Audio"]
@@ -281,10 +209,7 @@ for i in range(10000):
         "topic": random.choice(topics),
         "engagement_score": round(random.uniform(0, 1), 2)
     })
-# pd.DataFrame(media_assets).to_csv(os.path.join(folder2, "2d_MediaAssets.csv"), index=False)
-df = pd.DataFrame(media_assets)
-df = inject_noise(df, dirty_level=0.2)   
-df.to_csv(os.path.join(folder2, "2d_MediaAssets.csv"), index=False)
+pd.DataFrame(media_assets).to_csv(os.path.join(folder2, "2d_MediaAssets.csv"), index=False)
 
 # e. FeedbackSurveys.csv
 surveys = []
@@ -296,10 +221,7 @@ for i in range(10000):
         "comment": random.choice(["Great service", "Network issue", "Too expensive", "Happy with Zain"]),
         "date": random_date(start_date, end_date).date()
     })
-# pd.DataFrame(surveys).to_csv(os.path.join(folder2, "2e_FeedbackSurveys.csv"), index=False)
-df = pd.DataFrame(surveys)
-df = inject_noise(df, dirty_level=0.2)  
-df.to_csv(os.path.join(folder2, "2e_FeedbackSurveys.csv"), index=False)
+pd.DataFrame(surveys).to_csv(os.path.join(folder2, "2e_FeedbackSurveys.csv"), index=False)
 
 # f. RewardsRedemptions.csv
 rewards = []
@@ -310,10 +232,7 @@ for i in range(10000):
         "reward_type": random.choice(["Data Voucher", "Discount Coupon", "Event Ticket"]),
         "date": random_date(start_date, end_date).date()
     })
-# pd.DataFrame(rewards).to_csv(os.path.join(folder2, "2f_RewardsRedemptions.csv"), index=False)
-df = pd.DataFrame(rewards)
-df = inject_noise(df, dirty_level=0.2)  
-df.to_csv(os.path.join(folder2, "2f_RewardsRedemptions.csv"), index=False)
+pd.DataFrame(rewards).to_csv(os.path.join(folder2, "2f_RewardsRedemptions.csv"), index=False)
 
 # g. EventParticipation.csv
 events = []
@@ -325,10 +244,7 @@ for i in range(10000):
         "attended": random.choice([0, 1]),
         "date": random_date(start_date, end_date).date()
     })
-# pd.DataFrame(events).to_csv(os.path.join(folder2, "2g_EventParticipation.csv"), index=False)
-df = pd.DataFrame(events)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder2, "2g_EventParticipation.csv"), index=False)
+pd.DataFrame(events).to_csv(os.path.join(folder2, "2g_EventParticipation.csv"), index=False)
 
 # h. ContentInteractions.csv
 interactions = []
@@ -340,11 +256,7 @@ for i in range(10000):
         "type": random.choice(["Click", "View", "Like", "Share"]),
         "date": random_date(start_date, end_date).date()
     })
-# pd.DataFrame(interactions).to_csv(os.path.join(folder2, "2h_ContentInteractions.csv"), index=False)
-df = pd.DataFrame(interactions)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder2, "2h_ContentInteractions.csv"), index=False)
-
+pd.DataFrame(interactions).to_csv(os.path.join(folder2, "2h_ContentInteractions.csv"), index=False)
 
 # ---------------------------
 # 3️⃣ Reinventing How Work Gets Done
@@ -363,10 +275,7 @@ for i in range(10000):
         "date_submitted": fake.date_between(start_date='-6mo', end_date='today'),
         "status": random.choice(["Pending", "Approved", "Rejected"])
     })
-# pd.DataFrame(hr_requests).to_csv(os.path.join(folder3, "3a_HRRequests.csv"), index=False)
-df = pd.DataFrame(hr_requests)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder3, "3a_HRRequests.csv"), index=False)
+pd.DataFrame(hr_requests).to_csv(os.path.join(folder3, "3a_HRRequests.csv"), index=False)
 
 # b. FinanceRequests.csv
 finance_request_types = ["Purchase", "Invoice", "Reimbursement", "Software License"]
@@ -380,10 +289,7 @@ for i in range(10000):
         "status": random.choice(["Pending", "Approved", "Rejected"]),
         "date_submitted": fake.date_between(start_date='-6mo', end_date='today')
     })
-# pd.DataFrame(finance_requests).to_csv(os.path.join(folder3, "3b_FinanceRequests.csv"), index=False)
-df = pd.DataFrame(finance_requests)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder3, "3b_FinanceRequests.csv"), index=False)
+pd.DataFrame(finance_requests).to_csv(os.path.join(folder3, "3b_FinanceRequests.csv"), index=False)
 
 # c. ITTickets.csv
 issue_types = ["Laptop Issue", "VPN Setup", "Email Issue", "Software Bug"]
@@ -398,10 +304,7 @@ for i in range(10000):
         "date_opened": fake.date_between(start_date='-6mo', end_date='today'),
         "status": random.choice(["Open", "Resolved", "Pending"])
     })
-# pd.DataFrame(it_tickets).to_csv(os.path.join(folder3, "3c_ITTickets.csv"), index=False)
-df = pd.DataFrame(it_tickets)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder3, "3c_ITTickets.csv"), index=False)
+pd.DataFrame(it_tickets).to_csv(os.path.join(folder3, "3c_ITTickets.csv"), index=False)
 
 # d. Meetings.csv
 meetings = []
@@ -413,10 +316,7 @@ for i in range(10000):
         "transcript": fake.sentence(nb_words=10) + " Action: " + fake.sentence(nb_words=5),
         "date": fake.date_between(start_date='-6mo', end_date='today')
     })
-# pd.DataFrame(meetings).to_csv(os.path.join(folder3, "3d_Meetings.csv"), index=False)
-df = pd.DataFrame(meetings)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder3, "3d_Meetings.csv"), index=False)
+pd.DataFrame(meetings).to_csv(os.path.join(folder3, "3d_Meetings.csv"), index=False)
 
 # e. TaskAssignments.csv
 tasks = []
@@ -428,10 +328,7 @@ for i in range(10000):
         "deadline": random_date(start_date, end_date).date(),
         "status": random.choice(["Pending", "Completed", "Overdue"])
     })
-# pd.DataFrame(tasks).to_csv(os.path.join(folder3, "3e_TaskAssignments.csv"), index=False)
-df = pd.DataFrame(tasks)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder3, "3e_TaskAssignments.csv"), index=False)
+pd.DataFrame(tasks).to_csv(os.path.join(folder3, "3e_TaskAssignments.csv"), index=False)
 
 # f. ProcurementRequests.csv
 procurement = []
@@ -444,10 +341,7 @@ for i in range(10000):
         "status": random.choice(["Pending", "Approved", "Rejected"]),
         "date": random_date(start_date, end_date).date()
     })
-# pd.DataFrame(procurement).to_csv(os.path.join(folder3, "3f_ProcurementRequests.csv"), index=False)
-df = pd.DataFrame(procurement)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder3, "3f_ProcurementRequests.csv"), index=False)
+pd.DataFrame(procurement).to_csv(os.path.join(folder3, "3f_ProcurementRequests.csv"), index=False)
 
 # g. SystemLogs.csv
 logs = []
@@ -459,10 +353,7 @@ for i in range(10000):
         "event": random.choice(["Login", "Error", "Update", "Timeout"]),
         "severity": random.choice(["Low", "Medium", "High", "Critical"])
     })
-# pd.DataFrame(logs).to_csv(os.path.join(folder3, "3g_SystemLogs.csv"), index=False)
-df = pd.DataFrame(logs)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder3, "3g_SystemLogs.csv"), index=False)
+pd.DataFrame(logs).to_csv(os.path.join(folder3, "3g_SystemLogs.csv"), index=False)
 
 # h. KnowledgeBase.csv
 kb = []
@@ -474,10 +365,6 @@ for i in range(10000):
         "content": f"This is a guide for {random.choice(topics)}",
         "tags": random.choice(topics).split()
     })
-# pd.DataFrame(kb).to_csv(os.path.join(folder3, "3h_KnowledgeBase.csv"), index=False)
-df = pd.DataFrame(kb)
-df = inject_noise(df, dirty_level=0.2) 
-df.to_csv(os.path.join(folder3, "3h_KnowledgeBase.csv"), index=False)
-
+pd.DataFrame(kb).to_csv(os.path.join(folder3, "3h_KnowledgeBase.csv"), index=False)
 
 print(f"Mock datasets created in folder: {base_folder}")
