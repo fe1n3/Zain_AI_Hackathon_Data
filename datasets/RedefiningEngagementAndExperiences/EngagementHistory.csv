@@ -1,0 +1,2001 @@
+engagement_id,customer_id,campaign,channel,response,date
+f1a172e3-fb48-4114-9e5b-841e42d6d4e0,C00868,Campaign 47,SMS,Opened,2025-05-20
+db4c3e7c-3861-4aca-876e-a832cc041863,C00493,Campaign 28,SMS,Opened,2025-01-03
+eadad07f-2d6b-49e7-919f-3c71e2295732,C00892,Campaign 14,SMS,Ignored,2025-06-02
+f5365ad2-56f0-4f7d-8c78-b2063c0f4a5e,C00338,Campaign 3,Email,Ignored,2025-03-13
+42944d1d-2be8-4dff-8ec5-c34ee37e9d6d,C00283,Campaign 8,Call,Converted,2025-01-20
+06950031-1383-4214-bf65-7a1e3252671d,C00415,Campaign 24,Call,Converted,2025-06-16
+678d70a3-4041-4587-a3eb-9ee2177f8df0,C00835,Campaign 28,Email,Clicked,2025-09-17
+be274090-3d15-4c48-b33c-8030e772611b,C00716,Campaign 42,Email,Clicked,2025-03-18
+fa7d995b-d36d-4c23-ae38-d187a3d3ea27,C00020,Campaign 23,Email,Clicked,2025-02-11
+bea9b70f-34a1-4bf5-8efc-61582b01774e,C00543,Campaign 25,SMS,Ignored,2024-10-11
+ebc1298e-122d-4e9f-a2bc-8858d1667c65,C00512,Campaign 39,SMS,Opened,2024-12-31
+6bb432d5-6cff-41bf-8364-1bcf6a6f6cb3,C00641,Campaign 14,App Notification,Clicked,2025-06-20
+b9b36884-1d3e-4ce4-a3a6-4fff97206453,C00293,Campaign 4,SMS,Converted,2024-10-03
+a06c7fbb-984d-4665-9d6b-52c3cf1acb4a,C00994,Campaign 38,Call,Opened,2025-02-22
+4f3c25a9-e9c3-41e0-b224-caddbffcd2c3,C00089,Campaign 21,App Notification,Ignored,2025-05-04
+cc89edf2-25a4-4845-8fe2-8e64e1861212,C00693,Campaign 34,Email,Clicked,2025-08-04
+7db7b6d4-e9b1-4cf5-84d4-d7be10593a38,C00516,Campaign 31,App Notification,Converted,2025-04-30
+62c100a0-0977-4224-a0fa-bd52b336b54f,C00791,Campaign 22,Call,Ignored,2025-01-25
+c5d280a3-d979-4ce3-93d8-c83a6cbbcd70,C00101,Campaign 45,SMS,Clicked,2024-12-30
+024d15ae-94d0-4f2e-9999-5b011561de3c,C00522,Campaign 49,SMS,Opened,2024-10-31
+0091d90c-5184-4bab-aa29-1ea2e680159b,C00961,Campaign 13,Call,Clicked,2024-11-13
+6a521390-14d6-492a-b0e6-15ddfdae15b9,C00682,Campaign 48,App Notification,Ignored,2024-10-10
+0d7df548-c2f4-46f4-811b-1399e8e6f528,C00263,Campaign 25,App Notification,Clicked,2024-12-01
+8ed3f722-2a41-4511-bb08-74cdfb9bb71b,C00108,Campaign 43,SMS,Clicked,2025-08-29
+ca092da3-6a66-44a3-8a87-ba3e9ef8cf0f,C00251,Campaign 33,App Notification,Ignored,2025-09-23
+3a11e6ed-f640-47f7-82ed-9064dc2c57b7,C00874,Campaign 7,App Notification,Opened,2025-05-15
+0f614433-2c32-4d18-aced-c78b1ce1c6f0,C00631,Campaign 15,SMS,Converted,2025-04-14
+bf5e4ff4-43a7-4d69-9477-7effe378effc,C00758,Campaign 18,App Notification,Converted,2025-06-07
+5f368532-2419-49f4-8b9c-80b58c49767d,C00048,Campaign 5,Call,Converted,2024-10-07
+c34ac9c4-6520-4744-9e54-85b4764bc004,C00256,Campaign 15,Call,Clicked,2025-02-10
+c0a0b284-a2fb-42ac-907d-6f259ac13981,C00069,Campaign 4,Call,Ignored,2025-09-12
+29f71926-42e2-4eac-a006-50df81586381,C00198,Campaign 26,Email,Ignored,2024-10-05
+4931e526-1144-4386-a5b7-81340fc89237,C00302,Campaign 47,Call,Clicked,2024-10-25
+41e43181-22ec-4704-850a-2bd4d690d790,C00189,Campaign 31,SMS,Clicked,2025-02-14
+d799aa72-390b-48d6-b9c6-88b6a4426d1b,C00643,Campaign 3,SMS,Converted,2025-03-21
+8883bccb-d80c-400c-b49f-5b163f272313,C00169,Campaign 42,Call,Converted,2025-08-25
+5a9d7051-fad1-4340-b7e9-40751156bbed,C00322,Campaign 27,Email,Converted,2025-04-23
+ed361cfd-b462-4d76-84d1-52f02b6ea77f,C00712,Campaign 2,App Notification,Clicked,2025-07-29
+ddfce905-b56c-4e75-9956-614cbd67f6a9,C00518,Campaign 28,Call,Clicked,2025-05-01
+a8e1f988-52db-4103-b9ac-576d74fb2744,C00626,Campaign 24,Call,Converted,2025-03-15
+c0e6cc34-e538-49fe-b69d-74966fd33a32,C00885,Campaign 7,Email,Opened,2025-08-18
+80fbdb3e-9bda-498e-83cf-a636b3cbbe72,C00564,Campaign 37,SMS,Clicked,2024-11-25
+507bf7d5-570b-4c06-8759-d9d33ac8830d,C00724,Campaign 2,Call,Ignored,2025-03-25
+d21f98b3-a8fa-4545-b81f-62599324e145,C00515,Campaign 28,App Notification,Opened,2025-05-01
+357f6bb7-d4f1-4ac5-993f-017d88de4eef,C00370,Campaign 36,SMS,Clicked,2025-02-13
+4fd78fe5-7813-4d65-840f-fef46f3e91c9,C00600,Campaign 32,App Notification,Opened,2025-06-14
+962d639f-5e74-4fd0-8a55-1c6719864475,C00203,Campaign 45,Call,Opened,2024-12-12
+89159257-ac32-48ac-bad1-c44445c8bd55,C00116,Campaign 17,SMS,Converted,2024-10-31
+d13b1782-47de-4b59-8599-fa1b01231ab5,C00593,Campaign 7,Call,Clicked,2025-07-30
+3c838695-f9a9-40b1-8e40-b45c91de7297,C00676,Campaign 31,App Notification,Converted,2025-01-26
+0681b46b-bdf8-4a05-af03-bad8cef91891,C00559,Campaign 28,SMS,Ignored,2025-08-10
+8d31a34a-c47a-4b1c-9b06-492387de82bf,C00924,Campaign 21,App Notification,Converted,2025-05-13
+6210ab22-f6bd-43ed-a1fa-43b79e74f6a8,C00959,Campaign 18,SMS,Opened,2025-02-26
+6b4d01ff-9e0e-4838-9ac6-b76803dc2cb7,C00030,Campaign 27,SMS,Ignored,2024-12-10
+e83e5f59-77cf-4adf-ad2f-f8f14ea8356c,C00793,Campaign 22,SMS,Clicked,2025-08-25
+539f8e26-7c75-4cbe-a821-0dd90460154b,C00012,Campaign 13,App Notification,Clicked,2025-07-30
+0e93a664-164a-434c-abe1-bb09cc153371,C00680,Campaign 45,Call,Ignored,2024-10-26
+2a4a3149-63b1-45a8-a128-eb084a7c999a,C00416,Campaign 41,SMS,Ignored,2025-05-24
+a7c84fc2-d6a5-4625-8f90-af636133565c,C00763,Campaign 19,Email,Clicked,2025-01-06
+e05ef84f-05f9-41d7-86c1-f3a51a918771,C00520,Campaign 34,App Notification,Opened,2025-07-08
+9519fd53-5861-46fe-8705-3269dac76b00,C00298,Campaign 36,SMS,Clicked,2025-01-09
+c942f64c-fb90-49db-995a-ad4980700506,C00916,Campaign 39,SMS,Converted,2025-05-03
+5f9dc36a-67c0-48a3-9257-acfc3bf0229f,C00743,Campaign 11,Call,Converted,2024-12-20
+a412a983-46c3-42fe-8d15-191f28507334,C00519,Campaign 14,App Notification,Clicked,2024-12-22
+bada78c1-c387-48b9-b402-1562c5dba032,C00509,Campaign 38,SMS,Opened,2025-09-04
+727fc72b-d2ad-4cf7-89be-c81554b2b5ab,C00963,Campaign 33,Email,Clicked,2025-06-15
+ed317a02-ae8a-42c4-abd0-5c436ad7dd07,C00396,Campaign 43,Call,Clicked,2025-02-03
+e563a07d-7570-4825-929f-5692c6295554,C00921,Campaign 32,Call,Clicked,2024-12-14
+8f64bbc3-4083-4c1f-9c16-38d7e01faf0d,C00123,Campaign 1,SMS,Ignored,2025-07-18
+ba38397b-5a45-4a59-ba0c-1750cc84e414,C00045,Campaign 12,Email,Converted,2025-08-26
+2ba37cf7-1377-4abd-948b-ca0c279b0e4f,C00893,Campaign 15,Call,Clicked,2024-11-25
+be959b22-d159-49b5-b02e-9e7154b9a61d,C00511,Campaign 20,App Notification,Converted,2025-04-13
+cb09378a-753d-44dd-ab57-d09a4a5a4355,C00776,Campaign 17,Email,Converted,2025-04-28
+a8e03d6b-1511-45eb-8d27-23c3a3e5a05d,C00642,Campaign 40,Email,Ignored,2025-03-22
+da233c03-2b7e-45f2-85da-0a55531a5956,C00655,Campaign 34,Email,Clicked,2024-11-20
+a270f66c-c063-43cd-96c7-f3187af497d1,C00812,Campaign 4,Email,Clicked,2025-08-22
+af86ebc5-9007-41eb-8614-8c459f04b4eb,C00898,Campaign 6,SMS,Opened,2025-06-29
+e09b562b-53e7-45c4-ad98-4594fdf7fd26,C00061,Campaign 44,SMS,Clicked,2024-11-22
+7f10dc4e-65bc-4033-9fc9-ced7c95a9097,C00283,Campaign 36,Email,Ignored,2024-12-26
+ef8186dd-f340-4217-95b5-8085df98c494,C00938,Campaign 1,Email,Clicked,2025-04-18
+d1e71b50-0f6a-4d0b-a467-d1810d80107d,C00745,Campaign 16,SMS,Clicked,2024-12-15
+09bd7a03-44ea-4da0-96e4-2b52845a91f2,C00364,Campaign 43,Email,Opened,2025-03-03
+c275add5-4321-4314-8f6d-e5ab0f10ca9f,C00478,Campaign 50,Call,Opened,2024-10-26
+f0fbf9d5-1507-493e-b6e9-62b392027568,C00273,Campaign 19,SMS,Converted,2024-11-10
+bd634026-9071-400f-aa33-a75b24bc8ed7,C00728,Campaign 27,App Notification,Ignored,2025-01-19
+d64fe4e2-38ac-4bcc-91f6-3ceae391bb7f,C00387,Campaign 5,App Notification,Converted,2025-06-05
+fe41bb80-b508-432e-91b6-7a4b5738afe2,C00575,Campaign 37,Email,Ignored,2024-12-06
+7b6939aa-dee9-4590-9bb7-b369f10bf194,C00926,Campaign 45,SMS,Opened,2025-02-08
+9d726910-2938-4e5a-956d-faf13f667fc4,C00934,Campaign 26,App Notification,Converted,2025-01-06
+b9179626-217e-4b9e-8ff2-6dc71200b1ef,C00317,Campaign 32,Email,Clicked,2025-03-01
+0f3eb869-4568-4792-8592-6d6a2ae674ae,C00299,Campaign 33,Call,Clicked,2025-03-30
+ca64fd81-65da-473e-85bd-72f724075c74,C00618,Campaign 12,Email,Opened,2024-12-23
+1383c873-6859-4322-a298-cb7743723353,C00229,Campaign 34,SMS,Converted,2024-10-19
+7efb93f5-868c-4779-bf88-ba84994c284b,C00356,Campaign 28,Email,Converted,2024-12-02
+a694bbcf-2df7-4554-8572-917324d823b3,C00548,Campaign 41,Call,Clicked,2025-02-10
+e4a24c83-9a6d-4ea0-bf21-2de6596d9500,C00139,Campaign 25,Call,Converted,2025-07-24
+81f15677-b108-4ffa-b7f0-67e3a8b4fd7d,C00700,Campaign 40,Email,Converted,2024-10-09
+9cebac3b-f456-4c07-b63e-f9121a37846a,C00748,Campaign 37,SMS,Converted,2024-10-18
+ce2eaf6f-e262-4ebf-8df0-533f15c473f1,C00891,Campaign 29,Email,Converted,2025-02-11
+fc44347f-33cc-4e85-bec6-0206fe0ccfed,C00713,Campaign 25,App Notification,Converted,2025-07-24
+0fa7dff2-3b3d-4f8d-ad68-6f63cdaa047b,C00943,Campaign 19,Call,Ignored,2025-03-27
+163af696-4807-44b6-8ab8-59cf5fab1bfd,C00861,Campaign 39,Call,Converted,2025-04-05
+a716caa3-6b6d-4981-bff2-f59b4d260cb8,C00680,Campaign 21,Call,Converted,2025-07-15
+2e449b74-aa3b-4e3f-8de1-76796e0cf609,C00445,Campaign 31,SMS,Clicked,2025-05-29
+32ffdacb-eb04-4943-9ada-2cfaa165e72a,C00041,Campaign 30,App Notification,Clicked,2024-10-25
+8a5044fa-8da6-47db-a91c-b1d778a240a9,C00750,Campaign 27,SMS,Opened,2024-10-11
+111aba38-e893-471a-af24-aea128895932,C00672,Campaign 47,SMS,Converted,2024-10-05
+7c4b3a5d-6a5e-4b6d-ae07-5a693d83ff76,C00241,Campaign 15,SMS,Ignored,2025-06-16
+7fa8e271-69c7-4eb2-ae8a-8f00b923c990,C00479,Campaign 50,App Notification,Clicked,2025-09-02
+3d7ba806-7475-4919-b6ba-1b7ec87ab60e,C00949,Campaign 43,SMS,Converted,2025-08-02
+74c59b86-f442-49b1-83e7-13295791c5ee,C00511,Campaign 36,Call,Ignored,2025-02-09
+54b0e4d1-4c7d-4780-993d-736f5b69a0a6,C00460,Campaign 4,Call,Opened,2025-05-07
+e646928c-400c-486a-b541-47480ee465de,C00661,Campaign 35,App Notification,Ignored,2025-09-11
+ce50f223-54b0-4b87-9d06-82ba1c5f2444,C00861,Campaign 26,Email,Ignored,2025-08-05
+c582330d-5bb4-47bf-b3b9-0c474007c07a,C00160,Campaign 6,Call,Opened,2025-06-21
+0cef00fa-e6d8-4aee-9b9d-efd31c6d11e2,C00139,Campaign 5,SMS,Opened,2024-11-14
+50aca19b-92fe-4908-b44e-3c139fcfa0dd,C00004,Campaign 41,App Notification,Converted,2025-02-06
+89902d72-0c9f-4dca-9294-f2903c2b8927,C00697,Campaign 36,SMS,Clicked,2025-05-08
+b0ef0aa9-3130-41d6-a2a2-a2f8c04896a0,C00169,Campaign 46,SMS,Ignored,2024-12-24
+150e0203-e0f7-4b39-b239-f182a71df9ab,C00342,Campaign 50,Call,Converted,2024-12-08
+11e093c0-fbbf-4e72-bec5-e361adc043cc,C00634,Campaign 49,SMS,Clicked,2025-01-15
+561bc402-509d-49c4-8520-214ba7a2a01e,C00525,Campaign 34,SMS,Converted,2025-06-24
+24ac6fbf-05d8-466a-b6ea-21b7074b3e2a,C00834,Campaign 44,Email,Converted,2025-02-08
+ccdf321b-237c-4e70-aea2-57c20471f6f8,C00613,Campaign 47,Email,Clicked,2025-07-12
+480c8194-70a4-49e4-a2b0-99a503a2fcda,C00428,Campaign 9,SMS,Clicked,2025-06-13
+1f9054bb-ffc3-4d02-a1da-9cda51e02147,C00355,Campaign 48,App Notification,Opened,2025-06-24
+81cdb300-d0a1-44af-8e42-fce04c052884,C00792,Campaign 20,App Notification,Clicked,2025-03-17
+efaecf4f-eebb-4c06-9b7c-1a9e283d60f3,C00577,Campaign 32,App Notification,Converted,2025-08-21
+8fff2706-4920-4e3e-b58d-10366b896a2a,C00004,Campaign 41,App Notification,Converted,2025-09-19
+a930e8ac-4146-433d-bd1e-70b5bc194478,C00500,Campaign 8,Email,Converted,2024-11-12
+e437e125-d5d4-479a-a0f5-c703b27fd85f,C00773,Campaign 50,SMS,Ignored,2025-04-23
+95482893-2c9c-4fbd-8df5-cb673fcebaad,C00625,Campaign 34,App Notification,Converted,2025-01-05
+d336aae0-53c2-4225-9118-dbdf6fd0f672,C00246,Campaign 17,SMS,Converted,2025-03-17
+aaac9b8e-2af0-461c-9849-d5662b3b61b0,C00383,Campaign 47,Email,Ignored,2024-10-06
+c6654dc8-cc2f-481f-bd93-2d553a9885a4,C00107,Campaign 27,SMS,Converted,2025-09-09
+74361bf4-34cc-4b5f-9eb8-94b681daf504,C00988,Campaign 30,SMS,Ignored,2025-03-12
+8bd3a18c-5fce-4822-a92a-b70f1c95870a,C00012,Campaign 33,Call,Opened,2024-11-29
+c43a0895-fc82-48b2-87dd-619e43b42591,C00574,Campaign 43,Call,Clicked,2025-04-16
+ab7e5d6e-977c-430e-95aa-772be4ddf2e4,C00086,Campaign 46,SMS,Opened,2025-08-15
+f5fb1202-f426-4ced-96e7-6c80b7e42489,C00868,Campaign 7,App Notification,Converted,2025-01-11
+152201b9-f3a2-443c-9bb5-63049a752bfd,C00435,Campaign 29,Email,Clicked,2025-02-11
+9516af25-9ffc-4d8b-9574-cd12b9a89389,C00694,Campaign 40,Email,Converted,2024-10-18
+46bb7fc7-957f-4096-b34c-d20fb4f560bd,C00122,Campaign 30,Email,Clicked,2025-01-16
+fff12088-a824-49bf-a4c1-e751d1061f9b,C00275,Campaign 22,SMS,Clicked,2025-01-09
+c477f2be-405d-4466-aebc-2f804c6c46ab,C00488,Campaign 6,Email,Opened,2025-01-19
+0182fe50-958c-4dac-931d-56813cfe61bc,C00177,Campaign 6,SMS,Clicked,2024-10-05
+2b7cede7-5ed2-4e43-b7f1-e4dd1292a80d,C00569,Campaign 38,Call,Clicked,2025-01-12
+e0fcc819-e044-411a-ba71-6cac27fd71c9,C00321,Campaign 3,SMS,Ignored,2025-08-02
+89d0f972-7eda-4275-a02c-9f1686bcd566,C00395,Campaign 7,Email,Converted,2025-02-04
+0263cf5f-e3fd-430a-be63-cfbe4172020e,C00244,Campaign 19,Email,Converted,2025-07-09
+c3187da0-784d-4304-9682-15e6808a0c8a,C00921,Campaign 46,App Notification,Clicked,2025-03-21
+0b888619-c3b6-4dd3-98be-0c1dafff9235,C00286,Campaign 27,App Notification,Ignored,2024-11-08
+7390b6a0-6031-4fce-8d1f-738baf52b383,C00308,Campaign 21,Email,Opened,2025-09-02
+add788f4-9db6-487f-aeed-f607bfa4ec3b,C00982,Campaign 16,SMS,Ignored,2025-06-26
+c23ec6ef-24ac-46be-bd76-b4976c6bbe96,C00373,Campaign 38,Email,Converted,2025-05-16
+be2ef077-0b61-4c4d-a758-baba57fd84bb,C00813,Campaign 49,App Notification,Clicked,2024-11-09
+0eaaef12-0721-4240-b29b-13d480e5efcd,C00358,Campaign 42,Call,Converted,2025-07-12
+76200721-13a3-473e-aa81-07f04f411f39,C00199,Campaign 2,SMS,Converted,2025-03-19
+a29f76cd-d422-459b-884e-c551b609b146,C00205,Campaign 15,Call,Ignored,2025-03-24
+6c612b10-d9c1-4f9d-b378-3d654514deee,C00522,Campaign 26,App Notification,Clicked,2024-10-09
+1905c268-69e2-4b45-9b18-b7353f89621e,C00056,Campaign 29,App Notification,Ignored,2024-12-14
+7cc17b10-bf1c-47c6-8338-3c8a4c4e7e58,C00214,Campaign 21,SMS,Ignored,2025-04-26
+bee9dc23-af6b-421c-8d48-c31020a403ea,C00868,Campaign 42,Email,Clicked,2024-10-26
+7b3f17a5-599c-445d-84a8-6685e29f4041,C00581,Campaign 6,Call,Ignored,2025-01-20
+49e0767a-5866-4c20-bce0-2e4c2d6fc8b6,C00237,Campaign 26,App Notification,Converted,2025-05-19
+ebed4765-b62d-4b68-80b9-fc90b7b1dcab,C00021,Campaign 26,Call,Converted,2025-05-25
+c2a1c1bc-2020-47f7-9e84-27be33831088,C00865,Campaign 41,Call,Converted,2025-04-17
+e62c45cf-aff0-489f-bd69-2958664d0285,C00520,Campaign 41,Email,Opened,2025-03-26
+5ae501ca-f59f-43b4-971e-8a4deba10c2e,C00272,Campaign 5,App Notification,Ignored,2025-05-30
+6429b70b-e26f-40c9-a842-d2ed6c437ffe,C00154,Campaign 18,App Notification,Converted,2025-04-02
+5bcb7f2a-58f7-4937-91fb-02d1821234cf,C00282,Campaign 50,Email,Ignored,2025-06-22
+5d63e77a-5339-4570-b14c-2e0f1c1c9d60,C00222,Campaign 23,Email,Clicked,2025-07-26
+dc0f0505-14b9-41f2-aa99-326dad665a01,C00685,Campaign 17,SMS,Ignored,2025-02-25
+e4387607-950f-4500-bc5b-02578f470da9,C00753,Campaign 49,Email,Ignored,2025-01-12
+6baafc70-3d50-47aa-90cf-f4d20b0bccd9,C00041,Campaign 25,SMS,Opened,2025-08-31
+6846ebe8-4039-4216-a354-99763d2e029f,C00616,Campaign 46,App Notification,Converted,2025-05-15
+5ed8d093-e1f2-4d69-9194-a2fd57756632,C00373,Campaign 7,SMS,Opened,2025-01-16
+dd161c2d-1dd7-4760-a9cf-6200b2130031,C00940,Campaign 30,Email,Clicked,2025-08-21
+558f8562-9646-41ac-b501-3e0b3815dbf4,C00036,Campaign 20,Email,Opened,2025-02-23
+42c3badb-21b7-443c-aff7-306a3018e214,C00440,Campaign 50,App Notification,Opened,2025-08-21
+260a0a2c-82c1-47cb-931b-9633ee5cfbab,C00990,Campaign 34,App Notification,Converted,2025-02-07
+97ecec56-113f-4d7d-a772-7fb49b63cb40,C00729,Campaign 2,Email,Opened,2024-11-10
+b5828358-a428-4ea5-a533-f9daf2e4400d,C00663,Campaign 2,App Notification,Clicked,2025-02-28
+bd341081-d87d-4bf1-b377-fab1914839a9,C00953,Campaign 39,Email,Converted,2025-08-16
+b320c670-c282-4d05-96e9-e7658edbe792,C00880,Campaign 14,SMS,Opened,2025-08-11
+4dde4044-8dae-4332-bc70-01939469709f,C00675,Campaign 16,Call,Opened,2025-04-04
+81e9684e-d3c8-4150-80f0-2458923189e0,C00326,Campaign 38,SMS,Opened,2025-05-11
+32bd08a9-bd51-4fef-a889-ca28fd8afdc9,C00893,Campaign 36,Call,Ignored,2024-10-25
+0ef6ea60-3976-4904-ae01-c05e6cc37514,C00502,Campaign 48,Email,Clicked,2025-01-29
+4286e402-0d0b-4341-a081-662d7ea21411,C00712,Campaign 39,SMS,Ignored,2025-06-10
+d4ade022-e003-4105-9219-a03b63809bf6,C00588,Campaign 48,Email,Opened,2025-09-21
+d04ee137-58f8-4f4e-830d-0b0d2e30b8bb,C00524,Campaign 50,SMS,Clicked,2025-04-18
+2215ee0d-401c-4041-ac05-539e141de4d1,C00906,Campaign 2,Call,Opened,2024-12-19
+7b90b5dc-2257-4398-9ed9-2dcaf0f879c6,C00892,Campaign 16,Email,Opened,2025-01-05
+c4227968-b7ee-4510-aaad-ca47961ef83b,C00934,Campaign 42,SMS,Ignored,2024-09-27
+f918455b-342c-442e-a3f4-bc0f7ce43aec,C00373,Campaign 8,Call,Converted,2024-11-02
+d353a992-9217-4d2f-9729-7cc39b1ecc2d,C00585,Campaign 6,Call,Converted,2025-03-26
+ff06a77e-7779-4e7a-be64-3cd06cdd01bf,C00410,Campaign 8,Call,Clicked,2025-05-31
+5ce1d22a-862f-4417-963c-1eaf0458c132,C00504,Campaign 40,Email,Clicked,2025-05-26
+012263d7-6368-4eef-8ff3-266939e9b2a9,C00484,Campaign 10,SMS,Opened,2025-02-24
+03171354-3151-4408-ac7c-a24c26603c5c,C00234,Campaign 46,App Notification,Clicked,2025-02-22
+34c1fe22-786f-47f8-aacc-39c9592a0eeb,C00255,Campaign 47,SMS,Ignored,2025-05-16
+5fabaf5c-746c-4e6b-bd86-678b5a502701,C00212,Campaign 6,App Notification,Opened,2025-02-14
+c42f9691-2a8c-4b0a-8a11-9d95bb3db96a,C00361,Campaign 28,SMS,Converted,2025-05-04
+007a5deb-109c-4ffe-8ce6-34e74f340d8e,C00737,Campaign 9,App Notification,Ignored,2025-07-13
+f96e8963-d68d-446b-8226-7d71e13f53bd,C00715,Campaign 41,Email,Ignored,2025-06-10
+28cafb6b-be97-40e5-9aea-c80d379313d4,C00736,Campaign 45,Email,Ignored,2025-03-14
+20a14880-c09d-4a5d-b7ce-f3b904ba3313,C00107,Campaign 18,Call,Converted,2025-01-14
+71ca0be9-b59e-47cc-ac92-c8268615330c,C00093,Campaign 49,Call,Opened,2025-01-13
+34ff2d85-6185-47bd-bca9-4d04b1dc0fe3,C00545,Campaign 43,SMS,Clicked,2025-06-24
+b9813055-aefa-4e4e-a098-5aac532b26b5,C00550,Campaign 42,SMS,Ignored,2024-12-16
+14b379f4-69c4-461f-96cc-298d576f3527,C00293,Campaign 25,SMS,Clicked,2024-11-05
+26b81db9-c0b7-49f3-b0c4-bb2783cd578a,C00410,Campaign 13,Call,Opened,2024-09-28
+8a403e66-f9c0-4d6c-95b5-c13e3e2a6c08,C00613,Campaign 32,Email,Opened,2024-09-25
+d303e1df-db60-4a2f-ade4-7935d7d35684,C00536,Campaign 28,App Notification,Converted,2025-05-28
+816d6a1a-545b-4bc0-952b-4799b849acf1,C00900,Campaign 15,SMS,Opened,2025-05-25
+a94c0732-2384-4d67-b772-059569bf8828,C00223,Campaign 9,SMS,Ignored,2024-10-18
+a6418f79-eb21-48f1-b32a-ba4755b820c4,C00163,Campaign 28,SMS,Converted,2025-09-13
+1a5c8d43-b5cd-43e2-9067-374bdfe72d18,C00892,Campaign 36,SMS,Converted,2024-10-28
+c3198c13-80a4-4d6d-a9e0-53afee1c313c,C00525,Campaign 48,Email,Opened,2024-10-22
+07af644a-9a57-4b3c-8b90-2e507c03625f,C00349,Campaign 17,Email,Ignored,2025-07-17
+6c84a0fb-642c-4185-a336-565c3587701e,C00351,Campaign 9,Call,Ignored,2025-02-11
+b854ac7c-a6a3-44d9-a46c-a6f33a81481e,C00489,Campaign 23,Email,Ignored,2025-09-02
+81d28054-2cd9-4ba5-baeb-db284dc07f30,C00265,Campaign 30,App Notification,Clicked,2024-10-20
+f39fcb52-6a05-4569-a88a-a28e3f0b1c87,C00454,Campaign 28,App Notification,Opened,2025-07-31
+5616ecd5-47a6-4964-83f2-ab3f94de00b5,C00280,Campaign 18,Email,Clicked,2024-09-27
+7dc82ba2-af12-411a-ba28-521433781d0f,C00353,Campaign 30,App Notification,Clicked,2025-05-05
+a9fd4824-aaf7-42c1-ac4b-dccfb7958814,C00396,Campaign 45,App Notification,Opened,2025-05-02
+d52577e0-07e6-48fb-be40-ad33fce64e09,C00774,Campaign 23,SMS,Opened,2024-12-15
+a20879ba-5854-4a17-b7fd-39765c795f86,C00593,Campaign 16,SMS,Ignored,2025-06-02
+a8ff9d12-1b8f-4512-be05-2644aa924983,C00307,Campaign 18,SMS,Ignored,2024-12-06
+57cb90a8-bd59-4275-803d-2d9fb5e2ec2d,C00745,Campaign 24,Email,Ignored,2024-11-09
+b04c34b0-f3ee-4fee-b2be-22b6b0743f1b,C00327,Campaign 1,Call,Converted,2025-01-22
+95010ff8-191f-4163-9499-81fc739de36c,C00326,Campaign 17,Call,Opened,2025-05-13
+d40da43d-ce65-4f82-9033-e0580c24c81f,C00735,Campaign 35,Email,Ignored,2025-07-07
+671e72bc-5e80-49bf-8df4-ab5d3fe0dc3c,C00685,Campaign 29,Email,Converted,2025-03-26
+ca28e2e8-74c1-4e74-8fc4-350e8e31e669,C00434,Campaign 12,App Notification,Clicked,2024-10-18
+65e470e8-c5da-4672-9bad-fbc7b37550bb,C00107,Campaign 46,Call,Opened,2025-01-22
+9f61c06a-dab4-4a1d-9966-2bc648b6c36f,C00192,Campaign 2,App Notification,Opened,2025-01-08
+8020982d-127e-48b1-9a87-a83d8ab41c5b,C00676,Campaign 29,Call,Clicked,2025-02-01
+f4c98a79-9971-461f-b925-7691cca06420,C00266,Campaign 40,App Notification,Converted,2025-03-27
+2b53db56-e643-434e-80b6-838481f73718,C00169,Campaign 19,App Notification,Opened,2025-08-22
+53f835cb-12e6-4b9d-b689-ec1ae82ce1fc,C00440,Campaign 8,App Notification,Opened,2024-11-07
+7f249179-7114-41c3-b780-8893964c45fe,C00948,Campaign 34,SMS,Clicked,2025-02-22
+6663b1fd-3eff-40de-96d9-539c930838c1,C00331,Campaign 49,Call,Opened,2025-06-16
+70c236a1-5a1f-4e56-9b6c-1c9b68806cc4,C00746,Campaign 4,Email,Opened,2025-02-22
+e6f8498c-8215-486a-a33e-158958ac4a0e,C00022,Campaign 47,Call,Clicked,2025-09-23
+f259b3b8-b400-4f00-a245-ce5ff5745d4a,C00609,Campaign 33,SMS,Opened,2025-07-15
+914778f2-d6f5-47d0-9bc8-057a6300acd4,C00037,Campaign 38,SMS,Ignored,2025-05-21
+edd0a30f-b55b-47df-84d6-35b5a8139699,C00182,Campaign 41,Email,Clicked,2025-04-18
+db7fbf0b-e3ad-4629-8611-1161d089f2ad,C00663,Campaign 46,App Notification,Opened,2025-09-09
+db191a23-8fd8-4bda-8e0f-5193900ea001,C00201,Campaign 41,App Notification,Ignored,2024-12-29
+abc04be6-3090-4538-8be7-982fc758a01d,C00503,Campaign 37,Email,Opened,2025-08-01
+dbbe6d7b-bd87-4303-818a-de0ed07c6216,C00051,Campaign 47,SMS,Converted,2025-01-19
+fc9bca74-cf0c-44d8-956a-76de7af22f56,C00887,Campaign 50,SMS,Clicked,2025-02-20
+e1a42036-b8c9-4666-93aa-c08565247b14,C00172,Campaign 21,Email,Clicked,2024-12-20
+6fda9a90-d820-4cb7-893a-f2f78ad645c8,C00016,Campaign 44,SMS,Opened,2025-01-27
+bc9efcc5-c6e5-49a5-8436-720957061281,C00491,Campaign 39,SMS,Ignored,2025-09-09
+e5112515-b500-4bd1-88b1-c046ea66d601,C00858,Campaign 30,SMS,Ignored,2025-04-25
+98268773-5e14-4ea1-b28b-66261724b6a7,C00808,Campaign 40,App Notification,Opened,2025-01-28
+83fc4936-718f-4456-beac-26576678b006,C00173,Campaign 28,Email,Opened,2024-12-01
+b26c5ca2-9077-4460-b552-4ce5f232eeff,C00183,Campaign 11,App Notification,Clicked,2025-05-20
+5d56019c-c395-45ac-88c8-2153bdc261b4,C00565,Campaign 1,Call,Converted,2025-09-10
+30326c25-c1b1-4471-9755-c8eec1bd2af8,C00658,Campaign 3,Email,Opened,2025-02-11
+9444b5f8-1df5-4cb0-ac76-741d03e8685d,C00493,Campaign 50,Email,Converted,2025-07-06
+75ad3c06-a31a-45c4-a77b-e5e216430826,C00109,Campaign 23,Email,Converted,2024-10-05
+c6667ac0-8fda-499a-9b27-c7e1620337cb,C00556,Campaign 21,SMS,Ignored,2025-01-21
+b499e4e8-08ca-4a76-a8e6-33a63ad0482a,C00391,Campaign 1,App Notification,Opened,2025-04-06
+efa14175-fec8-4f57-8aa5-854d88efbb0d,C00979,Campaign 44,Email,Ignored,2025-03-03
+0770fc79-23cd-43af-ab3f-bc5d002efe44,C00120,Campaign 23,Email,Opened,2025-08-20
+a2466555-ed29-4e63-b936-f22ee736ff52,C00144,Campaign 42,Call,Converted,2025-06-11
+19a6914f-8c93-43f7-b097-f2708cf2d92e,C00986,Campaign 3,Email,Converted,2025-09-04
+e9b78309-c223-46cf-82eb-8a41286ef90a,C00990,Campaign 45,App Notification,Ignored,2025-04-23
+7a0b5af9-da38-4ab5-a561-6fee6d4ada4c,C00941,Campaign 8,Email,Converted,2025-02-27
+f1bae622-29f4-4fba-b160-481938476730,C00113,Campaign 24,Email,Opened,2024-09-30
+4b94b930-393a-4207-b19c-c375a599252d,C00416,Campaign 19,Call,Opened,2025-07-04
+e55447c1-fca7-4018-b94a-38c580d76c46,C00483,Campaign 9,App Notification,Clicked,2025-02-08
+75c299e5-003e-4fee-bba6-bf6f6ba7afdc,C00773,Campaign 7,SMS,Ignored,2025-05-16
+00a484e8-b24f-495c-a101-54b5944d58b2,C00617,Campaign 37,Call,Ignored,2025-01-29
+7d89c7f6-5373-44ab-9b6b-e908a8cb54c3,C00534,Campaign 45,SMS,Ignored,2025-07-15
+319c016c-d8b5-4dca-9caa-ffc4d6c8460f,C00779,Campaign 15,SMS,Converted,2025-04-27
+51514c47-08b2-4461-ba72-ee507d36df8e,C00554,Campaign 43,Call,Converted,2024-12-28
+99dd89b0-3383-498c-b359-f4e9d1965e63,C00077,Campaign 22,App Notification,Opened,2024-12-22
+98d47d41-b9ce-4c5e-8052-6aad6478eb55,C00829,Campaign 47,App Notification,Ignored,2024-09-26
+577aeaea-fe9b-428a-be21-481af23ef5f3,C00823,Campaign 32,Email,Ignored,2025-01-01
+a75f98b2-8cbc-4197-a4ee-966b6cfb238d,C00450,Campaign 43,Call,Clicked,2025-04-06
+b7fb86e0-3db7-4d9b-b788-1d98bf0b24c8,C00046,Campaign 30,Email,Clicked,2025-05-23
+f7d5d21a-8479-4783-9a91-c613c14b2bad,C00760,Campaign 42,Email,Opened,2025-03-26
+d98ec79f-0ee1-4330-9fe0-03e188a71b2a,C00376,Campaign 13,SMS,Converted,2024-11-21
+22f81d53-1832-4fb0-bb24-27c0365c4100,C00835,Campaign 15,App Notification,Opened,2025-09-13
+d6d09532-6c23-4304-ad14-b808cd017fed,C00118,Campaign 41,Call,Opened,2025-08-12
+fc042db2-45a9-497d-90f4-e18b20b62ec4,C00207,Campaign 18,Email,Ignored,2025-03-24
+afb9442e-0c77-47e1-a503-99b78225eb62,C00772,Campaign 41,Email,Ignored,2024-10-05
+4e4c8439-0d3f-4981-8403-a4dc53e956d3,C00329,Campaign 35,Call,Converted,2024-09-29
+62d7cd82-4b3b-4c25-8792-969917331a6b,C00254,Campaign 8,App Notification,Opened,2024-11-07
+77833414-c997-475c-9bbf-de4b50c38b53,C00555,Campaign 30,Email,Converted,2025-07-02
+1201c616-068c-4bff-8a77-75af0353b678,C00113,Campaign 5,App Notification,Ignored,2025-08-25
+e3938d98-f757-407a-8e3b-8325abe8e840,C00150,Campaign 8,Email,Ignored,2025-08-28
+81a7e180-84e0-4188-b5aa-a1ea7364011a,C00627,Campaign 17,Email,Opened,2025-09-02
+eaecbc66-70e7-44ce-a47a-1cb141f43f35,C00743,Campaign 46,Call,Ignored,2025-06-28
+ba7c9fc7-4f1c-4a2d-a17c-61433b56c170,C00688,Campaign 38,App Notification,Clicked,2025-03-24
+c0d42bd1-66e1-4d47-9834-62c23e778b42,C00488,Campaign 14,SMS,Converted,2025-04-21
+f82bb285-a2df-4b1e-92e0-75f2d1fdf3a6,C00670,Campaign 25,Call,Ignored,2024-10-05
+35ee5414-1ac9-43d0-86bb-3af69ab8d051,C00562,Campaign 8,App Notification,Opened,2024-11-02
+9342f3eb-f241-4a41-9165-9f1b87f815f6,C00091,Campaign 14,Call,Ignored,2025-02-09
+24b93e10-3812-4f8a-860f-9df61153b5bf,C00024,Campaign 49,Email,Clicked,2024-11-02
+4b360565-59a3-4d2e-8365-d0cdf584be70,C00581,Campaign 35,Email,Clicked,2024-11-09
+40cc69ef-a32c-476a-8aa3-f160a9091f18,C00846,Campaign 7,Email,Converted,2025-05-21
+a158a2bb-5bc4-488f-acd6-32f9b5b0a760,C00254,Campaign 36,SMS,Opened,2024-10-18
+953a8bfb-e72a-4c39-b76a-e8a4162a8923,C00281,Campaign 18,SMS,Opened,2025-05-22
+99e5dd70-5a76-4315-8175-4cf33241f4f0,C00394,Campaign 23,App Notification,Ignored,2025-01-11
+4b36ed31-93ec-4d9d-83af-c024bf7c36cc,C00083,Campaign 43,Email,Converted,2024-11-23
+d36085f9-1024-4401-885e-2f0c93d151b4,C00513,Campaign 42,App Notification,Ignored,2024-11-29
+9ff6860d-9f17-40cd-b2cf-a21490914ba1,C00067,Campaign 29,Email,Ignored,2025-06-21
+aee8e8a2-ba8b-426c-894e-539a96f1cfa7,C00292,Campaign 16,Call,Clicked,2024-12-16
+8ecd6d69-3f35-4134-a3b7-b8bbc5879378,C00914,Campaign 42,SMS,Ignored,2025-04-10
+fcbcdcb9-6b32-448f-adeb-efda7299bb11,C00376,Campaign 39,App Notification,Opened,2025-03-14
+fe660984-0949-4c74-ae21-fa38da42f2e2,C00030,Campaign 19,App Notification,Clicked,2025-05-13
+ba587f10-d76f-42d6-aa52-52c8d4d608b4,C00538,Campaign 3,Email,Clicked,2025-04-03
+fecf7c8b-e572-4166-91f7-6592f01b6963,C00979,Campaign 1,Call,Ignored,2025-07-27
+f2f0d3b7-c7f6-4583-b3b7-178be4ed2829,C00411,Campaign 40,Email,Opened,2025-07-25
+906dc63b-3663-4891-a5cd-6b4b044621ae,C00193,Campaign 13,Email,Converted,2025-05-05
+37c629a4-8cd4-49a2-b86b-203ef94941a0,C00482,Campaign 38,SMS,Converted,2025-04-07
+b320f238-ab4b-45d4-8a4a-52c14969c421,C00819,Campaign 25,App Notification,Clicked,2025-05-20
+82b251f1-1994-47eb-872e-1da90577027d,C00781,Campaign 45,SMS,Clicked,2024-12-04
+c1981ea6-b0c9-4ab0-a93c-89153d2331be,C00458,Campaign 23,Email,Ignored,2025-04-20
+df628f0b-9f9c-4f6f-a236-2afd345bfbb2,C00578,Campaign 37,Email,Converted,2025-06-01
+2e2c1b81-022e-483f-b4a5-1555729d83e7,C00285,Campaign 2,Email,Clicked,2025-02-11
+2ab64bad-8282-46bc-be0b-087a61c2d66b,C00385,Campaign 29,Email,Clicked,2025-08-11
+eef39e93-5926-491b-9f56-278d78cffea4,C00590,Campaign 7,Call,Converted,2025-01-15
+1e021d08-5361-4570-8d09-d7511470b624,C00379,Campaign 7,Email,Ignored,2024-12-14
+13e2c5ee-1afe-44f8-9dfb-b48ed32cdaf0,C00620,Campaign 11,Email,Converted,2025-07-18
+5753a760-0e75-4fbe-aa3a-e8648265133c,C00337,Campaign 14,Call,Ignored,2025-03-03
+73cb3761-d79b-488e-a7ef-124372f6ab54,C00594,Campaign 18,App Notification,Ignored,2025-03-23
+b44ffb05-fccf-4f73-a2f7-e75997c9522b,C00730,Campaign 35,SMS,Opened,2025-07-07
+8d7be55d-8f05-45d9-aa36-6c3ad0134e67,C00088,Campaign 34,App Notification,Converted,2025-05-04
+3a48815a-dfe3-4280-888a-e658c363a714,C00395,Campaign 47,App Notification,Ignored,2024-10-15
+fb897092-f85a-4197-87d9-bb9327f537f6,C00906,Campaign 37,SMS,Ignored,2025-09-21
+4512aa6e-7017-4842-8dc7-9d1f51d0a242,C00941,Campaign 30,Email,Opened,2024-10-06
+e87c4905-c09d-42be-9fce-91c380e428e6,C00788,Campaign 27,Email,Clicked,2024-11-30
+358f0fc8-034f-4ced-9601-83c2adf8a9c2,C00481,Campaign 41,Call,Opened,2025-02-23
+87a53205-7d22-46af-b01a-9eaf60c949b5,C00181,Campaign 4,Email,Converted,2025-03-19
+2b749593-a4b6-414f-9f35-bb449839e643,C00041,Campaign 41,SMS,Clicked,2024-12-30
+edc6da13-a992-4808-b8de-c02e98db780d,C00503,Campaign 41,Email,Converted,2024-11-27
+e164d172-c02a-4cc7-9773-567b52d95cce,C00757,Campaign 28,SMS,Opened,2025-03-13
+48244d07-67a5-4874-ac65-d11e3078c642,C00988,Campaign 46,SMS,Ignored,2025-04-22
+423e5555-f2b1-4b9b-ba04-166d6a097adb,C00344,Campaign 34,Email,Clicked,2025-06-06
+4f261681-bebe-4a42-b1c3-26c01841305e,C00663,Campaign 48,Email,Opened,2025-01-17
+2d7d9f25-c3f8-43cc-9b3c-f9fe73de1685,C00756,Campaign 29,Call,Converted,2025-02-01
+ce87f4f5-f8f9-40ca-8cea-2f3db81bebe9,C00101,Campaign 24,Email,Clicked,2025-01-10
+84a94794-d2d7-4444-b2fa-7c48cf958494,C00461,Campaign 33,App Notification,Ignored,2025-04-06
+23b6015b-52b9-4b49-9b27-58c1fbac52ab,C00130,Campaign 17,Call,Converted,2025-06-14
+9a81d73f-f2b9-4927-97f8-6146a79a19eb,C00446,Campaign 45,Email,Clicked,2025-04-21
+d0fdc10f-1ccc-4c5d-b50a-cebf0c6c810d,C00261,Campaign 43,SMS,Ignored,2025-04-02
+eced079e-c30b-47f7-9aae-b709f2c26922,C00623,Campaign 29,Call,Ignored,2024-10-31
+6ecab5d0-bc5e-4371-908e-7f131cba4396,C00509,Campaign 6,SMS,Ignored,2025-03-17
+8b1f48b9-3b72-4f18-898f-89a93fe97204,C00263,Campaign 20,App Notification,Ignored,2025-08-06
+6d85efcc-75bf-469d-91dc-3fb51316de55,C00817,Campaign 29,App Notification,Clicked,2025-01-06
+097de460-fe41-4eb2-be93-f9de6ba3414c,C00610,Campaign 26,Email,Ignored,2025-05-19
+c03b6576-69e8-41b5-a938-866d0f6ecf5d,C00588,Campaign 40,Email,Clicked,2025-08-06
+f8764c84-025d-48b8-8834-ed4cfd6a6562,C00850,Campaign 43,App Notification,Clicked,2025-05-04
+35a303aa-bc38-45c6-8106-764933c83423,C00710,Campaign 38,Email,Ignored,2025-09-22
+42596a86-392c-457e-9538-73c8dc06f2d6,C00311,Campaign 42,App Notification,Ignored,2025-03-01
+c2682e39-2d6f-49a6-8f7f-0d86b3da2bee,C00877,Campaign 37,Call,Opened,2025-03-20
+0d3702ba-6da6-471e-b3fc-752d82575b1b,C00665,Campaign 48,App Notification,Opened,2024-12-23
+bedc140f-bf1e-4b91-8c98-0eeca027a9a4,C00849,Campaign 8,Call,Ignored,2025-08-19
+3db51e16-b02a-4367-b3e7-754860776e15,C00253,Campaign 36,Call,Opened,2025-08-02
+26963ba4-93fd-4ccd-8a5c-e7c2c7055e8d,C00814,Campaign 38,Email,Converted,2024-12-22
+5c0c7c79-e2bf-475a-b8b8-bb209fa8b479,C00923,Campaign 26,Call,Converted,2024-11-13
+0db880a4-73ba-4147-922e-9584c4f149d2,C00498,Campaign 23,SMS,Ignored,2025-01-26
+dfb0aef2-e171-4e4d-9d13-475151194e38,C00660,Campaign 20,SMS,Clicked,2025-01-25
+f045ef28-87cc-4f07-9a6d-46d1787344ab,C00991,Campaign 16,Email,Ignored,2025-09-07
+8910ec5c-313f-471e-a705-8dfa222b88d5,C00493,Campaign 38,Call,Clicked,2025-04-11
+cdd96308-33d8-4d67-a3cc-4e45d2ea488d,C00415,Campaign 23,Email,Clicked,2024-11-23
+bd2e2920-ad5f-4634-bed0-955144f3b3b7,C00135,Campaign 18,App Notification,Clicked,2025-08-09
+60a63432-16b3-49cf-b6c7-de9925354142,C00815,Campaign 31,Call,Opened,2024-11-03
+63c24fd0-abf5-412c-bf58-4c3b867c564c,C00447,Campaign 15,App Notification,Clicked,2025-07-03
+82e13537-b022-44a6-adff-0b3bb71b0d2d,C00692,Campaign 40,Call,Clicked,2025-08-22
+76730d11-ef7e-401b-947b-3f4a60b9b40c,C00896,Campaign 7,SMS,Opened,2025-09-09
+b92cbf8a-6aff-4cb0-bb3d-214c403d6ce6,C00471,Campaign 8,Call,Converted,2025-07-15
+37318eda-ff66-4f94-a46b-a2a0f3e27bb3,C00176,Campaign 14,SMS,Ignored,2025-05-13
+8e7763a6-af3d-48ee-b588-bdf7064b3b81,C00185,Campaign 27,Email,Clicked,2025-01-28
+8f6d9e14-7836-4506-8773-b37ffe5b0a42,C00473,Campaign 41,Call,Opened,2025-06-28
+2f77bd64-b1ef-4a3f-9ec9-6bd4c0899405,C00880,Campaign 27,App Notification,Ignored,2025-02-22
+de29137f-fdaa-4cf5-921f-caca1892533f,C00518,Campaign 5,SMS,Opened,2024-12-02
+27af31ec-9c57-4fdd-8be9-18381f73440a,C00812,Campaign 28,Email,Opened,2024-11-28
+171c5ab2-47d0-43ad-b390-6c609268c73d,C00344,Campaign 42,App Notification,Opened,2025-07-03
+eee38535-2cfa-4cd0-b687-f303b6752086,C00845,Campaign 29,Email,Clicked,2025-09-11
+c0f06059-82ab-448e-a3b6-22c339114cb2,C00688,Campaign 36,SMS,Opened,2025-06-06
+ffb4fed3-c3a8-48ae-b064-bbebddf65add,C00208,Campaign 42,SMS,Clicked,2025-08-03
+af69789b-3d9b-4ef6-9938-72752f7853db,C00053,Campaign 11,App Notification,Opened,2025-04-24
+e953dea6-1844-4d16-bb7a-eef7de1731e3,C00045,Campaign 18,Call,Converted,2025-03-26
+47386d66-5e38-4b9c-977b-5aaf464a867c,C00752,Campaign 20,Email,Converted,2024-10-17
+517bf372-2a08-421f-9ce8-12828a062575,C00097,Campaign 35,App Notification,Opened,2025-04-09
+ea951de8-ec26-40b4-a347-f95a87a3678d,C00239,Campaign 8,Email,Ignored,2024-12-20
+0d19364d-00eb-410e-840c-f33a42e32c21,C00414,Campaign 19,SMS,Ignored,2025-08-15
+072a5b8c-3983-4fbf-a6ff-8fe358df3df6,C00871,Campaign 27,SMS,Converted,2024-12-07
+2691d2aa-814d-467e-a894-550dea33f408,C00348,Campaign 13,Email,Ignored,2025-02-28
+4d81faed-aaf0-4f7e-938d-de3030d738c3,C00556,Campaign 16,SMS,Converted,2025-08-08
+725ffd6f-fbdd-49cf-8ef0-22e1025283ce,C00295,Campaign 37,SMS,Clicked,2025-04-24
+615b8f41-f383-4772-8bf2-24aec1484484,C00353,Campaign 10,Call,Ignored,2025-02-02
+cb0f88af-d40c-4c1e-ad37-c6a719aac0a6,C00373,Campaign 34,Call,Clicked,2025-03-27
+23a7f781-a77c-409c-afca-abddb6bb123c,C00388,Campaign 25,SMS,Opened,2024-10-27
+cb339b05-bd38-4791-878a-bc0f25d38ae0,C00736,Campaign 4,SMS,Opened,2025-02-05
+d9b60b28-2c30-4392-aaf6-a9a5864639ae,C00165,Campaign 7,Call,Clicked,2025-04-09
+62cc9d22-5050-47ae-8947-7895e83fc4fd,C00478,Campaign 1,Email,Opened,2025-01-08
+70316939-4c4d-4aa7-b5d7-fe5da0070063,C00891,Campaign 6,App Notification,Ignored,2025-02-12
+d2f206f0-861b-4272-ae19-f157af6abe30,C00502,Campaign 17,Email,Opened,2025-08-09
+0531611f-35fd-433c-acc2-3f4089cbc746,C00971,Campaign 49,App Notification,Clicked,2025-04-23
+707a0a47-8b5c-47f1-9c8b-4dd8d9dda547,C00183,Campaign 7,SMS,Opened,2024-11-27
+a3ce8cd6-a6ac-412e-8a9a-c89d99158a3d,C00298,Campaign 1,Email,Converted,2025-01-07
+aa14c93b-e007-44d8-aed3-18fc778237fb,C00589,Campaign 46,Email,Ignored,2024-12-11
+33cdb1a9-6589-433f-93fa-0b2235971f2f,C00273,Campaign 45,App Notification,Ignored,2024-12-22
+632f96e5-4b23-4180-8dda-192cda1817d8,C00904,Campaign 31,Call,Converted,2024-10-09
+64e5cdc7-be85-400c-a85e-db0278163f76,C00951,Campaign 38,Call,Opened,2025-09-13
+03a7f3d8-c4fd-464e-839f-4d7a26f9c85d,C00353,Campaign 13,Call,Converted,2024-12-19
+67bcde05-e3fb-48a3-b374-a71d351db817,C00854,Campaign 7,Email,Converted,2025-01-16
+cf584f82-d34b-49eb-83fc-2d740c91ea34,C00126,Campaign 48,SMS,Clicked,2025-01-05
+48027861-7fe6-4c2a-aae0-a512e2e30eef,C00234,Campaign 20,App Notification,Converted,2025-04-20
+ce987f1c-6ee0-4d27-971e-3893a1b65553,C00709,Campaign 18,Email,Converted,2025-09-24
+b515d58c-a6e9-4577-9a6d-8271410e78b0,C00349,Campaign 25,App Notification,Opened,2024-12-14
+3a8e934e-08d9-4ac1-ae08-2b55ff4a2a25,C00214,Campaign 1,Email,Opened,2025-09-04
+b08e7345-f364-416f-b69c-c4fe0fa1d48b,C00190,Campaign 19,SMS,Opened,2024-10-29
+6016a380-c4c3-41e2-bc20-575d697c04e3,C00237,Campaign 29,Email,Converted,2025-02-28
+24c80949-f899-435f-8071-e0b3fc176efb,C00395,Campaign 20,SMS,Opened,2025-04-03
+4e57ca01-5172-4688-964b-40b85ce2a1cf,C00678,Campaign 47,SMS,Ignored,2024-10-20
+a2baad72-888e-452c-80ae-5c84c0088c3e,C00939,Campaign 6,Call,Opened,2025-01-23
+da815f02-ed2a-490c-a9ee-043c9d85b47a,C00940,Campaign 5,Email,Clicked,2025-09-07
+932f1565-e522-42ae-a9af-f7f526fabe7d,C00325,Campaign 9,SMS,Converted,2025-01-30
+a2444fd3-1aa5-453b-9668-ad5cc388e5e6,C00771,Campaign 1,SMS,Clicked,2024-09-24
+146db200-6d4f-4f52-86ec-a9ed4fec41b2,C00432,Campaign 31,Call,Ignored,2024-10-07
+6a216452-c62d-4e22-bb80-7727bb2a4f05,C00129,Campaign 4,Email,Clicked,2025-06-24
+0f64f445-ca56-4558-a8ea-3f89bd61c466,C00511,Campaign 49,SMS,Clicked,2024-11-29
+4bd362de-0191-4e38-a419-3e5263b40bb1,C00042,Campaign 5,Email,Clicked,2025-02-24
+7133dbef-1a99-41a4-a31b-c1cd04809cfc,C00032,Campaign 44,App Notification,Converted,2024-12-28
+82d8426f-3302-478c-95e3-5bb6a8fdc8ef,C00037,Campaign 4,App Notification,Opened,2025-07-24
+d2a4c168-e8b5-47fa-9b1f-b09d9fcf799c,C00664,Campaign 3,App Notification,Ignored,2025-06-14
+e6ca51f9-2254-4864-9215-f840e42634c1,C00848,Campaign 25,Call,Converted,2025-01-16
+6a9a0de2-061e-4d52-b6e3-2b431295594c,C00728,Campaign 23,Email,Clicked,2025-02-13
+49b32ce4-8b5a-4b7b-8bb2-44fd7dd9ec07,C00206,Campaign 36,App Notification,Opened,2025-01-18
+38898d3e-ee0e-4646-9fa6-e55f787bc08c,C00484,Campaign 44,SMS,Opened,2025-07-31
+6e3a1031-137e-4367-a8bf-dd7025c2a5a6,C00471,Campaign 50,SMS,Opened,2025-01-29
+aeec67d5-e942-4749-ad7d-bd6bdff64a52,C00756,Campaign 39,Email,Opened,2025-01-02
+865b611b-c631-4c59-b622-333ee59be1f3,C00349,Campaign 14,SMS,Ignored,2025-04-21
+41162025-be16-4325-841d-9b2c58b72ea4,C00275,Campaign 34,Email,Converted,2025-07-31
+ccdd5f94-1386-4312-b5fe-86f103949320,C00792,Campaign 27,Call,Ignored,2024-10-18
+76cc4aa5-afe0-458c-83eb-7741eccd1c0e,C00474,Campaign 31,Call,Ignored,2025-06-27
+06236fcc-5ff6-4cdc-840c-1c139dd5e38a,C00320,Campaign 14,App Notification,Opened,2024-11-24
+fd8f6988-0689-4c9b-a8a5-c8c3a945ed30,C00568,Campaign 37,Email,Ignored,2025-01-28
+d72d34b6-07ca-4902-bfc0-5ea7ee1d1945,C00434,Campaign 16,Email,Opened,2025-02-26
+8a77a760-40a9-4e54-9823-1f4771cb2ed8,C00895,Campaign 42,App Notification,Ignored,2025-01-26
+32fecd85-a834-4687-b8ed-96c5ee1a7dcd,C00701,Campaign 16,App Notification,Converted,2025-07-05
+41359f08-14a0-4222-8392-d7197fe6d534,C00268,Campaign 38,Email,Clicked,2025-03-09
+41665491-5b59-434d-9119-1c04c2a6b7be,C00416,Campaign 3,App Notification,Converted,2025-06-20
+eb4ace2e-901a-487a-abb3-4bc010e49202,C00558,Campaign 44,Email,Opened,2025-07-13
+4aeed506-2a74-4f92-b1eb-8a398d6a4c9c,C00149,Campaign 11,SMS,Ignored,2025-06-26
+017b3a09-2817-4d6b-ad82-8a379438acf8,C00696,Campaign 18,App Notification,Ignored,2025-07-21
+abe5b1fc-f54d-4238-81f5-0ad52e0e1a69,C00465,Campaign 43,App Notification,Ignored,2025-08-19
+a750b8bb-c940-4d8b-9b46-118f127d556d,C00538,Campaign 23,Call,Ignored,2024-11-29
+ffd93180-dc09-455e-9625-82cd824e8c95,C00309,Campaign 22,Email,Ignored,2025-05-30
+70c3c87f-d841-4480-9c54-634123814cdc,C00182,Campaign 8,App Notification,Converted,2025-08-09
+f8e16640-1ec5-4f22-80ea-f9918c2bcb77,C00144,Campaign 40,Email,Ignored,2025-07-19
+2a8f00c1-6e1b-4522-9b76-86fc6ac425a3,C00136,Campaign 25,Email,Converted,2025-01-24
+c25dc90c-53de-4bdf-99dd-98840ba50912,C00066,Campaign 15,SMS,Clicked,2024-10-14
+b6637a23-fca2-42b1-ba5c-7106bc96646a,C00277,Campaign 15,SMS,Converted,2024-11-12
+10380e2d-99a2-482b-ab04-95e3bff53abe,C00413,Campaign 19,Call,Clicked,2024-12-17
+0dde8a72-3d15-47e3-8b9b-d1da99cd0467,C00965,Campaign 50,SMS,Opened,2024-12-23
+2b343a99-c01a-40d5-b020-b6edf6d6c356,C00751,Campaign 39,App Notification,Ignored,2025-02-04
+7c810923-2b1b-40e6-8173-57a6bdeb220c,C00271,Campaign 24,SMS,Ignored,2024-12-24
+c9cfcefb-26e6-43f6-9067-cc1b65be2ecd,C00742,Campaign 37,Email,Opened,2025-09-15
+f5d51826-817d-46f7-baf8-77858fa7c6c2,C00453,Campaign 12,Email,Converted,2025-01-05
+ee7e7fec-e99f-4644-8239-064b0c1a13b8,C00814,Campaign 30,Call,Opened,2025-09-06
+3b624a30-d6fc-4e68-adde-1b86f82ed407,C00062,Campaign 40,Call,Clicked,2025-03-19
+35e274e1-41c3-4685-9ad2-de25649aa3e6,C00247,Campaign 40,SMS,Ignored,2025-04-30
+d7cd52cd-2784-4066-8419-b3999784dbb8,C00410,Campaign 36,Call,Opened,2025-06-18
+864896a5-bcc4-42a6-9b3a-910cc1ec8152,C00053,Campaign 46,Call,Ignored,2024-10-01
+85d2152a-06bb-40af-bc3f-3a32398a2b0d,C00992,Campaign 14,Email,Clicked,2025-02-21
+49986f5a-1895-485b-9235-a4e141316886,C00780,Campaign 43,SMS,Opened,2025-04-15
+20c75691-d459-48b6-beec-3946a7c5b775,C00530,Campaign 44,Email,Opened,2025-04-28
+cfe84ae2-51bf-4d1d-83ed-79b20bfb997c,C00905,Campaign 47,App Notification,Clicked,2024-10-01
+d47299d3-c102-4af7-8ea6-5f18f97f3594,C00454,Campaign 16,App Notification,Ignored,2025-01-01
+7ede2ade-dadd-4874-82db-38b4abcb482f,C00348,Campaign 1,App Notification,Clicked,2025-05-23
+d615a47c-0719-4de9-95a5-286255a70768,C00401,Campaign 33,Email,Ignored,2025-01-17
+361e8d10-e94b-4e51-a010-dd308e9db261,C00097,Campaign 44,Email,Ignored,2025-03-13
+9d420b44-0f31-40d1-9ad2-61a62b9f0948,C00425,Campaign 9,Call,Ignored,2024-10-13
+7874047f-41d4-42ec-89f7-fdc540cd7029,C00405,Campaign 50,Call,Opened,2025-04-21
+b11ac9f2-1b72-4f10-9168-74263b43e0e2,C00074,Campaign 31,Call,Opened,2024-10-20
+405d5951-f08d-4f0b-bc03-489b1ff7c119,C00692,Campaign 30,SMS,Ignored,2025-08-02
+b5c436ac-334e-4614-8791-6b950287df88,C00236,Campaign 33,Email,Ignored,2024-12-26
+e3c10d30-adfa-4787-8722-b46f64fcf169,C00276,Campaign 24,Call,Ignored,2025-03-27
+87ab47a5-f2b4-4112-aa54-d0f346ec2a4d,C00086,Campaign 46,App Notification,Converted,2025-02-15
+c11a9891-7c9c-45e9-aef5-5c51ac98ecb5,C00352,Campaign 14,Email,Clicked,2024-12-09
+994fe7dc-4733-4442-87de-1e994b349a3f,C00304,Campaign 17,Call,Opened,2025-02-09
+71469676-0141-4af2-b214-b9e16085811b,C00250,Campaign 35,App Notification,Ignored,2024-11-12
+0edc6da4-bac7-4d06-a0e1-ced764cd53f0,C00333,Campaign 19,App Notification,Clicked,2025-07-01
+784f8644-cb80-471c-a1b3-8e0dd9e85486,C00092,Campaign 9,SMS,Opened,2024-12-29
+1b0a292a-8eee-4480-81b5-c87625e20097,C00076,Campaign 40,App Notification,Clicked,2025-04-10
+981e4818-844a-40bb-afb5-0df63165ddc1,C00210,Campaign 6,SMS,Clicked,2024-12-10
+d716f3e2-5b07-4521-a762-be9fa3b039f4,C00983,Campaign 23,SMS,Clicked,2025-08-03
+f1b1a675-adaa-4c1e-8892-0a64ca5f5329,C00567,Campaign 37,SMS,Clicked,2025-04-26
+37482c59-4e5e-401f-8137-1bc64833b94a,C00580,Campaign 45,SMS,Opened,2025-04-24
+66f38d43-1df1-47a9-9d71-aa22c6122daa,C00156,Campaign 46,Email,Opened,2024-09-30
+b563a33c-c62f-46ff-9b92-411c655b4227,C00735,Campaign 20,Email,Converted,2025-01-22
+21e4e08b-5f9b-4139-b0ef-a8adf969fc96,C00437,Campaign 27,Call,Clicked,2025-06-03
+4a27c0dd-8f86-44af-ab32-43236e391a52,C00840,Campaign 44,Call,Opened,2025-09-05
+aa9bc58b-378f-4cc8-8d23-4a55ef71374c,C00714,Campaign 36,SMS,Opened,2025-06-22
+784a1462-667f-4d61-b240-9f986d670d74,C00388,Campaign 46,Call,Converted,2025-04-03
+42f9d857-2643-44f5-90aa-528375be2f92,C00297,Campaign 4,Email,Clicked,2025-07-26
+569b0712-3f9d-4556-912a-932d8db09292,C00613,Campaign 43,Call,Converted,2024-12-22
+281f972c-4483-4692-a2eb-81c462ae6745,C00227,Campaign 21,App Notification,Converted,2025-05-05
+3ae3bc4f-83e0-4683-b262-43dce1126c68,C00190,Campaign 24,App Notification,Clicked,2025-06-27
+f4d1495a-358d-4995-82ec-affd385feae7,C00749,Campaign 8,SMS,Clicked,2025-05-10
+99734cce-3d86-49ff-9b9f-15c8fa634f76,C00223,Campaign 24,App Notification,Opened,2025-02-05
+d96964d0-e1e9-4021-b2bc-5f62bd91395b,C00054,Campaign 8,SMS,Ignored,2025-02-16
+fb4fae54-898c-4d6f-a749-6098859c7587,C00228,Campaign 17,SMS,Converted,2025-01-28
+8f110ea6-ce48-47b8-999f-5f7c2e4b8f13,C00747,Campaign 17,Call,Converted,2025-07-27
+b46ed31d-4a4f-461e-bc9a-fae8e131a916,C00596,Campaign 15,Call,Clicked,2025-08-06
+9e911519-4103-4286-9586-bdb717ce5517,C00437,Campaign 31,App Notification,Converted,2025-07-17
+4df8faac-b845-4521-95f4-dc157d244e32,C00306,Campaign 19,Email,Opened,2025-03-09
+7d4c360f-ba3e-4b77-85b7-b856543c2bca,C00645,Campaign 6,App Notification,Opened,2024-12-06
+db30d425-7314-4300-a779-e09fde92da06,C00188,Campaign 8,Email,Ignored,2025-03-12
+f3e85d1d-96a5-4e14-82c7-232746848290,C00932,Campaign 22,Call,Opened,2025-05-07
+75754a82-6ac1-4bd4-bba1-5595936fb9d5,C00020,Campaign 23,App Notification,Ignored,2025-04-07
+d2a84d59-5d56-47ea-8f5e-22889a6857c1,C00233,Campaign 11,Email,Converted,2025-07-10
+9330d983-561d-495e-9c35-41e7fa068c08,C00830,Campaign 48,App Notification,Ignored,2025-03-18
+628bd2fa-9c0e-4cba-bba6-d47a73625ee8,C00325,Campaign 1,SMS,Converted,2024-10-28
+335898ac-a9cf-42d4-8804-86d4edf151e1,C00844,Campaign 39,App Notification,Ignored,2025-07-04
+785b399a-57d6-49fe-856f-c94b40359cc0,C00015,Campaign 23,SMS,Converted,2024-12-08
+e7688132-8a9b-4814-a6c6-76f2e5a2e7d0,C00056,Campaign 30,SMS,Opened,2025-07-31
+0d1a07fd-ec29-4f5e-98b8-e08a949f6597,C00574,Campaign 33,App Notification,Opened,2025-04-01
+cf739f31-4b18-41ee-852a-6bcabeedf20b,C00984,Campaign 38,SMS,Converted,2024-11-03
+e23752ec-f764-4baf-bf35-adccaca755e7,C00898,Campaign 25,Email,Clicked,2025-01-16
+e3f1b8c4-4725-4bc4-a39d-d7239ff96a5e,C00032,Campaign 26,App Notification,Opened,2024-12-11
+e972c663-b6a2-4397-9b01-333c794b0099,C00543,Campaign 23,App Notification,Ignored,2024-11-22
+80bb6ca5-af48-4b77-a5d9-040d1aa49f19,C00752,Campaign 13,Email,Ignored,2025-05-23
+74345150-a968-4fa8-b4d1-164081999617,C00179,Campaign 43,SMS,Converted,2025-07-14
+f3f0708f-6ca1-43c1-b80a-6a0dad6c0f4c,C00106,Campaign 17,Email,Converted,2025-08-27
+51fd8598-631f-4702-99d2-76679693db4e,C00849,Campaign 15,Call,Clicked,2025-03-28
+3f4b9506-6901-40da-bb4a-165b2e588458,C00472,Campaign 41,SMS,Converted,2025-01-14
+43813514-0834-4697-9e64-16a311f4faad,C00935,Campaign 17,SMS,Clicked,2025-04-08
+8e518a3e-ff29-4b0e-b08d-253554f1bd69,C00047,Campaign 43,App Notification,Clicked,2025-08-25
+e9b479c5-eedc-42e9-b302-4b6e6b698c27,C00188,Campaign 42,App Notification,Clicked,2024-11-03
+cf28d696-53e3-4c0e-a291-a98925381255,C00908,Campaign 29,SMS,Converted,2025-03-17
+1111ab48-d4f8-4557-8c99-779b28e98126,C00486,Campaign 47,Email,Clicked,2025-04-14
+963b933b-c52b-4fb4-974c-dbc624c10baa,C00954,Campaign 17,App Notification,Clicked,2025-07-28
+c21574c2-7d94-4ada-9978-94e72a8f1f2c,C00961,Campaign 23,Email,Ignored,2025-04-17
+8246b144-88b6-4f2e-990d-b377a42ebd3f,C00886,Campaign 17,SMS,Ignored,2025-02-05
+93d3e5b6-421c-49e3-aa23-8bd9a605a224,C00570,Campaign 49,Call,Ignored,2025-09-08
+e11250d4-9fe0-453f-9061-1433951eb7d6,C00649,Campaign 3,App Notification,Clicked,2025-02-18
+19946532-4acd-484c-87a2-d227a35f7e9f,C00787,Campaign 20,Call,Clicked,2025-06-14
+8f6d27e1-ffd7-4e25-ad69-3ffe5901373b,C00267,Campaign 1,Call,Converted,2025-07-05
+77174dc6-317c-4dbe-9e2f-5749e02bc406,C00835,Campaign 37,App Notification,Clicked,2025-06-12
+473194c5-cb78-41ec-b4c6-b8e10fcc5605,C00332,Campaign 45,Call,Opened,2024-12-11
+1fbd1027-3405-48d4-aa94-6bbee6320dfc,C00138,Campaign 38,Email,Opened,2025-04-05
+f88fb565-674f-4d22-90c3-a74b5e501f3d,C00468,Campaign 41,Email,Clicked,2025-03-23
+6f69bcd4-1f8d-4c0a-9253-18977e3883ee,C00408,Campaign 36,App Notification,Clicked,2025-06-26
+8c24ce0e-4159-4f66-8165-406cd5a8f2bc,C00316,Campaign 45,Call,Converted,2025-06-10
+bfee9767-455f-4a6f-9871-40a0d8eedee8,C00707,Campaign 16,SMS,Clicked,2025-01-13
+bbf6d1d6-bf10-4a53-8f21-d27a01392099,C00800,Campaign 40,App Notification,Converted,2025-01-01
+6909417e-5e9d-4d97-b1ce-dc89c8cac245,C00794,Campaign 42,Email,Ignored,2024-10-10
+feaeb06e-dc88-4d5f-8633-a2df3d0a841d,C00105,Campaign 21,SMS,Ignored,2024-11-08
+f80fd08d-4ff6-4385-ac3d-318cba0177c2,C00142,Campaign 30,Call,Converted,2025-07-04
+9b75dc50-fde9-4342-84cb-8ec671cce9ff,C00842,Campaign 30,App Notification,Clicked,2025-03-20
+bd96ee99-8628-4169-a93f-6dd895957d54,C00444,Campaign 22,SMS,Converted,2024-11-22
+a966afd1-80d8-4fab-8fd3-2e1bbba4585f,C00287,Campaign 27,Call,Converted,2025-08-18
+2763f236-4e35-443d-8ac2-6e32bfc8d3f7,C00570,Campaign 22,Call,Opened,2025-03-08
+42351ff8-4472-410c-be1d-b36734c51a22,C00701,Campaign 29,Email,Converted,2025-09-23
+d2a5332a-9362-486e-bc44-b4d1b6100099,C00304,Campaign 16,Call,Clicked,2025-06-22
+5ff51e59-dd21-49f1-a568-bdb726321884,C00669,Campaign 46,Email,Clicked,2024-11-05
+98b803b3-eb71-4d6c-a45f-2080da4a4ecb,C00981,Campaign 26,App Notification,Ignored,2025-03-18
+6869ded3-693a-4afd-8ffc-942131e55f23,C00900,Campaign 9,App Notification,Clicked,2025-05-12
+469eb6ca-fde5-4e6c-925b-1e00e085bca6,C00928,Campaign 32,Email,Converted,2025-03-06
+e6bdf44b-823c-428c-9dc0-ef8cf08cce25,C00535,Campaign 32,App Notification,Converted,2025-07-26
+fa76bb7b-b3c6-4ba1-8f6f-4f87d618c273,C00561,Campaign 11,App Notification,Converted,2025-09-03
+f46a78fa-3e4e-4589-ba1f-353af7affcf0,C00654,Campaign 16,App Notification,Opened,2025-05-26
+0f518ea5-e906-455f-9122-1d5ce8e7c008,C00178,Campaign 21,Email,Clicked,2025-07-28
+96439d03-f952-4ef4-b000-eeb15296dd5d,C00126,Campaign 6,Email,Opened,2025-06-23
+b6c53b98-a5c6-4409-9ac7-795824937816,C00674,Campaign 36,SMS,Clicked,2025-04-27
+ce7c5015-b175-4ea1-ae1f-3f09cbccdf6a,C00804,Campaign 18,Email,Ignored,2025-03-24
+31ee1c34-52e5-414a-8ee9-29ef1ed0b632,C00079,Campaign 4,Email,Clicked,2025-06-12
+1b58723b-a29b-471c-8491-dc5b00848b9b,C00760,Campaign 9,Email,Clicked,2025-03-17
+052011e3-b35d-450c-b972-39c3edaabee1,C00663,Campaign 30,App Notification,Converted,2024-12-27
+59a654e1-2865-4eb5-acba-be49f68800c0,C00265,Campaign 45,Email,Ignored,2025-02-08
+4b23f06e-0bf7-4e36-8f12-430bcb1399d0,C00704,Campaign 31,Call,Clicked,2024-11-07
+ae9c9f02-68b4-4c5f-997f-8e8ee67f4bfa,C00603,Campaign 18,SMS,Opened,2025-02-16
+25cd028a-5a24-453f-b700-4b057e841271,C00798,Campaign 33,Email,Opened,2025-03-18
+1c49ac9b-7014-4029-8027-2d19ffe9c994,C00757,Campaign 5,SMS,Ignored,2025-09-21
+fe2d8473-935e-420b-b2a8-4c94e19fec32,C00330,Campaign 45,SMS,Ignored,2025-06-09
+706773cb-1a43-41a0-b7fd-95a8b0439af4,C00877,Campaign 50,Call,Clicked,2025-02-28
+025f8ed3-5367-416b-b51d-bce3bdc52126,C00522,Campaign 2,Call,Clicked,2025-02-21
+2daec2d1-4bae-4d71-82d5-db28cbf84759,C00599,Campaign 12,Call,Ignored,2025-09-24
+b87fcd14-91c8-4699-a843-c6517561834e,C00460,Campaign 18,SMS,Converted,2025-05-04
+35edc34d-4b4a-413a-b003-8c5206050b82,C00711,Campaign 19,SMS,Ignored,2025-03-30
+e88ffe9b-7cb1-42c2-99c6-efa4a10b0752,C00282,Campaign 12,App Notification,Converted,2025-06-14
+eed4035b-22af-4202-a5cb-b014763c2109,C00063,Campaign 12,Call,Clicked,2025-08-06
+08de887f-703b-4070-a242-7f4fd922ba02,C00645,Campaign 21,App Notification,Converted,2024-11-15
+f364ae2c-3f1f-44a2-8fdf-f06e590589c4,C00416,Campaign 28,SMS,Clicked,2024-10-20
+3b6d2baf-fdc6-4dd7-bbe8-ac52a3edf3b3,C00496,Campaign 50,SMS,Converted,2025-04-22
+fee063f3-4f19-4a83-82a1-6387518da0ce,C00153,Campaign 9,SMS,Clicked,2025-02-25
+55e0eeee-2048-4a3e-bb84-9c2ee2c3240a,C00738,Campaign 34,Call,Clicked,2025-02-24
+ce90ecde-624a-4deb-8862-f17dd37f4be6,C00521,Campaign 27,SMS,Opened,2025-03-14
+fb283cf7-2856-4926-832a-ddf4e42e3418,C00848,Campaign 20,App Notification,Ignored,2025-05-21
+9ecf8c9b-6f93-41f6-b444-1e35ae9b0c2a,C00237,Campaign 38,Call,Ignored,2024-10-01
+51fd6049-1b85-4443-a875-cb17b196a18e,C00896,Campaign 3,SMS,Clicked,2025-06-10
+a9c27781-0866-4820-99d5-f7a1b3f3a850,C00705,Campaign 13,App Notification,Converted,2025-07-18
+3cd09c64-108e-4156-a908-8697649331db,C00718,Campaign 39,Email,Opened,2024-12-27
+fd9e5c8a-deef-402d-9fb3-7fefb39a32be,C00571,Campaign 20,App Notification,Clicked,2025-03-15
+279c508c-2293-4089-9d79-a64117f5f3a1,C00956,Campaign 10,Call,Opened,2025-07-11
+d05e6ff8-d0c7-4cd2-8e30-3118ac092ca2,C00430,Campaign 45,SMS,Converted,2025-06-11
+67ec013b-6f78-4265-b065-c0106245d3c9,C00566,Campaign 46,App Notification,Ignored,2025-09-14
+5306c195-0116-4499-a7ee-940749573664,C00112,Campaign 44,App Notification,Converted,2024-12-18
+28223984-4718-4814-adc3-369ba28a6fea,C00614,Campaign 4,App Notification,Ignored,2025-05-11
+dcc88aac-b10d-48b0-9d29-d101a6e4d53e,C00467,Campaign 21,Email,Ignored,2025-02-21
+55bea17e-38a4-450d-870c-eccd90b0bc07,C00241,Campaign 32,SMS,Converted,2024-12-14
+8025f356-f760-44b9-b1ee-a3262aaa86b9,C00916,Campaign 41,Email,Converted,2025-06-23
+8cd69c96-7763-4d0f-92c2-637ae9da53bc,C00022,Campaign 35,SMS,Opened,2025-05-25
+115a2848-e3b4-4fe7-8dd4-4a0f5d9e0ef7,C00700,Campaign 34,SMS,Clicked,2024-12-20
+f41d4011-0832-4b86-84f0-716bf78e5f10,C00981,Campaign 44,Email,Clicked,2025-01-23
+393c68a1-1da1-4f4f-afd1-8781396f1701,C00699,Campaign 41,SMS,Converted,2025-02-09
+8ed3fd0c-db75-4d0e-b18e-9264ce73dc4e,C00550,Campaign 1,Call,Converted,2025-06-28
+62857f63-8f62-4fd3-a74c-f330e9a16121,C00749,Campaign 36,SMS,Ignored,2025-01-10
+22256515-5f4e-416b-9508-5c23550e3c67,C00433,Campaign 21,App Notification,Opened,2025-02-20
+70c279c7-07b9-406b-9e80-204a50b7b048,C00005,Campaign 40,SMS,Opened,2024-09-28
+5d8aa07c-aa64-40ce-9908-2641bc2dc193,C00186,Campaign 11,Email,Opened,2025-09-18
+f4fa03ed-f6c9-4f0f-9d3a-408902266c30,C00527,Campaign 36,Email,Converted,2024-11-20
+8fe7b2b7-093f-45cd-9f9c-7cecf23e80fa,C00639,Campaign 2,SMS,Ignored,2025-02-16
+4455f3bd-cc3f-47bb-a3b5-33267e225f21,C00840,Campaign 35,SMS,Opened,2025-01-07
+57faf13d-30e2-470c-85be-a40b206fe4d0,C00735,Campaign 10,SMS,Opened,2025-08-29
+d9d252c1-d65d-434a-9521-45b7963098ad,C00507,Campaign 10,SMS,Ignored,2025-09-13
+a7e288b1-6f1b-4ca8-96de-1b898bd15275,C00266,Campaign 9,App Notification,Clicked,2024-11-26
+65ab5f59-8fb2-4e2e-9166-1222ef04ccb9,C00921,Campaign 50,Call,Clicked,2025-04-30
+504acfd6-3f1b-49b8-a62f-dfe9dfcf3e2e,C00529,Campaign 14,Email,Ignored,2025-02-28
+2fe4e324-a5ed-40a8-a204-23f108f53973,C00776,Campaign 35,App Notification,Opened,2025-01-24
+165f5ad9-5dbf-43ba-901a-c7525888dee6,C00687,Campaign 11,SMS,Opened,2025-03-19
+df5fcf32-965e-4854-b393-ee15c2e8c663,C00130,Campaign 12,App Notification,Converted,2025-06-27
+1357a7de-5cfc-4f3b-b3be-3dbbb1dd92d6,C00773,Campaign 26,Email,Converted,2025-08-06
+855f109a-e0a3-4d36-b980-d3633364c114,C00084,Campaign 3,Email,Converted,2024-12-24
+d5c9d4a4-1121-4948-b7c6-f50255a6bd11,C00202,Campaign 10,Email,Opened,2025-09-17
+4461db61-32a8-401c-8d78-327c744fc942,C00659,Campaign 15,Call,Ignored,2025-07-01
+559024ff-de3d-46dc-8ea6-eee3404d3597,C00733,Campaign 44,SMS,Clicked,2025-04-05
+9fd97c97-10ee-40a3-ab46-11be0517c4ef,C00798,Campaign 17,App Notification,Ignored,2025-09-22
+1cabef17-28d5-4a79-b00e-454a6c50f6d7,C00846,Campaign 20,App Notification,Converted,2024-12-05
+16d47a4e-c367-400b-aab8-715a44d2fce4,C00135,Campaign 10,Call,Clicked,2025-02-16
+51e1458d-13b2-4d0f-a06f-deeaaee9063b,C00732,Campaign 4,App Notification,Converted,2024-11-17
+6e78ca78-ea7b-406f-8df5-d2c0b32d788a,C00822,Campaign 17,App Notification,Opened,2025-07-02
+24219447-cff9-4608-a6b2-f8ae3f8e09e2,C00931,Campaign 12,App Notification,Converted,2024-11-09
+e727935c-42ff-4cfe-8a76-26ccacd67d3e,C00206,Campaign 3,SMS,Converted,2025-08-11
+ad2f9fd4-bdd0-447b-8a04-2b4e731c67d0,C00260,Campaign 33,App Notification,Clicked,2025-03-29
+1b722ff3-009e-4369-bd54-1176faf00443,C00538,Campaign 14,Call,Ignored,2024-12-31
+95363cd4-2af6-4f9b-9baf-1826b0e49987,C00867,Campaign 15,SMS,Clicked,2025-06-14
+8905c183-8ef1-46c1-9d8c-65d112825d71,C00770,Campaign 4,Call,Clicked,2025-01-01
+99e1155b-8e38-42f7-970e-e61cc63ead20,C00851,Campaign 42,SMS,Clicked,2025-08-11
+728b3f9e-3f0a-4cd5-8046-249aa88615a9,C00655,Campaign 30,Call,Opened,2025-07-02
+aa80b2ff-8dc6-4df0-8d52-8b3cf2ca735f,C00978,Campaign 28,Call,Converted,2025-06-30
+d198f66f-ba37-4947-a5db-9294dd51fd7c,C00779,Campaign 24,App Notification,Converted,2025-06-19
+e4ed03eb-22c1-482e-8f3b-37bd1e90125b,C00927,Campaign 32,Email,Ignored,2025-02-18
+ed0b3d5f-c10b-4121-bcce-ff441c26b594,C00480,Campaign 15,SMS,Opened,2025-05-02
+856d13d5-03a2-40fd-ba52-f2ed021f0784,C00341,Campaign 15,SMS,Converted,2025-08-01
+ce721953-8ab6-4405-83d6-0f8f52d97328,C00785,Campaign 38,Email,Opened,2025-04-28
+da4eb8b0-5467-4fcb-830d-1e86df643d30,C00253,Campaign 35,App Notification,Clicked,2025-05-21
+8be7d1c7-0ab3-4018-8203-a29dfd3f9dff,C00335,Campaign 28,App Notification,Converted,2024-11-07
+4859c2fb-3775-46c4-b14d-9798041dbf5a,C00389,Campaign 49,Email,Opened,2025-06-11
+0888671a-fe74-4352-9704-c0770671074b,C00475,Campaign 48,Email,Opened,2025-04-14
+b8c2282e-b1e3-48e1-9cc0-14e3bdb7189b,C00761,Campaign 44,Email,Converted,2025-08-16
+f2e943a9-fb1e-4f84-a06c-74d156cf7658,C00621,Campaign 41,Call,Opened,2025-06-10
+84a99f0f-a43e-4b0b-b50a-cf03575dc07b,C00287,Campaign 35,Email,Ignored,2025-06-14
+cd50aeee-cf73-4b6f-ae9f-3766a8443d5d,C00163,Campaign 11,App Notification,Opened,2025-04-28
+f6204f2d-2f33-4232-a27f-df4009bcc25a,C00773,Campaign 30,App Notification,Converted,2024-11-01
+18e2f947-1188-4095-bfe9-10b63c64d655,C00119,Campaign 29,SMS,Converted,2025-02-21
+6b03568b-4daf-4991-9182-608f6a330766,C00155,Campaign 4,Email,Converted,2024-10-02
+1338dbcf-a2e9-4a9d-b5f7-1def2318c5c6,C00872,Campaign 47,Email,Clicked,2024-11-21
+e7dd1c75-4a65-4ed6-a14e-1a14f4bd0ed2,C00116,Campaign 29,App Notification,Ignored,2025-02-28
+c6997fc4-6c09-4b7c-9457-7e8372b14022,C00341,Campaign 45,Call,Converted,2024-12-27
+b4a5a809-2626-4d0c-9d60-60848176e002,C00471,Campaign 19,Call,Opened,2025-06-01
+86103f8c-90e4-4299-98c2-67b7ba2bc5e6,C00378,Campaign 8,Email,Converted,2025-08-06
+0d33fd06-28a0-4441-86fe-d17565839411,C00465,Campaign 46,App Notification,Ignored,2025-03-10
+825e1815-9f34-4246-8479-5120cf08a6d7,C00267,Campaign 45,Email,Converted,2025-07-22
+95b4a962-4372-4a34-96d5-8607c88e4c47,C00972,Campaign 8,Call,Converted,2025-08-19
+13297ad5-994c-47c2-922f-219eb97100e4,C00643,Campaign 32,Email,Opened,2025-07-31
+9427502c-dcaa-40a6-8126-e7436387ed6b,C00019,Campaign 11,App Notification,Opened,2024-11-17
+b957a6e9-143b-427c-b95e-16d53ea41945,C00225,Campaign 44,Email,Clicked,2025-07-29
+6ad1182f-5e93-4505-aec7-c0eebebe06ea,C00574,Campaign 14,SMS,Ignored,2025-09-13
+e6c9221d-b726-4d6a-bed4-e93a5a9c9194,C00124,Campaign 35,Call,Clicked,2025-08-09
+5abb748d-6407-4da9-ab68-ec5cc24ea4b2,C00799,Campaign 21,App Notification,Clicked,2025-03-22
+a1b84c54-8325-4c23-ab44-b5cddc51a83a,C00829,Campaign 13,SMS,Clicked,2024-10-29
+931f8100-fadf-4abd-8910-996605cfa3fa,C00796,Campaign 15,Email,Opened,2025-05-10
+3c30e1ea-4d9e-4e45-8ead-dbb3d96ff642,C00770,Campaign 24,App Notification,Opened,2025-08-29
+656658a7-c0f9-443d-ace7-d0ba91df0b1d,C00108,Campaign 16,Call,Opened,2025-01-08
+5a09a428-454a-4182-a5df-1bb319b594f7,C00112,Campaign 10,App Notification,Clicked,2024-10-08
+b95f45e0-e029-4295-a4e8-315162b7f150,C00814,Campaign 50,App Notification,Clicked,2025-06-09
+30a5d2a9-52ad-4213-a0a4-59619044175b,C00790,Campaign 40,Call,Ignored,2025-07-11
+d8d64b60-2088-4181-84d4-39da2153b5a3,C00579,Campaign 37,Call,Opened,2024-12-15
+fe4381f6-25d2-4d5d-bf05-5ada78c58171,C00142,Campaign 45,SMS,Opened,2025-01-01
+8d7624dc-fb69-4228-ba9e-d060ba3b5666,C00896,Campaign 31,Email,Opened,2025-08-25
+eab6f29d-1812-4844-8132-426262b34855,C00929,Campaign 34,SMS,Converted,2024-12-01
+ab646f50-37b2-4e27-a481-75c91946d901,C00216,Campaign 37,Email,Clicked,2025-08-07
+eeb42aee-d6fb-45ea-9093-03785d33fc9f,C00430,Campaign 12,Email,Ignored,2025-07-06
+8b495a46-5212-41b2-8054-e5b07d7120b3,C00975,Campaign 28,Call,Converted,2025-02-16
+b015949a-0369-435a-bef1-5d5581052f6f,C00933,Campaign 13,Email,Opened,2025-01-20
+3ed28bad-939c-412e-b338-4921810618ec,C00556,Campaign 5,Call,Clicked,2025-01-16
+38209f56-84a0-4563-8940-426df6e088cb,C00936,Campaign 37,App Notification,Converted,2025-02-06
+477d2a2a-ecee-47d6-90c9-c878a22c5a0c,C00492,Campaign 3,Call,Converted,2025-07-28
+83d44c94-794c-4aec-a399-dc47ace25aec,C00716,Campaign 40,Call,Ignored,2025-04-06
+828bd4c0-ed89-4845-8bb4-adb6908986c4,C00280,Campaign 18,Email,Clicked,2024-11-08
+9ca64d0e-6ef1-4072-83e2-aeb72c072f32,C00559,Campaign 23,Email,Clicked,2025-02-11
+2d82fc21-3236-473f-9cfc-4b98618209e9,C00109,Campaign 22,App Notification,Opened,2025-02-06
+cf6b9550-6a2f-4860-9910-1e73ea558002,C00451,Campaign 50,SMS,Ignored,2024-11-14
+29c99c4d-b037-4294-af82-e582755f34f4,C00343,Campaign 30,SMS,Clicked,2024-11-13
+15396ff6-3c67-42a0-89f3-8c4e6a10bffc,C00755,Campaign 7,Email,Converted,2025-07-16
+e7e0dd88-3b0e-43a0-9728-23367852a230,C00139,Campaign 22,App Notification,Opened,2024-12-26
+bd51d576-9cef-41ef-b4b3-4319884ce544,C00875,Campaign 15,Email,Opened,2025-05-04
+f71ac049-5829-475f-bfdc-3e24c0a9fab9,C00166,Campaign 42,Call,Opened,2025-01-26
+8f9f3f8b-d5c4-4f4e-b865-8c08fd78a7da,C00497,Campaign 45,App Notification,Opened,2025-07-21
+29373e4a-0860-457b-b372-72a8c771ca1b,C00118,Campaign 44,App Notification,Opened,2025-08-21
+d9a6a33c-d268-43b2-ada5-e4c5c88e84aa,C00499,Campaign 50,SMS,Opened,2025-07-30
+16829d05-048b-40a2-8390-6265e4de4cb0,C00071,Campaign 8,App Notification,Opened,2025-08-05
+f92100a7-ad8d-4b7a-94a6-82017f442468,C00295,Campaign 5,Call,Converted,2024-10-03
+5ce40b0f-4bd3-4cd0-9064-2a4e21440515,C00982,Campaign 15,SMS,Converted,2025-08-07
+62f68e6e-bfb7-4e77-a22e-56400489f607,C00474,Campaign 29,App Notification,Converted,2025-05-23
+746fd342-4478-4494-8948-90119246bcab,C00136,Campaign 30,Call,Converted,2024-12-14
+470f0572-36ab-458a-aabc-f9095d6089ea,C00113,Campaign 42,App Notification,Converted,2024-10-28
+4828eb85-a47d-457e-96c4-bd5ce155d338,C00028,Campaign 23,SMS,Ignored,2025-06-05
+be34363a-07d8-4a72-92be-c5969f0c86ec,C00976,Campaign 26,App Notification,Converted,2024-12-12
+b341b98d-bc67-4ccb-bd03-6a63f324d128,C00294,Campaign 49,Email,Converted,2024-11-08
+a9b90a4e-d685-4d6f-ae62-0d3687518c7d,C00812,Campaign 35,SMS,Ignored,2025-06-24
+92b7e5e7-db53-44e4-b7fa-1ea1f7618aab,C00708,Campaign 42,Call,Converted,2025-05-15
+a3c56ac8-6c0a-43da-acaf-5a79e3708424,C00097,Campaign 28,App Notification,Converted,2025-03-21
+7b68f666-787f-4ba7-81cb-3f4fbea3fa4b,C00808,Campaign 11,SMS,Clicked,2025-05-18
+b661d71e-0d3e-4666-804b-bffd22c013db,C00782,Campaign 32,Call,Opened,2025-08-29
+0fbf92fe-df5b-46ed-a970-25f7145858bc,C00399,Campaign 50,Email,Ignored,2025-01-10
+40152787-8261-47aa-baff-80858d22463f,C00248,Campaign 49,Email,Clicked,2024-12-23
+2c650e65-8ecc-43da-989f-8a4f77e0e08d,C00088,Campaign 1,Email,Clicked,2025-02-15
+8bd782de-a475-4b7e-95be-2848cad7cd24,C00494,Campaign 45,Call,Opened,2025-03-06
+9ef181cc-c92d-4726-b9c6-078db62973fc,C00997,Campaign 8,SMS,Converted,2025-06-26
+ddd1c03d-303a-47dd-b8c0-9805a4f4219c,C00209,Campaign 31,App Notification,Clicked,2025-08-31
+221cb479-2478-4821-8852-019deeb335b8,C00601,Campaign 35,Call,Clicked,2025-01-20
+9dafe686-f0f0-458d-b9d9-9ddf976ac3c2,C00213,Campaign 12,SMS,Ignored,2024-11-10
+e2941d93-5c2e-4d35-a0ce-5ad0438061a5,C00058,Campaign 47,Email,Opened,2025-06-30
+2e74095c-c51c-452b-b375-86b77a15ab80,C00237,Campaign 40,SMS,Opened,2025-03-09
+aca8f04b-7226-4639-9cb3-5ec34093b9c4,C00487,Campaign 17,App Notification,Ignored,2025-01-26
+a88ae43a-1b4d-465d-bec0-6c002a33f86c,C00272,Campaign 43,App Notification,Ignored,2025-07-15
+2fcba817-5822-4701-a094-60cb8689ce40,C00788,Campaign 19,Call,Opened,2024-10-28
+86bdab30-482f-4419-acf2-3b29ef8908f5,C00455,Campaign 34,Call,Opened,2025-01-15
+b6027ca6-3a2e-45c7-88eb-a0a8fecab879,C00298,Campaign 19,Call,Converted,2025-02-09
+d3bd2099-951a-4375-baf4-7a1a87ffa8f6,C00945,Campaign 5,Call,Ignored,2025-02-16
+8ac1d39d-7d3b-402f-88c3-50c6c40f8b85,C00025,Campaign 27,Call,Converted,2025-07-25
+cfb3abfe-2d25-42cc-8c38-325edf88d12a,C00461,Campaign 37,App Notification,Opened,2025-07-07
+aaca86b5-cbba-466d-bf82-1bfbc2142c08,C00889,Campaign 1,Call,Clicked,2025-01-06
+a037fd67-b024-4758-a674-867154cb33d0,C00224,Campaign 31,Call,Opened,2025-06-04
+3f2022c9-8f79-4136-8598-7f48967d1c4d,C00196,Campaign 29,Call,Clicked,2025-02-05
+4fa281ad-9814-4f2a-8aa6-03bf80c28c49,C00842,Campaign 36,SMS,Ignored,2025-03-06
+62212db5-e165-43d1-8e54-8df8798cc079,C00738,Campaign 39,SMS,Clicked,2025-04-22
+3e93b449-d453-485f-b8e6-7936f3c209c4,C00558,Campaign 32,Call,Clicked,2025-05-31
+3dc8eb46-5720-40a8-86b6-a6772d7b02b0,C00615,Campaign 5,SMS,Clicked,2024-11-10
+fda3c8dc-2674-435a-8df8-5499a393775c,C00181,Campaign 6,SMS,Converted,2025-09-15
+14ca6d82-6844-4776-8f7c-0c4e51362635,C00223,Campaign 21,Email,Ignored,2025-08-01
+a5395726-b43e-4742-aa48-3a0ab672bc9b,C00445,Campaign 31,Email,Clicked,2025-03-16
+bf02676c-6958-4de0-8a31-1006f343eaa7,C00178,Campaign 25,SMS,Opened,2025-09-20
+aa1d147a-867c-4123-b3c7-0afda5148adb,C00727,Campaign 21,Email,Opened,2025-07-11
+91cb3004-c2ff-4511-be60-c6368512c219,C00197,Campaign 21,Call,Opened,2025-04-01
+6a0d445f-b7b3-475c-b71a-937a6f3c970d,C00817,Campaign 50,App Notification,Ignored,2025-06-24
+dea68264-398e-43f9-9f84-0c301413e712,C00236,Campaign 32,SMS,Opened,2025-04-22
+c7bfa500-4a63-461f-b7f9-3b2d9e4f7a00,C00905,Campaign 33,App Notification,Clicked,2025-05-15
+2293ce39-95f5-4eaf-8901-d4d0fa6783a4,C00742,Campaign 7,SMS,Ignored,2025-06-08
+8f6e3160-b65c-4ef8-9d61-4e93108c7476,C00908,Campaign 45,SMS,Clicked,2025-01-24
+f3ee407b-3aca-4271-ac44-422c702fae13,C00045,Campaign 17,SMS,Opened,2025-05-13
+165ed636-0d39-4754-a15f-92d9f6136079,C00048,Campaign 37,Email,Opened,2025-05-08
+7cc746b2-7e8c-4d74-b6b9-3fd075eb9ab1,C00513,Campaign 49,Email,Opened,2025-04-20
+325b1116-acb8-42ac-a6a9-cbb0233c5559,C00299,Campaign 31,Call,Converted,2025-03-27
+e222a2ba-610a-4b6c-955a-8d3dc82d124a,C00442,Campaign 43,Call,Opened,2025-07-25
+900ebb8e-f5be-4a50-840a-d3f84ac46cff,C00027,Campaign 13,Email,Converted,2025-09-04
+76faeea1-add0-4d16-be53-b386e0bb5ab4,C00174,Campaign 39,App Notification,Clicked,2025-04-20
+a085f745-8dd0-430b-ba8b-7acab53f7ddc,C00630,Campaign 40,SMS,Converted,2025-05-13
+2298e3d0-cb57-48ce-9d79-7f9ccf621be6,C00359,Campaign 6,SMS,Converted,2024-10-01
+1f923c2d-a511-4769-b7d5-54978cd60455,C00426,Campaign 44,App Notification,Clicked,2024-10-02
+4169ed13-be0a-48f5-98f0-56ac07b873ee,C00311,Campaign 48,Email,Converted,2024-11-28
+6a8d30fa-aaf5-4284-a865-93cad126bb21,C00507,Campaign 37,Email,Ignored,2025-04-30
+15f76c7c-51da-4587-aea4-fa1b65261648,C00833,Campaign 21,Email,Opened,2025-01-19
+1b90eccb-5717-4190-960f-765d52c7eb4b,C00003,Campaign 33,App Notification,Converted,2024-12-25
+c2daf0ed-c137-4944-8468-7767952b3d41,C00359,Campaign 16,App Notification,Clicked,2024-10-09
+1920aea3-71ff-4f68-a5c5-1566b3045402,C00929,Campaign 37,App Notification,Clicked,2025-05-13
+cdf80cbb-fdab-498b-abb2-699dc8d525fe,C00383,Campaign 26,App Notification,Ignored,2024-09-29
+b6927bad-0066-4ea0-8207-377382e17e9c,C00650,Campaign 38,SMS,Ignored,2024-12-30
+b1d381a2-83cc-4745-9a60-ae76f0a87dd9,C00056,Campaign 7,Email,Converted,2025-03-20
+a8b1792f-2818-4e03-85dc-97cb2ef2d364,C00373,Campaign 12,Call,Converted,2024-11-26
+a41fcfaf-e659-4555-ac63-1e8bdb994fdb,C00169,Campaign 9,App Notification,Converted,2025-01-09
+96d0398b-b138-4d33-b87f-8ddff9d82e54,C00805,Campaign 47,App Notification,Clicked,2025-09-09
+a8c34c48-b42a-4c93-997d-7baa6c6d0ff6,C00132,Campaign 12,App Notification,Opened,2024-11-10
+32c8b2b1-842a-4dd2-90ec-bbe14c232090,C00916,Campaign 46,Email,Opened,2025-08-02
+1d6e7ab6-5867-4007-be7d-dbdbf3296aff,C00908,Campaign 49,SMS,Converted,2025-03-10
+be3176a0-27c0-4cee-b6f9-c3ad96194fcc,C00173,Campaign 24,App Notification,Ignored,2025-01-23
+dd596140-3796-44ae-a70c-86622e17315e,C00694,Campaign 50,App Notification,Ignored,2025-08-23
+3c29fa01-f168-4f72-8245-363e34a6eaac,C00641,Campaign 1,SMS,Clicked,2025-01-21
+5f860186-769a-4d0d-ae98-d307f1cdd25e,C00464,Campaign 37,App Notification,Opened,2025-05-29
+71bc2a9e-7f69-4ef2-bbeb-76a2ae0a5bbe,C00339,Campaign 17,Call,Converted,2024-12-10
+d21eaf8a-c979-4451-b8e1-18d6e73826f3,C00990,Campaign 29,SMS,Opened,2024-11-10
+55b5dfce-c4df-4979-953d-f7a7cc96262d,C00634,Campaign 25,Call,Converted,2025-04-06
+34f1f5cd-0c4f-41ac-929a-8eb87b6b549e,C00533,Campaign 13,Email,Converted,2025-05-25
+a5a57309-b577-4ed0-8caf-bbf20252bebf,C00328,Campaign 6,Call,Opened,2025-04-28
+0042285b-41bb-426e-9797-295a996976f6,C00557,Campaign 1,Call,Converted,2025-03-15
+e53b7a49-a12a-418d-9334-00297a35c6f0,C00186,Campaign 26,Call,Ignored,2025-06-01
+07a3fe5d-828f-4a3d-9e11-4b4d2ead0be0,C00014,Campaign 39,Email,Converted,2025-09-08
+a90d7ae0-f0bc-4252-95d8-c7d969b627db,C00214,Campaign 30,SMS,Opened,2025-09-21
+d7a57efd-7b3b-4402-8904-dc2698a91420,C00633,Campaign 47,Email,Converted,2024-12-29
+b53e4fe3-e32b-4644-a49e-0a9164f2aeec,C00400,Campaign 18,Email,Opened,2025-09-17
+d5205bea-7f5e-46ee-8350-65359aaffa70,C00410,Campaign 5,App Notification,Ignored,2025-05-26
+d83d31a0-cb2c-4472-a6cc-b2e7797d3e55,C00311,Campaign 17,Email,Opened,2025-08-18
+1ea51dc7-759f-45e4-9710-f3f0bffeb4f9,C00610,Campaign 6,App Notification,Converted,2025-06-25
+3af28aba-c49e-4279-8a32-5c9d2b975bb1,C00341,Campaign 2,App Notification,Ignored,2025-02-05
+cf466779-a80c-47b5-801d-9f3c6c568894,C00574,Campaign 20,Email,Ignored,2024-12-22
+37d068e3-0ce8-4f9b-bc3f-a6c5fd546ae6,C00585,Campaign 12,SMS,Opened,2024-11-19
+ee23e592-6309-456b-b27d-60c1c1d5ca4f,C00858,Campaign 21,Call,Clicked,2025-09-20
+b712aa92-5f28-455f-92a4-7018eaca9849,C00727,Campaign 9,SMS,Opened,2024-11-15
+720b95da-8832-4434-936f-cddd5cc6b496,C00999,Campaign 23,Email,Clicked,2025-06-17
+34f61b61-7d57-409d-a137-d61ee3b33b65,C00680,Campaign 32,App Notification,Converted,2025-01-19
+8f6ba093-f836-4d42-b97c-070d02b1707e,C00194,Campaign 27,SMS,Clicked,2025-06-28
+7fccd32c-a943-4200-8e2d-da48bf019156,C00359,Campaign 35,App Notification,Converted,2024-11-27
+986b4a55-a707-4710-b957-e42db0465056,C00987,Campaign 3,Call,Clicked,2025-01-10
+449d945a-62d1-4afc-9754-c81f76149744,C00677,Campaign 17,SMS,Ignored,2025-09-05
+f7131a89-adad-44f5-bfc9-3c9a6a4a78e3,C00687,Campaign 45,Email,Converted,2025-09-02
+16922537-60fe-4dc8-ae0b-9c3e2ef437db,C00384,Campaign 39,SMS,Clicked,2024-12-28
+9b84baca-c9e6-4c34-a396-3941b29a73ea,C00449,Campaign 11,Call,Clicked,2024-12-07
+3c8d91b1-ee99-4245-ab90-dfe567a675b9,C00902,Campaign 3,App Notification,Ignored,2024-11-02
+dc527551-2d11-4bc9-a515-8fc392b760df,C00407,Campaign 13,Email,Ignored,2025-09-11
+b2b27856-64fb-4319-9570-5d7870ff6ae5,C00458,Campaign 44,Call,Clicked,2025-01-11
+c315f084-de13-49b2-9481-0f8039143e86,C00785,Campaign 12,Call,Ignored,2024-10-07
+9aeb7b62-a12a-421b-904a-41415180422f,C00052,Campaign 34,Call,Ignored,2025-07-27
+66a146ed-fdfb-4d7d-a380-239764abf276,C00344,Campaign 33,App Notification,Opened,2024-12-12
+64d4603d-a6e5-4885-8fc9-3b0b0439fdca,C00910,Campaign 31,Call,Clicked,2024-12-06
+1e3d208e-ecf2-4d0f-b604-849b2524d287,C00437,Campaign 46,Call,Clicked,2025-07-11
+13c4b8ac-adc7-4326-9bd3-f5b00dc6f1f7,C00639,Campaign 26,App Notification,Clicked,2025-02-13
+765aa3f5-82aa-4ada-b201-5af70e75e4ab,C00108,Campaign 37,Call,Ignored,2025-08-08
+b659822b-cf50-4caf-b5c9-5bc7f70dcbac,C00660,Campaign 20,Call,Opened,2025-07-30
+d6dac7e5-4cea-41b6-9f00-15920e337a77,C00811,Campaign 12,Email,Converted,2025-08-22
+bdab55ff-3458-49bd-9724-d7d71bac0f9e,C00656,Campaign 29,App Notification,Ignored,2025-05-21
+c0f50614-e459-4b10-9d11-d58fc3e0b99b,C00326,Campaign 30,App Notification,Converted,2024-12-04
+79f69c25-babe-4c1a-b015-6679eea3ec22,C00946,Campaign 44,Call,Clicked,2025-06-24
+3f10142c-a189-4a58-abbb-3651fe5cb79f,C00407,Campaign 3,App Notification,Ignored,2025-05-03
+7b943cdd-28fb-42dd-ae56-a6325d6975e4,C00566,Campaign 47,SMS,Ignored,2025-08-27
+cd43a1ab-c3f2-4cb6-a9c6-b5b0e307d8c5,C00554,Campaign 24,Call,Ignored,2025-04-30
+647f45ad-8b4b-4bc7-bfd2-111194abb358,C00771,Campaign 47,SMS,Opened,2025-03-04
+55aae8af-0faa-47e5-b26c-d3817804249e,C00875,Campaign 30,App Notification,Ignored,2025-02-02
+b6d798cb-95b3-43a9-97bc-c857844ee710,C00085,Campaign 5,App Notification,Converted,2025-07-02
+2ea12e27-fc56-4447-96d3-f5d5796563c6,C00373,Campaign 10,Call,Converted,2025-06-04
+9be66159-6259-497c-9aeb-79c4eb80c46c,C00053,Campaign 6,App Notification,Converted,2025-07-01
+4add6ff5-535e-4342-9899-f328ee31d84f,C00166,Campaign 25,Call,Clicked,2025-06-08
+f0d6f598-d274-455d-b955-0a822ede60ec,C00553,Campaign 4,App Notification,Opened,2025-03-18
+92e9d58c-2096-4d9e-a827-d6500cb449df,C00462,Campaign 38,SMS,Clicked,2024-12-23
+1ad8b5b4-d34b-467e-b206-aab0c6a35eb8,C00047,Campaign 36,App Notification,Ignored,2024-12-10
+9269e706-8262-4f54-a41e-cb5e20f1e099,C00408,Campaign 16,Email,Converted,2024-12-04
+050bcf47-6bb2-407a-8306-a29fd0bc2436,C00737,Campaign 49,App Notification,Converted,2024-11-20
+8b869e30-c202-4b52-af3f-3f763fed3d79,C00041,Campaign 26,Call,Ignored,2025-07-30
+7fedcad7-5c15-436c-9363-daf849812f8c,C00578,Campaign 50,SMS,Opened,2025-03-19
+9b86f765-bde9-4af3-a2aa-1291b174ced1,C00245,Campaign 32,App Notification,Ignored,2025-09-21
+b34c693c-2c3b-4afa-8412-dc0386bba566,C00712,Campaign 35,SMS,Opened,2025-05-10
+9726cf22-b8f1-40e4-9028-ea565fd956b1,C00744,Campaign 15,SMS,Clicked,2025-01-31
+79115d8e-15c0-41f2-80bd-494b69e6adf4,C00270,Campaign 38,SMS,Opened,2025-03-02
+5603df5b-5d55-4a4b-a83d-cf21fcd9ce7a,C00367,Campaign 19,App Notification,Opened,2025-04-16
+b156240e-3859-4d16-a7b7-28b928111ac2,C00514,Campaign 41,SMS,Clicked,2025-02-05
+8bfaca8b-b0d8-4d0c-a130-7c3be20662ad,C00964,Campaign 26,Call,Converted,2025-01-20
+de9fd5e5-069c-4d48-ab0d-e7467d80c62d,C00330,Campaign 14,App Notification,Converted,2025-09-20
+c8a966f1-0178-4f4d-b1e8-daac6feaf9f0,C00626,Campaign 29,Email,Clicked,2025-05-26
+c73b7b63-8c04-408c-a5d8-fe0fc48d2648,C00582,Campaign 2,Email,Opened,2025-08-08
+39093829-edaa-49d9-9bbd-038e2d65e1e7,C00865,Campaign 35,Email,Clicked,2025-07-12
+8b0d0c43-24ca-4e84-b355-8fdc5b5831db,C00041,Campaign 2,SMS,Opened,2025-08-02
+1a973bce-7f73-4b3f-9cca-977c86f3a62a,C00766,Campaign 27,Call,Converted,2025-02-08
+cd864944-59ca-4ccd-b1a2-8b9ee4ce4b2a,C00870,Campaign 6,Call,Clicked,2025-08-21
+7c033b29-4ce1-4237-a8f1-e02fa61f829c,C00521,Campaign 46,Call,Ignored,2025-09-04
+4f4f3cf0-aa08-460b-86b8-318e69190d27,C00316,Campaign 45,Email,Converted,2025-08-01
+46e831dc-6990-4f0e-841d-fdd67fb3c50c,C00997,Campaign 10,Call,Converted,2025-05-29
+af3801e1-7471-4678-88a8-fbdc522a5bb1,C00797,Campaign 27,App Notification,Clicked,2024-11-18
+c218d089-1a4b-48c0-bed1-d993851987ab,C00152,Campaign 47,App Notification,Opened,2024-09-27
+8cf5f55c-ffab-4ef6-9f76-9f37f7040252,C00363,Campaign 4,Email,Opened,2025-09-06
+86bdea2c-0c9d-41de-af2d-e9dab9d97501,C00137,Campaign 37,Email,Ignored,2025-04-11
+50eb67db-7aed-472c-8a33-132fef43e918,C00980,Campaign 13,App Notification,Opened,2025-02-18
+f1248364-ef80-4c47-919e-80a54f7cdde9,C00468,Campaign 21,SMS,Converted,2025-01-30
+56a296b3-ad7a-4a9d-bf46-cacd068b3631,C00075,Campaign 38,Call,Converted,2025-04-10
+879faa84-51ef-4bf2-8310-f80aa687d7c8,C00764,Campaign 26,Email,Converted,2024-09-27
+a449bb3a-e78b-4dbd-8fe0-04bb0062dacc,C00172,Campaign 19,SMS,Opened,2025-04-15
+7c8a12f5-6ba3-4c80-92dd-e38aae30d8de,C00218,Campaign 34,Email,Clicked,2025-04-29
+40ee7792-428f-44b1-b758-d606cdc04ee1,C00840,Campaign 43,Email,Converted,2025-03-25
+72503b0f-364f-4995-9698-ff0514523465,C00904,Campaign 44,Email,Clicked,2025-04-06
+f46c7693-8c4d-4864-bad8-f57fc59e673f,C00450,Campaign 30,App Notification,Ignored,2025-02-27
+c92a9444-6254-413a-947f-de4e31a0e718,C00406,Campaign 2,SMS,Ignored,2025-05-14
+3e033cb5-549b-4577-8346-755a637f5a8a,C00573,Campaign 25,App Notification,Clicked,2025-09-01
+71b7fff3-d136-4bd9-8ce3-a5b33be57a11,C00500,Campaign 48,App Notification,Clicked,2025-03-05
+f95c720c-688e-472c-92f6-9d0dbe669b98,C00467,Campaign 36,SMS,Clicked,2024-12-16
+e4e7f9e7-93c0-414e-bac1-4727f3e25e1f,C00951,Campaign 9,SMS,Opened,2025-08-04
+ee6d6442-dd84-456c-8b10-0e5927fdd5ff,C00119,Campaign 21,SMS,Ignored,2025-06-04
+8082fb54-2b96-4829-a47c-fc6ceb7d1526,C00613,Campaign 32,Call,Opened,2024-11-04
+0021fbb4-584d-45a9-9303-001eecc444f1,C00106,Campaign 32,App Notification,Clicked,2024-11-29
+8ca6790d-34ec-46ca-8a48-93977c23ee89,C00654,Campaign 2,SMS,Converted,2025-08-14
+fca84da2-49cd-4d14-beb0-0c347fad34c8,C00357,Campaign 7,App Notification,Clicked,2025-01-16
+1d848ee7-2a22-47d5-b6b0-78b252b8cc99,C00389,Campaign 18,Call,Converted,2025-05-01
+a2262e37-e885-4934-91ca-2ab60238676a,C00541,Campaign 44,SMS,Opened,2024-09-25
+6aad6cf6-c065-4100-a16c-a920792621be,C00625,Campaign 46,Call,Opened,2024-10-03
+a43f9e0b-e8bd-4d78-9d42-a08d7a6b6010,C00977,Campaign 42,SMS,Converted,2025-04-18
+4509d4f8-1377-4b12-985d-37b829f1c752,C00542,Campaign 26,Email,Opened,2025-02-01
+3c7a6960-736d-49a1-bc9f-b61596664830,C00832,Campaign 34,App Notification,Converted,2025-09-16
+9277cb39-041d-491a-a0ad-9dff68e16e19,C00221,Campaign 24,App Notification,Ignored,2025-04-06
+94a23860-512c-463e-af90-d5cebdd1d430,C00672,Campaign 43,Email,Clicked,2024-11-05
+c05a2a81-7067-4a4a-97d7-9e908e809b07,C00145,Campaign 5,Email,Ignored,2025-01-11
+638cc8e0-3b5a-402f-b87f-8c66fa1b98ea,C00947,Campaign 44,App Notification,Opened,2025-03-02
+a5426194-70f3-40fb-9d2e-f2a83479f386,C00330,Campaign 13,App Notification,Ignored,2025-04-05
+ce65ac31-734d-43fc-8623-135d599e7faa,C00243,Campaign 1,Email,Converted,2025-01-11
+ae1291e5-aeda-484c-9879-07debf5caea9,C00374,Campaign 18,Call,Clicked,2025-01-28
+73e30da8-5cb9-489c-9f41-6927a792841a,C00345,Campaign 40,App Notification,Ignored,2024-11-05
+9cb0e36b-a1ba-4dcb-8cbe-fa231cfcbd1d,C00370,Campaign 44,Email,Ignored,2025-04-07
+f545c4ad-4391-47d4-832f-8d68f58d7587,C00321,Campaign 10,Email,Clicked,2025-07-11
+10846404-63ea-4724-aec5-d07699d657ab,C00141,Campaign 3,SMS,Converted,2025-08-26
+51f439e0-9082-4856-9821-18083e3f9fcf,C00002,Campaign 41,Call,Clicked,2024-11-29
+7a0b0693-7a3b-44f3-803f-db3e7a98aaad,C00253,Campaign 48,Call,Clicked,2025-03-19
+28664c3c-a3e4-4dd2-b047-51a93cac3dc0,C00869,Campaign 19,SMS,Clicked,2024-10-23
+83e504a9-462f-4cf2-81f1-5c8038e609a6,C00145,Campaign 7,Email,Clicked,2025-03-09
+d0980e6f-e707-4d91-a22c-47585e8346d9,C00294,Campaign 27,Call,Converted,2024-10-20
+14d58bb7-9eef-421c-aade-4ee3db716dbd,C00363,Campaign 10,Email,Clicked,2025-08-29
+84e70033-d525-414a-9012-b451c186313a,C00920,Campaign 4,App Notification,Converted,2025-03-14
+ded75190-97b6-4ddf-be26-96fd5f916dda,C00322,Campaign 20,SMS,Ignored,2025-05-26
+20781f1f-388f-42ed-b931-60f3d92d0e72,C00694,Campaign 22,Call,Converted,2025-06-18
+a3a5eb87-0a5d-44e8-983a-e726d060b692,C00833,Campaign 10,SMS,Opened,2025-07-06
+96d57278-52dd-4c90-8f4a-d88deb0b8863,C00633,Campaign 4,App Notification,Ignored,2024-09-28
+1d01e1ac-bd4b-4bf2-99c6-29bf49621035,C00291,Campaign 7,Call,Clicked,2025-03-03
+5d441b28-8cef-4ab9-9274-20a1613986e9,C00019,Campaign 23,Call,Converted,2025-01-06
+1131371c-9138-407f-bab7-23765290a6d2,C00220,Campaign 39,SMS,Opened,2025-04-21
+2f55e5f6-ecf1-43ee-8d8b-f41f46f9cb99,C00715,Campaign 42,Call,Clicked,2025-01-08
+bd484900-a85f-4c1c-9c17-3194202ce507,C00477,Campaign 1,Call,Ignored,2025-08-08
+303ddadd-227d-4c8f-bb0d-8db61a67f58d,C00696,Campaign 34,Call,Opened,2025-05-05
+e907aae7-e222-439e-b00f-7fc93f38f537,C00733,Campaign 16,App Notification,Opened,2024-10-14
+56137abd-680b-420a-8354-22f5faa01764,C00970,Campaign 36,App Notification,Clicked,2024-12-19
+31db1398-ca9b-4dab-a095-8c065f322b99,C00474,Campaign 24,SMS,Clicked,2025-08-10
+78e8f5fa-f1e4-4154-9cce-e93c5e514265,C00312,Campaign 30,Call,Clicked,2025-01-16
+aba8e90a-95d7-4211-9237-7811e8270f6c,C00041,Campaign 20,SMS,Clicked,2025-04-10
+cf805dce-ff5e-45ed-a55d-129592009a78,C00704,Campaign 29,Call,Opened,2024-11-20
+1ebad31c-b434-4dd9-baf0-c07c2f976fda,C00474,Campaign 16,SMS,Ignored,2025-04-29
+7d765345-867d-48bc-8006-1bf4ea8dd895,C00352,Campaign 14,SMS,Converted,2025-04-17
+a2055618-5341-43d2-a113-a3fac38f6afe,C00863,Campaign 47,App Notification,Opened,2025-03-15
+2573ed56-8d51-4fb4-9c0c-644da6d1ebd5,C00572,Campaign 15,SMS,Converted,2025-07-05
+30ba7b8a-fbf6-4cb0-b9e1-3623c969b227,C00781,Campaign 11,SMS,Ignored,2025-03-13
+0c228b72-3f5f-4fdc-acc7-c698f07fbeba,C00060,Campaign 28,SMS,Ignored,2025-04-27
+94bf5286-3830-47cf-b4a5-e6b0780764c1,C00543,Campaign 14,Call,Opened,2025-05-16
+de1d9d12-3f4c-4fb5-b988-3c8183f5eff3,C00924,Campaign 48,SMS,Opened,2025-03-03
+91b855d1-06f8-4c8e-a973-430662839b95,C00878,Campaign 1,Email,Ignored,2025-03-25
+80d4a6dc-7fa3-4d5c-beea-ac2491c311b6,C00918,Campaign 27,App Notification,Converted,2025-07-17
+02d9c115-f9e0-44ed-95c1-082fee1015e4,C00495,Campaign 24,Email,Opened,2025-07-10
+a4808949-afa5-4d29-8e24-c8b8c10b6887,C00543,Campaign 4,App Notification,Ignored,2025-01-08
+0bdedc07-a969-44f6-9d21-fc63fef6cdbc,C00921,Campaign 6,App Notification,Opened,2025-03-05
+2836443b-6654-421f-99c1-036223f78f82,C00064,Campaign 14,Call,Clicked,2025-09-04
+fd55a15a-bab5-4d8f-b917-a8b2e50c12f4,C00866,Campaign 3,Email,Clicked,2025-09-14
+14e9a1fd-afaf-4da6-86f6-bdbebd8bf35d,C00283,Campaign 49,App Notification,Opened,2024-09-30
+b5ee7ca9-3b37-48fd-9cb6-1e9371026c76,C00224,Campaign 3,App Notification,Clicked,2024-11-29
+5b0ea850-679e-4254-a5c6-d4baf3172b9f,C00598,Campaign 35,Email,Opened,2024-11-17
+4a2671b5-587b-421c-a888-e146844c9783,C00840,Campaign 17,Email,Converted,2025-02-12
+4de5e902-9f03-41c1-9523-114e0404e4c3,C00714,Campaign 2,Email,Converted,2025-05-27
+7ff7d204-6ce4-4175-99ea-2072bce2d349,C00899,Campaign 26,App Notification,Converted,2024-11-07
+340b417d-51c9-433a-b12b-f0827574c1a7,C00383,Campaign 21,App Notification,Opened,2025-04-25
+b99f8386-f50d-4407-8549-1809d71522ad,C00167,Campaign 23,SMS,Converted,2025-09-05
+cd322a98-4728-4014-aa22-997b713aa5e1,C00451,Campaign 25,App Notification,Converted,2025-05-15
+e117e144-b778-423b-972e-fc798db9c39b,C00344,Campaign 24,Call,Ignored,2025-04-28
+75d9b43e-8d95-4ad6-98f2-16a8d8a8ea36,C00320,Campaign 10,SMS,Converted,2025-05-27
+80355d33-abd7-44e5-818a-92e7fb72b675,C00506,Campaign 22,Email,Clicked,2025-01-13
+50bf964e-b63b-45db-944f-06507eae1b6c,C00618,Campaign 14,SMS,Ignored,2025-06-30
+00917af9-ce71-4428-8cf5-7403b0d092f8,C00134,Campaign 46,Call,Converted,2025-02-04
+9e5bc2a5-56b7-4e2a-a452-650fbddd0da0,C00320,Campaign 40,App Notification,Opened,2025-05-11
+3788678f-8585-4b00-aff8-0ca12455dd36,C00879,Campaign 12,SMS,Clicked,2025-08-08
+c4f8f025-0882-4553-9ef7-1953f20ffd3d,C00435,Campaign 25,Email,Ignored,2025-03-08
+596537cd-0627-4f82-b947-6347b2be318e,C00179,Campaign 13,Email,Ignored,2024-10-24
+68a393cf-0ba2-448e-9a20-4e06309c19fb,C00624,Campaign 36,Call,Clicked,2025-05-03
+c78c22c6-1098-4d74-ae82-193472cc9729,C00706,Campaign 19,SMS,Clicked,2024-11-10
+8c2993cd-635c-4457-914c-67251b54711e,C00749,Campaign 45,SMS,Ignored,2024-12-21
+d3f422c8-0731-4459-8809-029e732cccb9,C00468,Campaign 32,Call,Opened,2025-08-30
+854c29e7-f1c0-460c-9d74-15f87bc6fe01,C00124,Campaign 12,App Notification,Clicked,2025-09-01
+e09ea49d-91b4-4fc2-b325-cd5a3971ec1c,C00297,Campaign 38,SMS,Converted,2025-07-19
+49edd76f-1c94-4125-a7d4-e39bc55a2ab3,C00729,Campaign 14,Call,Opened,2025-09-17
+4f67f26c-2baf-4888-92d1-3183b99c92b8,C00773,Campaign 15,Email,Converted,2024-10-24
+3dc80de4-7abc-4672-9a7a-0ecc791f4c72,C00347,Campaign 41,App Notification,Opened,2024-09-24
+31351389-b040-4f3a-ad15-22a1e2e8d232,C00224,Campaign 47,Call,Opened,2025-04-19
+5f3a0393-8778-4ad4-b517-a8c0d4314919,C00647,Campaign 20,Call,Converted,2025-04-06
+42c410db-8f2c-442a-a872-7ee30888e9ba,C00666,Campaign 28,SMS,Clicked,2025-06-01
+dc401520-fa4f-40ff-b445-b47c8079e2ec,C00895,Campaign 50,Call,Ignored,2025-02-26
+edca1574-8411-466d-8351-47f7eef3dd4e,C01000,Campaign 35,App Notification,Opened,2024-11-08
+89259d6b-32ee-4a56-a971-2d80716b6d03,C00465,Campaign 28,App Notification,Ignored,2025-02-15
+0bc1ee33-69ec-46a9-aaad-67ba56024538,C00946,Campaign 41,Call,Clicked,2025-08-31
+fee50866-5f13-43f0-bb12-5aa2798cb633,C00354,Campaign 44,Call,Opened,2025-08-31
+c8df9c54-72eb-4428-9b10-e35c906a49ef,C00651,Campaign 2,SMS,Converted,2024-12-22
+53bfb921-ca6e-4270-80df-1534e9fccbcc,C00772,Campaign 33,App Notification,Clicked,2025-01-08
+f18567d9-5186-482a-80c4-f5d9cf9615ca,C00942,Campaign 18,App Notification,Opened,2025-06-23
+712192d7-e36a-4c90-ab49-69ada388a945,C00968,Campaign 37,SMS,Converted,2025-03-19
+fa2b218d-5a92-45f1-a17e-a378a8b04733,C00545,Campaign 30,Call,Clicked,2024-09-28
+b03dfb38-5405-4a01-adc8-29e00a026807,C00640,Campaign 2,Call,Ignored,2025-07-22
+9d66d6f0-a6a7-4b93-887f-5cd7bfaeca43,C00025,Campaign 21,Call,Clicked,2025-06-20
+a0d0940f-069a-4c79-908f-a5658c51c283,C00102,Campaign 46,App Notification,Ignored,2025-04-09
+87523b4d-5349-4cc4-8e51-0e8751f5cb7e,C00373,Campaign 7,Email,Converted,2025-03-06
+80fc5ba8-7c03-48d3-97b5-6faa36132f0b,C00954,Campaign 20,Email,Converted,2025-01-08
+a118bb8b-78fe-462d-88c0-765b5c1b2024,C00815,Campaign 49,Call,Clicked,2024-11-17
+49c2e3ec-2725-40c3-8572-9ddf86c1d0e5,C00089,Campaign 24,Email,Clicked,2025-09-03
+15ecf897-4948-4a08-8b00-249d0433d97c,C00500,Campaign 5,Call,Opened,2025-02-06
+f331f60e-bc32-4a49-b787-bf68ca09a293,C00607,Campaign 30,Email,Clicked,2025-09-01
+1deff5b4-3ea4-47d4-9471-48e24d8fc6e9,C00747,Campaign 12,Call,Opened,2025-02-19
+1e6f1679-abce-4304-85e3-20ae0386e889,C00658,Campaign 8,App Notification,Converted,2025-02-27
+160379b4-1d55-46af-9277-9fe5ae3750ce,C00173,Campaign 42,App Notification,Opened,2025-01-27
+f81df0c5-61e5-47c8-a133-20e95de1a084,C00062,Campaign 25,Email,Ignored,2025-03-02
+0442e80b-48d7-434c-a5dd-05313b200dc9,C00655,Campaign 5,Email,Converted,2025-06-08
+5b3613de-a787-430c-a9df-667070c15f8e,C00640,Campaign 50,Call,Converted,2024-10-10
+4fd7fa9e-d44a-4f1d-9f26-808c0a9b3d13,C00625,Campaign 1,App Notification,Ignored,2025-01-24
+a406522f-f2ef-4eb1-88ae-c57e4d05c113,C00253,Campaign 22,SMS,Converted,2025-04-14
+7a41388f-a04e-43bd-a14f-bee823457bfe,C00898,Campaign 36,SMS,Clicked,2024-10-02
+9f7aff61-9218-49c9-a44f-5eafdfc7a9fb,C00620,Campaign 20,Call,Clicked,2025-05-31
+4f673cae-6269-4e84-a69b-fb90ed4639fc,C00596,Campaign 47,Email,Opened,2025-05-04
+550026bf-3df3-4555-9fb2-568e4ec8bd3d,C00683,Campaign 16,SMS,Converted,2025-03-02
+da3051c3-b22d-4541-bd35-c99f59292739,C00724,Campaign 7,Email,Converted,2025-08-17
+0a6ca2b2-f207-4074-8196-ed3cd30b6c17,C00801,Campaign 16,SMS,Ignored,2025-08-26
+64cc3dc5-a7c9-4eed-89db-d38739aaeb92,C00973,Campaign 29,App Notification,Opened,2024-12-10
+7cbbaa4d-4afa-449f-a748-7e9737b056e6,C00124,Campaign 12,SMS,Clicked,2024-11-14
+5340cb95-5ce1-44e7-8ded-3f772a2c974c,C00827,Campaign 13,App Notification,Clicked,2025-07-03
+7c091027-18e7-41ea-be69-b262ea92ed68,C00333,Campaign 27,App Notification,Opened,2024-10-08
+597767e7-3c57-4737-b88e-f1bcbac3c397,C00994,Campaign 6,Call,Opened,2024-10-17
+df0584da-4bfa-4a9c-85d5-b54cc35f962f,C00794,Campaign 6,Email,Ignored,2025-05-17
+a59b7d72-45ab-4c0d-82b8-f53b2f192ad2,C00861,Campaign 26,SMS,Clicked,2025-05-14
+d46de3a8-a173-4a1a-9cd1-aff1c88ebb9f,C00810,Campaign 5,Call,Converted,2025-06-10
+abd35669-3f6e-4190-b3cd-167b66c0aec2,C00893,Campaign 2,Email,Converted,2025-05-04
+08ecfe9b-bac9-4c21-8a66-8125c539dd0b,C00548,Campaign 14,App Notification,Clicked,2024-12-28
+f2b7cb0c-e83d-4e3e-9779-809c363334e7,C00699,Campaign 21,App Notification,Ignored,2025-06-10
+f90fa0a6-b393-4aea-85f2-167004a753fc,C00371,Campaign 40,SMS,Clicked,2025-08-09
+c2b6f793-de26-4406-8cd5-c981b969f326,C00561,Campaign 7,SMS,Clicked,2025-04-11
+a1c88bb6-7eed-4ecb-aac8-4e62bc94a17c,C00153,Campaign 23,App Notification,Converted,2024-11-23
+029f745d-4d35-4375-9abf-d7aa50f10435,C00004,Campaign 37,Call,Opened,2025-06-02
+7001f96f-bd1e-4745-9c07-81096060f8dd,C00263,Campaign 7,SMS,Ignored,2024-10-12
+72a42452-f1fa-407f-8080-910b945d5cbb,C00667,Campaign 2,App Notification,Ignored,2024-12-10
+f3d107d7-038f-4640-931b-44b97f70e52d,C00710,Campaign 1,Call,Converted,2025-04-27
+65e3539f-e335-40b4-9d9e-ecb4f7f687e6,C00261,Campaign 49,Call,Clicked,2025-09-13
+8f9a7495-e939-4b79-8886-9eb3f5913690,C00666,Campaign 36,Call,Opened,2024-10-31
+dba1586f-3ad5-49e2-848f-bc73e4b0796b,C00646,Campaign 38,App Notification,Opened,2025-05-11
+1bcc056b-9a4d-4cd3-a135-d80a4b475a0b,C00419,Campaign 36,Email,Opened,2025-05-30
+0dfd7bf6-5d65-498b-988e-e0bf8cad12ee,C00091,Campaign 19,App Notification,Opened,2024-10-31
+ed6f576f-42d8-4add-9354-f30f409c2120,C00772,Campaign 40,App Notification,Clicked,2025-02-20
+706ee9a0-5ea4-49df-a749-7654fecdd103,C00798,Campaign 30,SMS,Clicked,2024-12-17
+3812bd11-5963-4c64-9db7-7f0727a02816,C00839,Campaign 29,App Notification,Ignored,2025-02-25
+97efdfbe-6705-4665-b0fd-f5e620923175,C00683,Campaign 34,App Notification,Ignored,2025-03-26
+ddef2a66-c530-4d82-ac16-4dac65089414,C00549,Campaign 20,Email,Opened,2024-11-22
+95813f92-e2e9-4fe4-b1b0-235dc183b479,C00136,Campaign 11,Call,Converted,2025-01-31
+a38d5a53-bee0-4d67-8ab2-1b787f882bc2,C00388,Campaign 44,Email,Opened,2025-04-25
+5d25ed3e-47b4-4f1d-bd00-15294f1fd126,C00099,Campaign 36,Email,Converted,2024-10-07
+a5c6a74b-9066-42c3-a180-b2af0f576214,C00776,Campaign 28,Call,Opened,2025-03-28
+775bfba9-1ea6-4222-b38b-d624c89ce859,C00344,Campaign 12,Call,Opened,2025-08-20
+c2296d73-16ec-4847-b870-c7a9a6eb5fb7,C00770,Campaign 47,App Notification,Ignored,2025-01-25
+6c9f0ca8-eece-41db-9813-82827efc35a4,C00924,Campaign 18,App Notification,Clicked,2024-10-07
+f0152751-61f5-45ff-ac28-4830471a4ceb,C00730,Campaign 38,Email,Converted,2025-09-04
+e881d4de-d593-4f73-83da-b136151dcdb3,C00451,Campaign 32,App Notification,Opened,2025-07-02
+6ada3e53-e58b-4476-966a-8f4672a2d829,C00067,Campaign 47,Email,Opened,2025-01-23
+c41c97a9-4332-420b-83d1-14f4d9214aec,C00016,Campaign 27,SMS,Ignored,2024-11-01
+48af9003-42e0-4a09-ae1d-adaa2f736fd9,C00303,Campaign 13,Call,Clicked,2025-09-13
+bd6739d9-800e-44c8-a8db-68f8aea3d11f,C00020,Campaign 44,App Notification,Opened,2025-05-13
+6a01a24f-caa3-4b67-a726-2935997f102f,C00340,Campaign 29,App Notification,Ignored,2025-06-21
+5e7e0704-fc6c-42c8-ba78-71a4492a9c8a,C00190,Campaign 15,Call,Opened,2024-12-27
+92c783a0-d6db-486d-ac54-af27a8ec9027,C00346,Campaign 14,App Notification,Converted,2025-07-13
+ee994e2f-381d-468d-95d1-3fdb1d501b3a,C00129,Campaign 20,Call,Opened,2025-06-18
+41192e85-0b66-40de-8ec5-bffe768116e6,C00170,Campaign 11,App Notification,Opened,2025-04-29
+2291c893-6db6-4d4c-9417-ff687c2febce,C00345,Campaign 2,SMS,Opened,2024-10-01
+ced76903-8c2e-4454-8f82-779e307949c6,C00459,Campaign 29,App Notification,Converted,2024-12-03
+ee4ff59e-6465-4541-981f-6add3f1c9fa1,C00656,Campaign 38,Email,Opened,2025-01-21
+2c724fcb-e621-4e87-8ffd-45d72a2f18be,C00236,Campaign 34,App Notification,Converted,2025-07-19
+b47d14a0-009f-4bd9-aab9-af93ab8cd00e,C00896,Campaign 8,SMS,Converted,2025-07-14
+1efe211c-ad06-4c21-a8ee-ee1b4804739b,C00909,Campaign 1,App Notification,Converted,2025-01-15
+e4bf7a1b-c34d-427f-9848-9d2242f399bb,C00901,Campaign 44,Call,Ignored,2024-12-31
+b19c4b30-6f71-428a-ab9c-838fcbf84d97,C00144,Campaign 11,SMS,Clicked,2024-11-08
+27a8ffcf-484c-478f-b0f7-d6e65a3094f1,C00870,Campaign 44,SMS,Clicked,2025-01-21
+8e96ac56-1618-40fc-a2a8-bf43576baa21,C00035,Campaign 47,App Notification,Clicked,2024-12-05
+b8498f8c-6e24-4d18-b1d5-117cd137a1f1,C00650,Campaign 10,SMS,Ignored,2024-11-18
+417e26a4-888a-411c-b533-ce4b1699d28a,C00137,Campaign 4,SMS,Opened,2025-09-02
+583cc91a-5c2e-4c46-b01c-3c95dcf36167,C00695,Campaign 35,Call,Opened,2024-10-20
+5a00a3e5-aac1-4152-935d-1c240246dd11,C00567,Campaign 20,App Notification,Opened,2025-01-01
+a0e0c05e-f7bd-40fd-9ee8-5c0821ed17e4,C00368,Campaign 3,Email,Opened,2025-02-03
+56da4c58-7b32-4b5b-9dc3-f61224305fa4,C00100,Campaign 21,Call,Opened,2024-09-26
+80d97074-8a89-4143-a711-d03866e70e38,C00557,Campaign 13,Call,Converted,2025-05-15
+a5b0eca4-461c-4e81-a79c-e3e582b3a59d,C00426,Campaign 37,App Notification,Opened,2025-08-10
+0363f8ee-b276-4405-ac03-25faec337edc,C00417,Campaign 22,Call,Ignored,2025-03-03
+642bafb0-26bb-4670-9262-db567887343f,C00632,Campaign 5,Call,Ignored,2024-12-01
+a9f93896-b138-4e6f-8859-b9f04e8debc9,C00873,Campaign 45,Email,Opened,2024-11-30
+878d2cfa-7d1c-493c-b63e-83379e491eef,C00727,Campaign 42,App Notification,Ignored,2025-09-01
+26c52ced-3f8c-4b76-8873-b8b0bbb9c175,C00821,Campaign 21,App Notification,Opened,2025-02-19
+3e6c7ac9-3f59-4bcb-b388-873d288a1b6f,C00713,Campaign 11,Call,Converted,2024-11-19
+7278de08-72e6-473a-a018-863d68d02a04,C00510,Campaign 13,Call,Ignored,2025-08-25
+6f35f934-4a9a-470e-b060-17d26df6a277,C00596,Campaign 20,SMS,Opened,2025-08-12
+cb22537a-81b1-4160-a959-6e8355f342ab,C00091,Campaign 33,Call,Clicked,2025-03-29
+d832b435-a272-4190-94a4-6fd41fa5a23d,C00408,Campaign 27,Call,Opened,2025-01-09
+7243ef08-f833-4653-8994-e7d262827ba8,C00250,Campaign 20,SMS,Clicked,2025-05-16
+9564d534-4b52-4d57-80a7-fa277532ac23,C00618,Campaign 6,Email,Ignored,2025-06-02
+44bb84b2-4a1e-4e91-933e-db88f9c2f1f5,C00266,Campaign 47,Email,Converted,2025-05-04
+3385611c-12ab-41e5-8990-c52931a24804,C00523,Campaign 12,App Notification,Converted,2025-02-23
+7eb212b7-e283-4ffc-a31f-f2e958b95614,C00468,Campaign 1,App Notification,Ignored,2024-11-20
+c01167d1-ba49-419b-9449-f331ddc7fbf2,C00683,Campaign 37,Email,Clicked,2025-08-13
+b595c8ae-42b8-4e76-812f-ac3b68abac0a,C00947,Campaign 44,App Notification,Clicked,2025-07-19
+e8ea474d-012b-4449-a06c-5f09f6c48c4a,C00967,Campaign 28,App Notification,Ignored,2025-06-02
+6c358ce8-a62d-49df-a782-acf73adb5e34,C00506,Campaign 26,App Notification,Clicked,2025-08-18
+c364c6ff-3590-4433-805b-7c77a56b3436,C00186,Campaign 28,Call,Ignored,2024-12-01
+1f99eadd-6596-405e-935d-4b7d30fee952,C01000,Campaign 39,Email,Converted,2025-08-20
+dfd1d149-34d6-4f88-86eb-d9ccb613e519,C00366,Campaign 15,App Notification,Clicked,2024-11-02
+576f6394-03ca-4659-98cc-aae2733f4ae0,C00206,Campaign 33,SMS,Ignored,2024-12-22
+8df8d56c-3516-445c-aa46-8cd20a8e1a0a,C00959,Campaign 24,Call,Opened,2025-05-31
+1a102949-331f-47c7-b07d-474c38bb5034,C00842,Campaign 37,SMS,Opened,2025-05-21
+f0ff606e-aa2c-49c9-b909-8f89cba527cd,C00310,Campaign 43,App Notification,Converted,2025-08-14
+1afb81b6-0406-4fdb-8318-63141888b324,C00867,Campaign 22,Email,Ignored,2025-02-16
+02e69e89-d15b-4370-8a61-8af547906de7,C00710,Campaign 35,SMS,Opened,2024-11-20
+0eee21c3-89a9-421c-a29a-a1476c62487f,C00722,Campaign 14,Email,Ignored,2025-08-07
+80300bac-38da-4624-98d4-70d7df0dc871,C00499,Campaign 26,Email,Ignored,2025-04-05
+9d568064-ea19-4e1c-bcd3-8d59b17086f6,C00582,Campaign 28,Call,Converted,2025-05-17
+126c25f9-31a6-4992-b47d-3f5e5d8886ef,C00758,Campaign 24,Call,Clicked,2024-11-03
+ab0be82a-e2a2-4e81-865f-6b5446a9fe93,C00172,Campaign 18,SMS,Opened,2025-08-17
+e8ba0777-8b4f-46e8-bbe9-01d49038df5e,C00793,Campaign 20,App Notification,Clicked,2024-10-28
+cf227625-4295-4e0c-befe-73b37c147663,C00320,Campaign 25,Call,Converted,2024-10-25
+159f27e6-cdb0-4b1d-946d-e7eb51490bee,C00596,Campaign 47,SMS,Opened,2024-10-01
+0326e324-6d22-4438-865f-d9b060a9154d,C00381,Campaign 44,SMS,Clicked,2025-03-26
+b739b772-3c55-4ee2-aef0-04a7d8958c16,C00827,Campaign 19,SMS,Converted,2025-02-10
+09b21305-65ad-4673-8a2a-06770f423f8a,C00979,Campaign 14,App Notification,Opened,2025-09-06
+a72c6899-fd25-41a7-a9b0-7bc1690fd761,C00628,Campaign 4,SMS,Clicked,2024-11-26
+f3b0339b-dce2-4a2b-8f99-b78824bfcb38,C00779,Campaign 47,Email,Converted,2025-03-23
+2504fda1-21bf-424e-9ae9-7391a39be4bc,C00705,Campaign 43,Call,Converted,2025-08-31
+a36975c9-1ad1-4843-963e-787cf58e20c9,C00707,Campaign 17,App Notification,Converted,2025-07-07
+de6b51a5-257b-42de-b241-6aedfe3dc3e5,C00537,Campaign 28,Call,Opened,2025-09-09
+196baf6b-a427-4fc2-b62f-ca996d1f7a3a,C00135,Campaign 1,Call,Clicked,2025-09-04
+0b096487-565c-4f6a-bea5-96b0c6bed439,C00545,Campaign 6,Email,Converted,2025-09-08
+87848ab0-0f72-4d64-90a7-c25620186b59,C00632,Campaign 17,App Notification,Clicked,2025-01-07
+7ae5b44e-ddcf-479a-92b5-404b13cf9b2c,C00680,Campaign 36,SMS,Converted,2025-07-30
+ec58c1c4-7f15-4753-94f9-a7cde3d7954f,C00771,Campaign 39,Call,Clicked,2025-05-20
+9d790f80-b587-4e15-a2cd-7ff06509ff92,C00517,Campaign 46,Call,Clicked,2025-08-13
+ffb377bc-9078-4212-8983-fd671075ac32,C00731,Campaign 8,App Notification,Opened,2025-05-05
+de04aa49-2f16-4543-9a93-d16ca47f499d,C00738,Campaign 37,Call,Ignored,2025-09-08
+eeca93ec-6b1c-49c3-a549-fe0987edf6c6,C00976,Campaign 2,App Notification,Ignored,2025-02-07
+6b330d06-36e4-4a8e-888c-d4dbfb09e689,C00080,Campaign 37,Email,Ignored,2025-04-14
+ee13be73-8ea1-45d7-a42e-6bcfc346e02a,C00736,Campaign 45,App Notification,Clicked,2025-07-17
+4a791f0b-1d1c-440e-a9f9-37b5eecf9fa5,C00867,Campaign 8,Call,Ignored,2024-10-09
+fc52cf6c-7896-4c34-b9dd-752af42d6d00,C00173,Campaign 25,Email,Ignored,2024-12-04
+741081a8-f941-486e-af97-612386842d76,C00135,Campaign 10,Call,Ignored,2024-10-24
+941cc40e-329b-4d2e-8122-310f47d3aa3e,C00030,Campaign 19,App Notification,Clicked,2024-09-30
+e4c6ed5a-9a4f-421e-8290-220b9e7eb520,C00172,Campaign 11,App Notification,Opened,2025-09-08
+575eba77-0d53-46d1-a9d5-4ab506b2d29c,C00666,Campaign 30,Email,Clicked,2025-07-30
+2d55455b-6422-4ad6-aa3a-f6b7bd2a9da3,C00051,Campaign 48,SMS,Ignored,2025-02-16
+a1eaf52e-01dc-43be-bb7c-fb7f0a20cadc,C00464,Campaign 44,App Notification,Opened,2024-11-27
+7e106540-48d7-457e-af8d-281da6e79f1f,C00931,Campaign 6,Email,Clicked,2025-01-06
+a73d25c1-e48f-4d7f-938c-bdcbd3487c0a,C00031,Campaign 20,SMS,Ignored,2025-03-07
+d7d67d92-88c5-4582-b75d-4aef85ffe0ee,C00412,Campaign 3,Email,Opened,2025-04-05
+2b11a965-3b25-459a-9028-0aae2bfa03b3,C00556,Campaign 41,App Notification,Ignored,2025-03-12
+5486523d-e3c7-4dd6-9e01-1875886f5fed,C00684,Campaign 42,Call,Opened,2025-09-02
+d3807ba7-c8e0-44f0-9897-01d92715c870,C00410,Campaign 50,SMS,Clicked,2024-12-08
+abadd1a4-7419-4c75-932c-70d6229b6b0d,C00668,Campaign 22,Email,Clicked,2025-05-30
+41841e1e-53f6-46ee-8556-bc04f6cd5a04,C00009,Campaign 36,Call,Converted,2024-10-07
+da7e6419-abb7-4c29-97b8-7e384bf5843d,C00453,Campaign 4,App Notification,Opened,2025-05-29
+d88388fe-f362-47ca-af16-5f698cf88bd1,C00756,Campaign 38,App Notification,Converted,2025-08-16
+5e29fac0-e222-4dfc-8556-cf937d42f43a,C00614,Campaign 2,SMS,Ignored,2025-01-08
+89792a78-8180-498a-95d7-5f31a410f7a9,C00286,Campaign 43,Email,Converted,2025-02-18
+44ad0ca1-99a3-4137-9c6a-fde54fb071ea,C00278,Campaign 10,SMS,Opened,2025-03-09
+d061b34d-79bd-45f9-8eb3-c47f0d573748,C00873,Campaign 24,App Notification,Converted,2025-05-12
+bc87b2c3-2c77-4434-92f0-f491d485d1ab,C00408,Campaign 40,Email,Converted,2025-09-18
+665831e1-3778-4d37-adb2-66dcc0e6c31e,C00290,Campaign 49,App Notification,Clicked,2025-02-21
+3dffa2aa-85f3-4c88-95f9-664799415464,C00180,Campaign 6,SMS,Opened,2025-03-17
+a37661d7-fa62-48cb-9c06-9b5359b2eb78,C00289,Campaign 37,Call,Clicked,2025-05-19
+d4e26024-47b7-4f3c-845e-92f9a5f88f34,C00359,Campaign 39,SMS,Converted,2025-08-26
+7e2a9ced-8a27-427c-be77-5b7f8b4db6dc,C00044,Campaign 46,Call,Opened,2025-02-03
+7ff2fd87-bdde-4efa-9fdf-7727037c0216,C00475,Campaign 10,SMS,Ignored,2025-06-24
+94c02a1f-9df8-46ab-8806-787cf82474e1,C00143,Campaign 26,App Notification,Opened,2024-10-13
+ca1f8f77-719c-4c78-9d95-f74f30337244,C00391,Campaign 6,Email,Opened,2024-11-16
+cb295e3d-13ea-46ba-a0f9-eeb1a15176d1,C00867,Campaign 34,Call,Clicked,2024-12-16
+b4e49cb1-966a-48d6-bdca-df205cd15fc8,C00725,Campaign 21,Call,Clicked,2025-03-26
+3c89bca4-35a0-4637-b164-e87948627ff2,C00917,Campaign 28,SMS,Ignored,2024-11-03
+6bad7a71-ac5f-443d-9ff0-3e74c1e281ed,C00510,Campaign 47,App Notification,Ignored,2025-04-24
+0c7b981e-1d93-4e25-84b4-fa5643bf9523,C00516,Campaign 32,Email,Clicked,2024-10-24
+e2fbdf5f-1733-4cde-87ef-3d7c67dc5056,C00583,Campaign 28,App Notification,Converted,2025-05-08
+eb293beb-ebd9-439b-bd2e-0962332c6797,C00121,Campaign 18,Call,Ignored,2024-12-09
+ef9a1893-d965-48ee-81d3-92162f82ffd6,C00527,Campaign 16,App Notification,Converted,2025-03-02
+f8c4ecff-cf38-44ad-ac95-0efafc78bdee,C00740,Campaign 3,Email,Converted,2025-02-11
+13c76f08-3502-4f9c-9129-fc49afc36a82,C00826,Campaign 28,App Notification,Converted,2025-09-21
+c2b24906-2165-4c1f-86bd-672fbe450d5b,C00466,Campaign 29,App Notification,Opened,2025-02-12
+3b298d59-3a0a-481d-afd7-3b67d67f423a,C00751,Campaign 9,App Notification,Converted,2024-11-05
+e775a7fe-0d6f-4631-8af7-3bde18308f4c,C00785,Campaign 22,SMS,Opened,2025-04-13
+01ff4957-1afb-4e0b-b0b7-97cb27fa557e,C00043,Campaign 15,Call,Clicked,2024-10-17
+1efed4c9-72e9-4c5d-b0eb-c8b315f16ccc,C00896,Campaign 40,SMS,Opened,2025-05-02
+77117b4d-5101-4eba-8b8b-e2a295035bc6,C00388,Campaign 47,Email,Opened,2025-08-27
+c32d497b-559e-4481-8bd3-d718400330d6,C00804,Campaign 35,Call,Clicked,2024-11-03
+5caaa0c7-9299-4b6c-a307-ec38aa76f56d,C00648,Campaign 24,Call,Ignored,2024-10-04
+b5b2446a-e55f-4b6d-9917-a01312d7a1ec,C00136,Campaign 48,SMS,Converted,2024-09-28
+d05a2d3c-c1d0-45fc-947d-e257d76ce100,C00548,Campaign 13,Call,Clicked,2025-01-23
+cf000651-cc44-4d22-b0e3-cee9c577679b,C00691,Campaign 14,Call,Clicked,2024-12-18
+6acd5724-cd75-4ade-a844-a9d65bad29aa,C00479,Campaign 5,Call,Ignored,2025-09-24
+16477c45-5e7c-4b07-991d-235e5d63a316,C00552,Campaign 35,Email,Converted,2025-03-15
+2e9f5993-5c8b-4ec4-bd16-eecf6ea48d19,C00292,Campaign 26,Email,Opened,2024-12-29
+073393d6-f1fa-466b-a6f3-f7af3d641028,C00041,Campaign 17,Call,Ignored,2024-11-17
+f8ff156e-edaf-4b1d-8e68-c1732f8b5508,C00310,Campaign 21,Call,Ignored,2025-04-04
+fe8702cd-7a9b-4f90-a059-f07ac1d10053,C00445,Campaign 25,SMS,Converted,2024-10-29
+be13e321-5397-417a-aa09-e05b65981eee,C00768,Campaign 49,SMS,Converted,2025-02-25
+2ae87613-94c4-4fa8-8b7b-78a72b24e201,C00200,Campaign 46,Email,Opened,2025-09-12
+70b78695-721c-4013-a234-f8a55dc7f692,C00939,Campaign 40,SMS,Opened,2025-03-05
+947956df-4d0f-41b3-aa0f-14a814c676e2,C00906,Campaign 12,SMS,Clicked,2024-10-10
+564e37d8-7f95-4cc7-95e0-0ea2788792b7,C00928,Campaign 19,SMS,Clicked,2024-12-03
+dd1e4608-7ef9-44f9-b69e-655a20e5b5b5,C00059,Campaign 15,Call,Opened,2025-05-31
+d5ffb90d-d8d7-4d83-9e3e-3bd3ee1263bb,C00926,Campaign 2,App Notification,Converted,2025-03-23
+590e62f9-c4b8-406c-ad7d-10c6cad96925,C00577,Campaign 46,SMS,Converted,2024-11-22
+86e47439-50df-407e-9f3c-d9cafc2add9a,C00741,Campaign 3,Email,Opened,2025-03-13
+b40106ea-9fdb-4a6b-85cb-ad8de9a5aa16,C00238,Campaign 13,App Notification,Converted,2025-08-23
+cea58c3e-9843-4c3a-862b-e8feecad8838,C00854,Campaign 45,SMS,Converted,2025-06-12
+8dc8556c-ba8b-4808-90cf-de2e66aad539,C00645,Campaign 31,App Notification,Clicked,2025-08-05
+1b1b9803-f886-44fe-ba33-aa9719400fb9,C00083,Campaign 12,SMS,Opened,2025-01-18
+1112ae27-17f7-4c9c-9d02-eac3f5048b49,C00634,Campaign 10,Email,Clicked,2024-12-27
+283f2db6-1db2-4d36-835a-2730b92b6c23,C00240,Campaign 14,Call,Clicked,2025-01-09
+fe76d3e5-4fcf-4b1c-8031-3984ce53cccf,C00763,Campaign 19,App Notification,Converted,2025-02-04
+7089a753-6a9d-4267-b755-cde64e2ba728,C00904,Campaign 18,Email,Ignored,2024-12-12
+343237a7-ef6b-4c36-ac3c-498fea518c9d,C00051,Campaign 47,Call,Ignored,2025-03-05
+e54cb568-784f-4e7e-bdb6-e680ec4f914e,C00617,Campaign 41,Email,Clicked,2025-07-29
+92c801d0-17a8-4f51-8381-b238b6c5f197,C00232,Campaign 39,SMS,Opened,2025-08-16
+66fc4c9b-68ed-4c12-aeb1-51f90023cbfa,C00202,Campaign 27,Call,Ignored,2025-04-30
+51465018-f1a5-4a1b-a79a-2e244f6d8d2d,C00639,Campaign 16,SMS,Converted,2025-05-21
+bd82c6fd-79c0-409b-9a15-0e278af1934e,C00575,Campaign 15,Email,Opened,2025-07-19
+e48d4971-01e7-4267-8111-0b33312a9888,C00562,Campaign 1,Email,Opened,2024-11-07
+eee23b99-173c-460b-8b88-2c8afb006331,C00963,Campaign 16,SMS,Opened,2025-03-23
+762548f8-16de-4d77-a806-f8bbe207e30e,C00940,Campaign 28,Call,Opened,2024-10-04
+e07876b4-a676-4e14-b4cf-d7b11ab12b94,C00967,Campaign 45,Call,Clicked,2024-10-07
+73b20053-202f-490d-ac0e-f4141a80dbd6,C00307,Campaign 47,Email,Ignored,2024-12-11
+aa279626-1729-4279-9b69-f16238be7cd2,C00511,Campaign 44,Call,Clicked,2025-09-07
+167d3369-a664-4522-9408-41fda1a7b901,C00621,Campaign 19,App Notification,Converted,2025-03-09
+f6fdc5a7-3e90-42a7-b001-877f0794bf3b,C00090,Campaign 43,App Notification,Clicked,2025-01-18
+f47c1797-5b8f-4909-a174-496e964e3cf5,C00518,Campaign 8,Email,Clicked,2025-07-27
+104b746f-07d8-4b58-8320-8c1b4270710e,C00408,Campaign 45,App Notification,Opened,2025-04-20
+a663c3a1-da22-405c-864b-c7b1aa6b90f3,C00818,Campaign 38,SMS,Opened,2025-08-30
+db14e950-4a6f-4e70-9133-8523e93345b8,C00954,Campaign 16,Email,Converted,2024-11-10
+b5a8d861-0ea7-4c22-b909-4ff26618789c,C00762,Campaign 33,App Notification,Opened,2025-08-17
+f5928bea-d1e5-4803-8d8e-7b2b700c4626,C00660,Campaign 42,SMS,Clicked,2024-11-17
+6bd03587-1f7b-4b5a-933b-1bed4a78f144,C00066,Campaign 3,Email,Clicked,2025-08-08
+b04187f4-c326-44d7-856f-a1b934adb148,C00493,Campaign 11,SMS,Opened,2024-11-26
+fc9a1ff4-b515-4d4c-a929-b118f5dc5ffe,C00745,Campaign 10,Call,Ignored,2025-07-29
+e0e7a0f9-40e3-4e26-9f42-3ffed6123ecd,C00759,Campaign 29,SMS,Clicked,2025-09-24
+a8ac3e8c-4aa9-440a-a0ad-ad94512db423,C00093,Campaign 40,App Notification,Ignored,2025-02-15
+e8d9d2b4-4656-4d3a-a4fd-8cde6fbe5698,C00127,Campaign 1,SMS,Ignored,2025-06-26
+f3cc04e5-3a94-4e45-a07e-73da2556c6c5,C00780,Campaign 18,App Notification,Opened,2025-07-29
+fe277243-e501-4b1e-ace8-e6d7a4eba753,C00348,Campaign 16,Call,Ignored,2025-08-12
+cbed9db9-12c2-4f31-be0a-3d762054eea7,C00142,Campaign 18,App Notification,Clicked,2024-10-22
+667c1df7-42ff-46b5-82de-e053ebaa2aca,C00827,Campaign 32,App Notification,Ignored,2024-10-14
+f1001fd6-f303-465f-8e83-7e3c84bdb077,C00487,Campaign 48,Call,Clicked,2025-04-30
+b3a22bae-a0be-40ee-9909-2fbe59034bd7,C00160,Campaign 14,SMS,Opened,2025-01-25
+eb5a83dd-4771-424f-bcf1-e41b261847b1,C00084,Campaign 4,Email,Ignored,2025-06-03
+108b90e6-2598-4556-918f-e8f36412b588,C00450,Campaign 5,Email,Clicked,2025-07-30
+41d2a6e9-6cb8-4bd4-8960-35f27ec87a51,C00300,Campaign 42,SMS,Converted,2025-01-20
+193a8a83-3bce-4fcd-ace9-1846c2e14502,C00788,Campaign 37,SMS,Opened,2025-09-05
+949adf3c-4534-469f-9dbe-f36dc0873379,C00993,Campaign 20,Email,Clicked,2025-07-11
+c774f124-08a2-453b-ae1e-30220271d199,C00686,Campaign 48,SMS,Ignored,2025-01-20
+189bdfe5-1a78-4efb-89b9-e2acd24f9fce,C00148,Campaign 23,Email,Ignored,2025-06-03
+ffd95dd6-fafb-4a3f-b9ce-5c4e3693ee9c,C00622,Campaign 44,Call,Opened,2025-08-29
+a450fbaa-3948-42a0-ae6c-d8491aae8a21,C00109,Campaign 4,Call,Opened,2025-05-28
+e2821da3-be2a-4c20-acdf-ee4da40954a4,C00434,Campaign 36,App Notification,Ignored,2025-07-10
+af002913-c1c5-425b-9aed-7bada1fb040b,C00918,Campaign 5,Call,Converted,2024-09-28
+d90b5e44-993f-43b5-8b17-251e7f11dd61,C00807,Campaign 28,Call,Clicked,2025-06-01
+6da0d5a3-8918-48eb-bbc8-a925a393d432,C00707,Campaign 31,Call,Converted,2025-04-23
+73ef3af7-523c-4c6d-bfd9-5319af3b6dcd,C00719,Campaign 12,Call,Opened,2025-06-24
+ccfc8643-8eb3-4c32-9c89-aeeb0db307c9,C00742,Campaign 2,App Notification,Opened,2025-07-01
+4637d5fe-0381-4d26-bbe2-96cb3a384fa6,C00787,Campaign 38,Call,Ignored,2024-11-01
+dbd189c6-a24d-49bf-929d-29d4ac764828,C00813,Campaign 46,Email,Clicked,2025-09-12
+4e72f856-7d0b-4da8-8892-2eb1a38387e7,C00972,Campaign 6,App Notification,Clicked,2025-07-27
+b3bf145d-4478-4102-bcf5-4bcd3d8dccb5,C00049,Campaign 47,Email,Opened,2024-12-14
+a72cfa01-d46c-4b72-a786-367ffc58c53f,C00353,Campaign 38,SMS,Opened,2025-08-03
+c2518611-6e98-4d9c-bfa4-dd7e78031deb,C00049,Campaign 25,App Notification,Clicked,2025-05-02
+6d33c65e-aa33-495b-9801-ea1d08d04b3b,C00119,Campaign 31,Call,Opened,2025-03-26
+f37f9b70-d60a-4bbe-a7ff-20c25c3966cd,C00866,Campaign 21,Email,Ignored,2025-02-03
+cf03ba18-aa6f-4fc9-9395-b66f3dcdae6b,C00909,Campaign 10,Email,Clicked,2025-07-29
+51dc70e0-dcd3-4f05-8c09-69b37bd2edb5,C00318,Campaign 39,Call,Clicked,2024-10-11
+90421fac-cb8f-4990-810c-80f6fbc5f2d1,C00844,Campaign 24,App Notification,Converted,2024-12-11
+bf64f03d-e974-4e30-9525-b12e04bf1e72,C00578,Campaign 2,App Notification,Clicked,2024-11-05
+8e9821a2-65d8-406a-9f12-ab5c53d55482,C00519,Campaign 20,App Notification,Clicked,2025-04-21
+0491c94c-a4ee-471b-84c7-4551729bb83a,C00487,Campaign 48,Email,Ignored,2025-06-21
+057062c3-908d-4427-ab4d-8b6b5bc49f3f,C00129,Campaign 4,App Notification,Converted,2025-01-21
+5ab3f581-f026-45a4-a83e-64c0c9b0088a,C00216,Campaign 2,Call,Converted,2024-10-05
+920d6c52-ebf4-43fb-bbab-f55059a03204,C00340,Campaign 9,Call,Opened,2024-11-19
+7268dcfb-4453-4482-87d7-ddf511427ee8,C00165,Campaign 11,App Notification,Ignored,2025-06-18
+0cb45fb8-815d-4364-a5f1-c66263fc7a91,C00119,Campaign 15,SMS,Opened,2025-02-16
+9b39534e-e0f6-4ae6-bdb2-dc52349af9cf,C00330,Campaign 36,Email,Opened,2025-05-03
+13b3f645-49bb-4fb5-ac02-5f91e448fd0e,C00700,Campaign 5,Email,Opened,2025-02-26
+98c9a885-1723-4eb9-9848-0ab5a2acb218,C00492,Campaign 48,Call,Clicked,2025-01-28
+b0a3b320-cfff-4d05-8905-13a744f7f400,C00029,Campaign 10,SMS,Opened,2025-06-14
+d446c81b-a2e1-45e6-a60d-e4faec189e28,C00326,Campaign 35,SMS,Opened,2025-08-30
+7ceb742f-bd5b-4e9b-ad70-c1e36198403f,C00339,Campaign 2,Call,Opened,2025-03-30
+06a35572-9c85-4324-a478-2698e4562787,C00480,Campaign 20,Email,Ignored,2025-03-29
+bec0b0a1-bc57-4f4c-bf34-6fe98861b517,C00485,Campaign 4,SMS,Opened,2025-05-22
+338deb87-cc8f-484b-8096-e30d64ccfa7c,C00520,Campaign 26,Email,Ignored,2024-10-26
+aaf12808-f5c4-4e8c-a66c-7f751f6bc45f,C00099,Campaign 25,Email,Ignored,2025-07-21
+550d7e31-9523-4c53-afc1-cfaf75d97e42,C00231,Campaign 22,App Notification,Opened,2025-05-02
+c74c39fa-2605-4917-8ded-d09fe0d18435,C00829,Campaign 46,App Notification,Clicked,2025-07-23
+f4a04c33-3dcd-4d87-b5ac-c14d29023f39,C00733,Campaign 49,SMS,Ignored,2024-10-23
+7f951f81-7c6d-4e0d-a3e2-7996544e8e84,C00845,Campaign 23,App Notification,Converted,2024-11-13
+b55c92fc-b0ac-4070-9316-a07f00975552,C00747,Campaign 19,Call,Ignored,2025-07-25
+f1603f7f-5812-4d09-99ef-9f8084e3f389,C00741,Campaign 15,SMS,Opened,2025-06-27
+2cc3d4d3-6cb3-4944-9f8f-b24b6dcd9f21,C00058,Campaign 18,Email,Opened,2025-06-03
+f705534a-f53d-4f59-9dba-82ffb3059522,C00923,Campaign 3,App Notification,Clicked,2024-12-28
+2ca9ff8f-ca89-4a53-877e-23423081bb69,C00513,Campaign 8,App Notification,Ignored,2025-03-24
+24db7aa2-3049-4cc0-be9b-bfdbb5593118,C00242,Campaign 22,Email,Converted,2024-12-06
+b314e6bc-3b86-432c-bded-034ca68af9e7,C00129,Campaign 39,SMS,Ignored,2025-03-22
+c8cbc17a-e87f-4b8e-ae0d-ce66411f10b7,C00974,Campaign 35,Email,Ignored,2024-10-31
+26abf251-b8f1-409a-8f3c-9adfe5592193,C00627,Campaign 5,App Notification,Opened,2024-09-28
+70751d9e-08e1-40ae-af65-0efa40ac67a1,C00454,Campaign 13,SMS,Opened,2025-04-29
+1ca7a9b0-42ca-4ade-bb2c-88c0e5795c1c,C00069,Campaign 12,SMS,Converted,2025-02-06
+9e1beb13-10c4-48c6-b491-6fe2821868bf,C00759,Campaign 23,App Notification,Converted,2025-06-10
+0ce7f369-57a6-4e68-a4ba-b6384998d72c,C00795,Campaign 36,App Notification,Clicked,2025-09-16
+910b0f23-ff12-4ca5-944c-1d53a99a568b,C00877,Campaign 11,SMS,Clicked,2024-11-12
+547b5d03-cb28-45c9-98cf-6e23f591be59,C00654,Campaign 35,Email,Ignored,2024-12-15
+ce863135-a418-487a-a760-48cfdeb1f95b,C00195,Campaign 35,App Notification,Converted,2025-08-21
+5d380561-931e-4656-841e-2ee4dd0f589b,C00977,Campaign 44,SMS,Converted,2025-02-02
+8c2241ea-af12-4682-bd3b-a3c7d92fd620,C00609,Campaign 24,Email,Opened,2025-03-22
+b4c52729-f7bf-4e41-8cfc-6b839b987781,C00880,Campaign 12,App Notification,Converted,2025-05-04
+c8a0bb98-abe1-420c-8b9e-3f056537b371,C00334,Campaign 5,SMS,Ignored,2024-11-29
+5925fb80-95c0-4bac-b5d8-556235faa0f9,C00900,Campaign 39,Email,Ignored,2025-03-09
+a07872e2-b8be-4962-8544-2cb338f787f4,C00446,Campaign 8,SMS,Clicked,2024-10-30
+e78bf2da-c8ed-4866-ae57-03b4f5fd2dbb,C00118,Campaign 47,App Notification,Clicked,2024-10-20
+3d464194-15c6-481c-a609-ded1953f2e88,C00747,Campaign 30,SMS,Ignored,2025-01-19
+a2fafb69-e35d-4d8b-a8e2-6a151a1b31b1,C00019,Campaign 1,Call,Converted,2024-10-20
+1b5e1be3-0cfc-4e02-b51d-39eaa7d5959b,C00808,Campaign 5,Call,Clicked,2024-10-04
+f20eda5a-5f7a-4611-b00e-aba654032982,C00103,Campaign 48,Email,Opened,2025-06-30
+429821d9-de53-4e47-ad99-46c80b5a9b5a,C00795,Campaign 8,Call,Opened,2025-02-19
+86782814-f465-4277-8767-433e93a757b8,C00317,Campaign 39,Call,Opened,2025-07-25
+bb50b2c2-b622-425a-89d1-140cd0005a6e,C00180,Campaign 7,App Notification,Ignored,2025-08-10
+d2a17172-23b1-409f-b60c-90402ba7e514,C00227,Campaign 42,SMS,Converted,2025-06-17
+2b8d7660-db29-418b-ba67-db6b2e6d99c2,C00885,Campaign 21,SMS,Clicked,2025-08-21
+3fd03ba7-c90c-4696-bbed-b4ba8ec6780d,C00507,Campaign 21,SMS,Converted,2025-04-03
+dc2fef74-b430-4524-a2f0-a58c525e7af1,C00103,Campaign 12,SMS,Ignored,2025-07-15
+c1c3c7e5-c4a4-4c8d-b0ed-dc230f29fdde,C00024,Campaign 42,Email,Clicked,2025-06-30
+95b344dd-350b-47b5-8ded-94f4935558ed,C00138,Campaign 21,SMS,Converted,2025-07-25
+030e5558-7ae3-4958-bfa1-17811ad5ed2c,C00860,Campaign 46,App Notification,Clicked,2025-09-19
+e0c30f26-8fd5-4b9d-9a6f-21ccf995ff74,C00546,Campaign 15,App Notification,Clicked,2025-03-03
+9e334d07-7acf-4115-b481-8e0e84e8f1d9,C00655,Campaign 3,SMS,Opened,2024-11-25
+1c923c45-fcc8-496b-b32a-265939a62072,C00575,Campaign 31,App Notification,Clicked,2025-02-26
+2f90d560-8dcb-4084-bd98-2e2df2425ae9,C01000,Campaign 43,Call,Ignored,2024-11-14
+01ab89d8-840f-404b-8dd8-7fd5a645c83e,C00661,Campaign 32,App Notification,Opened,2025-05-07
+724584ac-358a-46cb-9897-3498cf4908de,C00938,Campaign 15,App Notification,Clicked,2024-10-18
+1313495a-3b5c-42cd-9fe5-75961b514fc4,C00644,Campaign 36,Email,Opened,2025-08-28
+451be473-4d35-4704-8b1f-f501d7aace8c,C00824,Campaign 28,App Notification,Opened,2025-06-12
+c5c9a543-c967-48aa-8f21-f5d68b6207cc,C00114,Campaign 41,App Notification,Opened,2025-07-15
+71bb3632-3285-46fa-80cc-0b988a51e7e4,C00893,Campaign 35,App Notification,Clicked,2025-05-15
+e34d391a-700b-44a8-a667-e980fc0f2fb7,C00397,Campaign 47,SMS,Ignored,2025-06-21
+1880f8f0-1f90-4aee-8b31-deb93b371fd9,C00897,Campaign 19,Call,Converted,2024-12-14
+abd00d12-0faa-4ef7-b204-e7e135783061,C00666,Campaign 38,SMS,Converted,2024-12-24
+4e630ebf-2b46-430a-a54b-d7ea443ec2bb,C00659,Campaign 40,Call,Opened,2025-07-29
+708b042f-07fa-4cfa-8eff-8471502b3bfc,C00633,Campaign 43,SMS,Clicked,2025-08-03
+03f8c89b-03e7-4fc5-bbd3-ac77e1e0815b,C00355,Campaign 24,Email,Ignored,2025-01-19
+5268a85a-5b27-4b20-ab10-55743b8e2686,C00759,Campaign 42,Call,Clicked,2025-05-19
+daa36db3-2152-4b79-84cf-0e6481f8fc53,C00810,Campaign 17,App Notification,Opened,2024-12-07
+19e2d9a9-b93a-4e8f-8d40-c77f43887595,C00755,Campaign 48,SMS,Clicked,2025-05-26
+aaf1a1fb-0705-42d5-82dc-4b59c770207a,C00297,Campaign 15,App Notification,Ignored,2025-04-15
+befbf06b-a6e3-4e23-908c-f3862ddffcdd,C00569,Campaign 8,App Notification,Opened,2024-12-18
+ce542fef-0ed6-453b-926f-53f3fe100cc5,C00708,Campaign 25,Call,Ignored,2025-08-30
+47c3de21-88f1-4aaf-a923-7553baaa3abf,C00299,Campaign 15,SMS,Converted,2025-03-23
+c38632fe-8da7-4495-b9ac-5e1697706f7c,C00929,Campaign 14,Email,Ignored,2024-11-23
+bc7f8a4b-7c7f-48af-83f4-379057324b44,C00646,Campaign 1,SMS,Clicked,2025-01-31
+5f004cfb-fdfa-45c1-91f5-691a76e9403f,C00233,Campaign 2,Email,Clicked,2025-02-26
+e25e54d9-5235-45e0-99ae-3c1f4b772a2e,C00810,Campaign 44,Email,Opened,2025-08-01
+be5658ab-3763-4fde-bc1f-a978f27c9e53,C00622,Campaign 6,Email,Clicked,2024-10-06
+69350830-619e-4e10-8421-8cc7c5950fbf,C00659,Campaign 20,Email,Converted,2025-02-23
+a5069b35-0f94-4fc6-be50-a426e44690fd,C00353,Campaign 24,Call,Converted,2025-08-15
+c3fb1ffb-3691-4178-a6ce-8d55b2b6fdf8,C00173,Campaign 5,Call,Opened,2025-08-21
+c9eca3eb-92b4-439b-9991-07481732436d,C00259,Campaign 33,App Notification,Ignored,2025-09-20
+17e26f5c-b26c-4757-ae45-9021b7f85fbb,C00240,Campaign 4,App Notification,Opened,2025-09-24
+55177750-971c-4363-b68a-6338fd3cc4e3,C00309,Campaign 17,Call,Ignored,2025-01-25
+3eb1f4ef-984f-45dc-868b-36e938603eb8,C00914,Campaign 23,Email,Opened,2025-03-22
+30b85953-d74d-415f-9d34-ee36b9f52c1c,C00917,Campaign 15,SMS,Clicked,2024-12-26
+7e2e5641-7cd7-4ea8-baf9-40f50e9c4a6b,C00947,Campaign 26,Email,Opened,2025-05-09
+c6220c02-0227-45cb-b76d-5a7cf8f7b82c,C00971,Campaign 30,Email,Ignored,2025-09-05
+a6f205f6-a18a-4358-927e-16ca7c53420c,C00701,Campaign 33,Email,Converted,2024-12-10
+89d80111-cf8d-4623-98f7-3e066a06f524,C00232,Campaign 10,Call,Clicked,2025-04-24
+03bab52c-e56a-4d7b-8d04-2933e10df19e,C00315,Campaign 25,SMS,Ignored,2025-01-06
+212cd4ff-8471-40c6-9efe-5b1eeb671705,C00352,Campaign 19,SMS,Ignored,2024-10-10
+6422a75f-18b4-4f73-8e73-91b424d5591a,C00446,Campaign 34,Call,Opened,2024-11-29
+b1598c09-f949-44ad-b2e2-5200453277a0,C00780,Campaign 41,Call,Opened,2025-01-11
+451fcad2-8f12-4bcd-ae7d-46fc4c6e0c6e,C00054,Campaign 14,SMS,Opened,2025-08-30
+e10b4445-5c35-4183-a5be-0e503e6beee6,C00538,Campaign 15,SMS,Opened,2025-07-09
+6cb28e38-c48c-4510-8f84-c89c523ea0dd,C00494,Campaign 4,App Notification,Ignored,2025-09-04
+a91b2218-9356-47f4-a268-25d1d5a059ba,C00245,Campaign 9,Call,Ignored,2025-05-03
+38061da4-e41f-4988-b76c-d47355d579b0,C00030,Campaign 11,Call,Ignored,2025-02-11
+9fd044d9-70ef-4f74-b0a7-31fcea4a2509,C00352,Campaign 36,App Notification,Opened,2025-05-14
+73469e0d-d07f-4698-8633-d992211f6a7a,C00269,Campaign 24,Email,Opened,2025-09-20
+ba6f1682-bf7f-4a88-a5ba-6ffee8120abc,C00242,Campaign 47,SMS,Clicked,2024-10-06
+d00d5eb3-8c79-4550-ba08-16df58782bdf,C00030,Campaign 33,Email,Ignored,2025-05-24
+3bf18e57-d8db-41da-85cf-46ab9af78021,C00664,Campaign 18,Email,Ignored,2025-01-16
+02dc4dbe-5221-495c-b3a3-be65f9ad7fd3,C00765,Campaign 44,Email,Ignored,2025-08-26
+9abfe38f-9180-45e0-9945-7484898002a4,C00242,Campaign 43,SMS,Converted,2025-06-26
+6a16e24a-d98e-437f-b79c-1392ca24f29c,C00231,Campaign 32,App Notification,Clicked,2025-04-09
+bf59782b-ef20-4e8a-b002-7c3bccfcca2d,C00601,Campaign 37,App Notification,Ignored,2024-12-29
+f39302bc-539e-4eb1-af78-b0aa5263aba2,C00510,Campaign 6,Email,Opened,2025-06-08
+b2701138-be7e-4841-bf32-6f49ffb7c38f,C00847,Campaign 10,App Notification,Clicked,2025-06-14
+baa9462d-d30a-4592-9456-59eac7a05fe1,C00417,Campaign 10,Email,Ignored,2025-03-06
+089b1373-2f79-4373-befd-58be4b5f5b3e,C00993,Campaign 27,Email,Opened,2025-09-13
+f52effa6-ed32-4242-8e37-55ca42a30532,C00222,Campaign 23,App Notification,Converted,2025-05-14
+e4bfa939-f947-491a-95bd-5f9de7789b56,C00194,Campaign 47,SMS,Converted,2025-08-27
+5369a5ec-aa7d-4fcc-b0c5-1ddeec598190,C00061,Campaign 11,App Notification,Ignored,2025-02-24
+027670d5-47d5-4fcf-bca8-1956cc2d2fae,C00356,Campaign 49,Call,Opened,2025-04-18
+bab65eae-1df6-4c32-8c6a-b52f2c9e3a96,C00298,Campaign 41,Email,Ignored,2025-02-15
+99f68c9a-50e2-4159-8c84-35ef7f9817c0,C00118,Campaign 42,App Notification,Converted,2025-06-20
+ecbcc7e4-0912-4512-be23-d792adf737a6,C00466,Campaign 43,Email,Clicked,2025-09-18
+41eb2f3f-e25f-4e36-b95d-185512516225,C00766,Campaign 29,App Notification,Opened,2025-08-06
+08845406-df85-4f89-8d9f-ec201414883d,C00148,Campaign 49,SMS,Converted,2025-01-29
+6339a865-0d5a-4251-89f1-b1a9a10fbf9e,C00425,Campaign 24,SMS,Ignored,2025-05-12
+d7c88ce7-1279-4317-9227-3baf04e40e45,C00720,Campaign 7,App Notification,Clicked,2024-12-26
+6ef2dd6e-f414-4104-8592-a707c902ada9,C00608,Campaign 1,SMS,Converted,2025-02-02
+f9ed09f0-016c-457c-81e3-d82484e6d4c0,C00285,Campaign 21,Call,Ignored,2024-10-11
+0993b531-4b36-4b33-a3b3-a6340a4a90f4,C00383,Campaign 27,App Notification,Opened,2024-10-02
+d968c357-413f-494d-a98f-5d92b694f5a1,C00381,Campaign 2,Call,Converted,2025-02-02
+8746bac4-6292-4d86-b643-24669f8ea154,C00892,Campaign 13,SMS,Converted,2025-07-10
+8915d621-f7bf-4e6e-bb57-094f4bb26534,C00852,Campaign 45,SMS,Converted,2025-07-17
+68027fa6-5c7c-42ca-ab9f-13f459db9595,C00296,Campaign 50,SMS,Ignored,2024-09-30
+94b9ee69-8d35-40ea-a52a-84adfe57899d,C00774,Campaign 15,Call,Clicked,2025-05-03
+6cccbb4d-6574-4d05-8832-8efbdc13d1b4,C00186,Campaign 7,App Notification,Converted,2024-11-12
+1549ae7d-0f7e-4949-ac0b-96b571881c4a,C00250,Campaign 4,Call,Clicked,2025-09-12
+7873842b-b259-450f-8a1e-290187c4a4b6,C00665,Campaign 4,App Notification,Opened,2025-05-02
+fcdc8e27-16d4-4c19-9441-3349bd0cf773,C00826,Campaign 2,App Notification,Opened,2025-03-28
+1b5518b5-e477-404f-aae7-04862baef3b7,C00790,Campaign 49,Call,Opened,2025-07-11
+ae675096-2d48-402f-9a57-ea2962518f4d,C00153,Campaign 16,Email,Clicked,2025-05-22
+1e149711-accf-4bf3-8e8f-37cb0f542f0a,C00182,Campaign 26,App Notification,Ignored,2025-02-05
+4eeb2557-05c2-469b-9a06-8ba95474663b,C00966,Campaign 32,App Notification,Converted,2024-12-20
+706eea67-0583-45ac-b0a9-4c5a56942a2c,C00271,Campaign 44,App Notification,Opened,2025-08-07
+c6a03dd6-1215-4817-99ae-029aedff7902,C00406,Campaign 26,Call,Opened,2025-03-24
+af0b1215-6ece-427a-a1c7-b57a12374a03,C00334,Campaign 10,Email,Converted,2025-01-02
+db546468-7bf4-406e-8dcf-e030f30c3d58,C00017,Campaign 34,SMS,Ignored,2025-07-01
+e0cac955-6324-4ac5-a94b-37bcb8c34677,C00048,Campaign 11,Call,Ignored,2024-12-02
+19fd67b2-d090-4cdd-9549-7067c533d06e,C00800,Campaign 1,SMS,Opened,2025-05-11
+3a8c0c71-e488-4fd3-b661-26edb0d709f4,C00273,Campaign 40,Call,Ignored,2025-07-05
+1f23c7d9-3f5c-4a04-b359-c5e92803eb01,C00487,Campaign 39,SMS,Ignored,2025-04-25
+29836885-0ed3-4d34-b8c8-891566e98257,C00225,Campaign 40,App Notification,Converted,2025-02-03
+69cdb08d-1982-452f-a031-57f5f6a1f72e,C00168,Campaign 7,App Notification,Ignored,2025-03-29
+61359f65-472f-4e77-8ae2-dd3febae6dc3,C00154,Campaign 46,Call,Opened,2025-04-29
+f2c7530c-c2d6-43a7-9d8f-af30486946c5,C00852,Campaign 27,Call,Clicked,2025-05-17
+2e155a39-c254-4b40-a70e-695a9b605d6f,C00978,Campaign 34,SMS,Converted,2024-12-24
+aa0e0c70-f104-41ef-9580-ddc14eed751a,C00753,Campaign 31,Email,Clicked,2025-04-10
+c5cc0e88-e50d-4706-822c-4d412f6a99d2,C00214,Campaign 28,Email,Clicked,2024-10-18
+cb8fb4b4-cc8d-4862-9b2e-59b016885dfc,C00423,Campaign 25,Call,Opened,2024-12-21
+45985ebe-2082-420b-a1f9-9e0571a592b0,C00191,Campaign 10,Email,Converted,2025-09-03
+c475e2ad-476f-48e0-ae42-1baaaecf2f69,C00665,Campaign 50,Call,Ignored,2025-03-23
+b5d25b12-d128-454d-987f-94c5b65e9eb9,C00604,Campaign 18,Email,Ignored,2024-11-20
+b78fe9f5-bf87-419f-b522-8d849409ecd4,C00272,Campaign 32,Call,Opened,2025-01-20
+dbf4437c-b7b3-4950-97a2-1432931f330c,C00025,Campaign 50,App Notification,Ignored,2024-12-30
+87bff1a5-f8ae-4471-8ca1-5e2cd59cbab6,C00231,Campaign 15,Call,Converted,2025-08-22
+051fb691-4e45-47d0-be11-6ca89343dd99,C00603,Campaign 30,Email,Converted,2025-08-15
+626ddf7a-4f3d-421c-a919-c6d8930e0210,C00141,Campaign 30,Call,Opened,2025-01-26
+414c2daf-8b5e-40e5-9d2a-cf59c2bfe362,C00812,Campaign 18,SMS,Converted,2025-08-18
+cba9accf-f871-4efc-a1c8-bda53c108cb9,C00675,Campaign 4,Call,Opened,2025-04-24
+8f731751-4a08-42ff-bfaf-c985a4f4d3b1,C00040,Campaign 3,Call,Opened,2025-06-22
+8f65fbb1-7e8c-41b4-80cd-a07cccf0e45f,C00213,Campaign 46,SMS,Clicked,2024-09-30
+3e708dc0-c07f-47a3-ba01-db78f5233a4e,C00486,Campaign 33,Call,Opened,2025-03-18
+ce382a92-ac6f-4d1a-a37b-44fbaa842d21,C00681,Campaign 41,App Notification,Converted,2025-03-17
+9279acc3-da8c-4ee6-8130-4e8acd84b35e,C00227,Campaign 40,SMS,Clicked,2025-03-15
+0b97e778-87f8-41f8-b3e8-5d9134addb44,C00112,Campaign 33,Call,Clicked,2025-01-19
+59c1a48a-25e4-4a03-9b41-8f9f46310d28,C00760,Campaign 25,SMS,Converted,2024-11-03
+745f4126-89bb-48d6-9ae1-773419806bee,C00659,Campaign 37,Call,Converted,2024-11-07
+9257a469-89c9-4d38-98c0-0be82075bf1c,C00226,Campaign 22,Email,Clicked,2025-03-06
+752ddb01-ce85-4204-af6a-62e37108c26c,C00362,Campaign 44,Call,Opened,2025-03-01
+c0e89f20-6678-4bb7-b34d-3ed4b1b716f8,C00307,Campaign 20,Call,Ignored,2024-10-14
+1ed885d9-969c-40e2-94e4-aa5b9c514971,C00825,Campaign 1,Email,Ignored,2025-05-02
+616b9643-29e7-4d83-9d62-4823e4e5917e,C00460,Campaign 40,App Notification,Converted,2025-07-27
+a866f621-93ad-4a76-97ae-d6a1204d4e14,C00776,Campaign 43,SMS,Opened,2025-05-19
+6f6b2156-72c5-443b-9cfc-3e6935e98a4b,C00874,Campaign 42,Call,Clicked,2025-08-06
+d8c9fa29-eda8-4e70-9870-2c307f0819f2,C00398,Campaign 27,SMS,Clicked,2024-09-29
+c084b255-6ba3-48d9-9ae3-b17ecb261491,C00558,Campaign 29,SMS,Converted,2025-08-03
+06b2496b-1de5-4783-933d-cf84518d1338,C00553,Campaign 25,SMS,Converted,2025-05-11
+bbd1132b-6fa2-4d00-a710-e9e4d880c945,C00750,Campaign 48,Call,Converted,2025-07-08
+9759d0ba-bbd2-4d6e-a41b-87bbcbe7a835,C00848,Campaign 28,SMS,Converted,2025-05-20
+7c24d03b-6a69-44b7-baf4-3e26d3016a71,C00395,Campaign 15,App Notification,Opened,2024-10-10
+c8fc1e76-4708-4227-9b10-8c244d92200c,C00487,Campaign 16,Call,Clicked,2025-03-05
+d32b8be3-eaac-4c80-bb37-ae6af749f998,C00019,Campaign 29,App Notification,Ignored,2025-09-22
+ce11c831-5afd-4463-88b7-7c51458d971c,C00012,Campaign 17,Email,Ignored,2025-03-07
+ecdc7b52-f1d3-4f7f-b7d3-7567d8f26ed8,C00117,Campaign 46,SMS,Opened,2024-10-14
+f39e7cf3-fefb-4d28-9d7d-1236f821a405,C00800,Campaign 33,Email,Clicked,2025-06-25
+5e57d7f4-5c27-46b7-95e6-b91db27c7e0f,C00068,Campaign 30,App Notification,Opened,2025-09-11
+0928f31d-483c-42fd-9e21-b89d418c5372,C00813,Campaign 35,SMS,Clicked,2025-05-16
+9f7c0966-b125-4be2-9ef3-fa3ec8c3e1df,C00831,Campaign 42,Call,Clicked,2025-08-11
+52e28a7e-cfef-4f63-b552-8e3f5219f84c,C00510,Campaign 31,Call,Clicked,2024-11-11
+376a8d45-a143-4d6c-be4c-f2f963b28426,C00939,Campaign 34,SMS,Ignored,2025-03-22
+ef0d0a1c-4461-4fe5-a80d-581bf324a058,C00425,Campaign 46,Email,Converted,2025-06-24
+bb893d93-562d-45e5-9b60-32db44e2def7,C00437,Campaign 17,Email,Opened,2025-01-25
+63efb2fe-7930-43c5-a78d-07fdab4a64ee,C00566,Campaign 42,Email,Opened,2025-09-03
+68f5ca43-ac51-4301-80b9-dbe1f084d41b,C00912,Campaign 36,Email,Opened,2024-12-10
+45802d18-b099-444d-9698-77e5d3fcc09f,C00175,Campaign 12,App Notification,Ignored,2025-09-14
+fb9bb080-e799-40fc-b565-a6bb00d34b0b,C00862,Campaign 25,Call,Clicked,2025-01-24
+576a01c2-e603-4737-90b7-054affeb7bb0,C00996,Campaign 45,Call,Ignored,2025-09-07
+73067e2d-af92-47bf-8286-78bbc7c4d17c,C00095,Campaign 31,App Notification,Converted,2024-11-21
+21783ec8-785b-4210-bbd5-c528edb487e4,C00408,Campaign 27,SMS,Converted,2025-04-05
+2495c5a2-c64e-4eca-b20d-ac54b4ef32c2,C00364,Campaign 32,Email,Ignored,2025-03-16
+81ec29f5-ac18-4b42-93b5-4502926079d3,C00929,Campaign 14,SMS,Opened,2025-08-12
+b7a6c7a0-f25e-4916-8f68-b1697f7b96f4,C00773,Campaign 37,SMS,Opened,2025-04-15
+f03a2a3b-d76c-43cb-85cf-d29ffdb0b601,C00993,Campaign 44,App Notification,Clicked,2025-08-05
+fb860a16-a526-4123-a1a3-969bbc41ef3c,C00638,Campaign 37,Email,Opened,2025-02-27
+68e54488-3c18-4bd9-85d9-8c406730723a,C00793,Campaign 26,Email,Converted,2025-08-28
+07f7009a-8a51-419f-9c31-5267cf9ad7aa,C00415,Campaign 50,App Notification,Ignored,2025-07-09
+6f67e1a7-76f5-4592-8722-5d8f2ff97a7d,C00459,Campaign 29,App Notification,Opened,2025-05-31
+2c279bb1-8a7c-4f1e-83a2-ccae4e65389c,C00455,Campaign 14,App Notification,Ignored,2025-05-16
+d2e5aab8-f660-4f3d-999d-ef8ac530ad91,C00975,Campaign 4,Call,Clicked,2025-07-15
+5c40784a-b124-4af3-b250-d67849149efe,C00740,Campaign 21,App Notification,Converted,2024-10-10
+d4bf4ad3-9a68-4294-bb60-d00bf5e3b198,C00159,Campaign 4,SMS,Converted,2025-02-16
+3953c019-5ad9-41b1-aeae-a0441a44ae3e,C00275,Campaign 25,App Notification,Opened,2025-03-18
+ae467f0d-778f-41aa-87ea-fa89dee439eb,C00602,Campaign 27,Call,Ignored,2025-04-04
+1b2e046c-7db0-4075-8737-b06123baa116,C00924,Campaign 31,Email,Clicked,2025-02-24
+108b90d0-feb6-4ae2-9072-c5c849b58f7c,C00719,Campaign 28,Call,Clicked,2025-04-26
+ae2bab92-f1e1-4d14-b16b-604263bc3f61,C00502,Campaign 15,Email,Clicked,2025-02-27
+d61b5779-dac2-4830-858e-94d2556b9623,C00030,Campaign 6,Call,Converted,2025-06-02
+9b7d905a-57d5-416c-ac71-0b68cd856d32,C00482,Campaign 26,Call,Clicked,2024-11-27
+9b3f857d-6360-430b-995f-2ccf093c36cc,C00054,Campaign 12,SMS,Clicked,2024-10-21
+87b8b919-79f7-41c1-9cf0-c8546d55e211,C00026,Campaign 42,SMS,Converted,2024-10-16
+3549f420-2455-4e23-8276-c48c9ff84ad8,C00316,Campaign 50,SMS,Opened,2024-10-13
+861d61d2-0569-46d6-8bcb-f7b9ab7df4f4,C00524,Campaign 11,SMS,Opened,2024-10-17
+bfe13bd9-d997-483d-8114-3180373bf989,C00352,Campaign 21,SMS,Opened,2025-01-14
+24340ac9-04b4-4aef-945b-3dd7bca96822,C00031,Campaign 39,App Notification,Clicked,2024-12-09
+3b50962c-4cb5-49bc-baf6-9707c55251f9,C00170,Campaign 17,App Notification,Converted,2024-11-28
+dc46fd1b-92ff-4785-aea4-6613fcbad69e,C00191,Campaign 41,Email,Opened,2025-06-13
+9f9edcb0-4759-4c22-87b0-9cf4c20554a7,C00759,Campaign 2,SMS,Ignored,2025-01-04
+b25b30a8-171d-4b42-80f7-c7e28d5d0674,C00265,Campaign 42,Email,Ignored,2025-02-09
+e85a36df-5a3a-4332-a382-660e93c49493,C00109,Campaign 6,SMS,Converted,2025-05-05
+b1bb5f1f-a515-42c2-9e34-2c861e29a57b,C00342,Campaign 17,App Notification,Opened,2024-11-26
+e6af4306-6ba7-49f2-8cef-5b30d8d8467a,C00338,Campaign 45,App Notification,Clicked,2024-12-29
+1b62f672-fdac-4a87-9173-acc53f4d905f,C00456,Campaign 50,Call,Ignored,2025-04-10
+997c4d56-fe55-4a2c-b64f-4d678da4ee46,C00426,Campaign 46,SMS,Converted,2025-08-21
+5b734738-ea33-43da-af44-f2e2435ef4a3,C00311,Campaign 39,App Notification,Clicked,2025-04-27
+a74d6072-1505-4857-ba2f-558b188c2153,C00849,Campaign 39,SMS,Converted,2024-11-16
+3b01473a-d38e-4e0c-b045-d82acf49d9fc,C00152,Campaign 33,Call,Ignored,2025-04-18
+0f3f5435-fb3b-4f27-bfd5-2d8fe7eb19fa,C00693,Campaign 32,SMS,Clicked,2025-09-22
+fbde7e54-6280-4750-b3b9-95989a4d027c,C00992,Campaign 47,SMS,Clicked,2025-03-01
+40f98fb9-9464-4261-a574-23d06ec64c66,C00294,Campaign 45,SMS,Clicked,2024-11-19
+4a42c0a4-ed5b-4d7d-b28b-cd8792eeed04,C00416,Campaign 7,App Notification,Opened,2025-07-23
+b8942998-3532-4a2e-acf8-5ea78ec0793d,C00832,Campaign 12,App Notification,Ignored,2025-03-19
+bef0284b-ad0a-4ec6-9c9d-7f4be16ab497,C00464,Campaign 3,Email,Converted,2025-08-13
+87a79a41-28b5-4073-a2f9-3114497850b2,C00613,Campaign 37,Email,Opened,2025-03-26
+b8318f6c-795a-4f91-be09-c3b16289487a,C00229,Campaign 31,Email,Clicked,2025-03-18
+a1424221-8cc5-484e-a0b8-0b614e7633cc,C00265,Campaign 20,Email,Converted,2025-07-05
+027d93cc-3e5f-471d-bc30-48840dbffd7a,C00099,Campaign 43,Email,Opened,2025-07-19
+72d45d85-dfcb-4445-ade7-4cf2bb24c9d1,C00676,Campaign 28,App Notification,Converted,2025-03-16
+144e63da-cafa-4670-af0c-7fa722faf451,C00554,Campaign 40,Email,Converted,2025-09-23
+131a4b36-d063-417a-b450-315a935102ee,C00728,Campaign 35,Call,Ignored,2025-02-17
+d768449e-f2e3-4262-8bec-dd565b958106,C00552,Campaign 2,SMS,Clicked,2025-01-22
+718a26f4-6cad-400e-a86e-c90532a77683,C00146,Campaign 42,Call,Converted,2025-05-07
+d786cfdd-dca6-46b3-8725-d0b2254bee9b,C00633,Campaign 3,App Notification,Opened,2025-05-21
+b3f4be3f-c626-46d9-acf2-63934e23b921,C00985,Campaign 43,Call,Ignored,2025-03-30
+6502ddf1-24c1-4ac4-b742-2169b0e3a7dd,C00078,Campaign 47,App Notification,Opened,2025-09-08
+b5183180-c325-47ee-b61c-2613b7fc799a,C00748,Campaign 49,App Notification,Opened,2025-03-21
+829c7fa5-bbda-4f89-bd97-77f6e292d53d,C00858,Campaign 37,Call,Clicked,2025-08-11
+44b5edaf-d505-4178-91c3-e85586c8a705,C00236,Campaign 37,Call,Converted,2025-08-04
+dae34279-2be5-4dc7-8d24-66e2144a435e,C00208,Campaign 15,Email,Clicked,2025-04-04
+81a51949-2a6e-4b4c-b143-f7826faacd30,C00259,Campaign 6,App Notification,Opened,2025-03-21
+89d2e73e-c9d8-4901-bf73-fa3041d205a9,C00169,Campaign 42,Call,Ignored,2025-02-11
+4b688cf1-0d50-498c-955d-f7269dd7f57f,C00651,Campaign 20,Email,Clicked,2024-09-30
+db5fc59e-df3a-42bd-b478-3e0c61205840,C00843,Campaign 17,SMS,Opened,2025-07-08
+9ed46bea-ddbf-49c5-a08d-32c298c86dea,C00834,Campaign 10,Email,Clicked,2025-09-09
+d5b8c4ca-2ec1-4ff5-9041-471d61828f6d,C00916,Campaign 45,Call,Ignored,2025-06-25
+7c6f8a09-5116-4b26-be60-38a719af5a94,C00560,Campaign 25,SMS,Opened,2024-12-13
+240696b4-0cd9-4e6f-8387-e8baaa6ca6f1,C00962,Campaign 15,App Notification,Converted,2024-09-30
+b451483d-13d6-44fb-838d-261f052b05bf,C00537,Campaign 5,SMS,Ignored,2025-08-17
+91186af4-1a2f-41dd-8e40-9d7575cf289b,C00880,Campaign 11,Email,Clicked,2024-10-19
+47a2f46f-cdf1-4e5f-868d-2e72985b3668,C00921,Campaign 19,Call,Ignored,2024-12-24
+0e6507ad-74d6-4862-bf9d-4a7fb03ffcb8,C00407,Campaign 30,App Notification,Converted,2025-09-20
+7013d762-5d4a-4b4a-ac1e-07e22e169ab7,C00225,Campaign 11,App Notification,Clicked,2025-04-05
+6549d377-9ecd-4b29-8a85-e4d2198550f7,C00726,Campaign 41,App Notification,Clicked,2024-12-14
+1435e9f7-07ab-4bee-915e-a0d35b8bf877,C00342,Campaign 27,Email,Converted,2025-04-25
+1027557c-e713-4333-b582-bedb5eba6356,C00952,Campaign 13,Email,Opened,2025-05-24
+b8227841-1d22-4845-a1db-bf3407c50cba,C00287,Campaign 15,SMS,Clicked,2025-01-20
+71633a74-654a-4ff4-9e8f-972e4d593c14,C00747,Campaign 38,Call,Opened,2025-07-29
+d0075f79-1774-4846-a012-803bf45306bc,C00259,Campaign 31,Call,Clicked,2024-12-13
+b9517936-0bdb-49cd-b1c4-93d60ebabba0,C00474,Campaign 18,Email,Opened,2025-06-06
+b16c072c-aa01-4ab9-bcb2-a64310cb75bd,C00336,Campaign 41,SMS,Clicked,2025-03-11
+e7ba8e10-179f-4e2a-b0c8-69a79135ce42,C00041,Campaign 50,App Notification,Converted,2025-09-07
+071bd8df-f39a-47a4-aa33-cc2f5c059bce,C00534,Campaign 18,Email,Converted,2025-07-14
+2f54a479-01be-4a20-bbb4-2117ffb99bcd,C00160,Campaign 32,SMS,Ignored,2025-09-04
+ff8bbd8a-b340-405e-aee8-c588b4a50931,C00058,Campaign 26,Call,Ignored,2025-09-24
+7401427c-368e-40a0-b1ff-7feaf9b18820,C00270,Campaign 8,SMS,Opened,2024-12-10
+cfb05d99-7b27-4cd4-9876-ed18d57517a6,C00394,Campaign 13,Email,Clicked,2025-05-13
+e2b98611-d769-44c7-955b-7f040b568722,C00824,Campaign 21,Email,Opened,2025-08-10
+f1afec00-e192-4247-a918-6b4a19034d79,C00135,Campaign 40,SMS,Clicked,2025-01-07
+13a5d540-280f-4235-a9ea-4de52bfb65da,C00605,Campaign 10,SMS,Clicked,2025-07-23
+da53be50-9dd8-48ea-8d35-e4a3fac0075a,C00784,Campaign 15,SMS,Converted,2024-11-20
+b9d979bf-f305-4e8d-a8c7-53bddd75b114,C00032,Campaign 17,App Notification,Clicked,2025-05-29
+0005a7cb-fb9a-4406-83fb-1e1e42d5f2d0,C00222,Campaign 42,Call,Clicked,2025-02-23
+55aaede7-619a-47cb-8633-296d356e6aea,C00509,Campaign 11,App Notification,Opened,2024-12-31
+ed31a097-6d25-4c25-97f3-a5deb14526b0,C00036,Campaign 27,SMS,Converted,2025-02-18
+5026d1ae-a67b-465a-aa61-79302bcb4c54,C00193,Campaign 50,App Notification,Ignored,2025-08-02
+3fe2970a-4556-40f8-b33a-b2c9f9d1475d,C00127,Campaign 9,App Notification,Clicked,2025-01-26
+46d8e4b7-d5a4-4119-8a9a-e42fb8cc4959,C00630,Campaign 29,SMS,Ignored,2025-07-24
+8e9eed95-d47e-4d34-906b-c600155da943,C00342,Campaign 35,Call,Converted,2025-06-11
+0854c4f6-c942-47ec-be70-60e807eb9578,C00640,Campaign 47,SMS,Clicked,2025-09-09
+e4e94f49-1539-4c10-8d76-a57056c63368,C00389,Campaign 3,SMS,Converted,2025-01-17
+b52de69a-11ee-4cc8-ac37-a33a3e0f74a9,C00526,Campaign 28,SMS,Ignored,2024-11-04
+f78db887-9c7a-4004-93f6-5d85f1982abd,C00548,Campaign 29,Call,Ignored,2025-08-23
+a08c1d43-d00d-4898-abc6-bc59f64b835b,C00737,Campaign 26,Email,Opened,2025-02-19
+7b5f0bad-26ae-4272-b6d0-e554d49d82b6,C00543,Campaign 4,Call,Ignored,2025-02-19
+e380caf7-cc80-4e5f-b0c7-47cdc7cc2c03,C00953,Campaign 21,SMS,Clicked,2025-06-08
+fb2ddab9-ed4b-4e75-8bf3-f3d04626d642,C00108,Campaign 3,App Notification,Opened,2025-06-27
+6fe0a1bc-9b61-4d0e-bc17-979aff2711fc,C00081,Campaign 26,Email,Ignored,2025-02-23
+e9ab2565-41b5-46f9-93cc-3391d8ebb11d,C00392,Campaign 26,Call,Ignored,2025-03-26
+2650b72f-6043-4b9f-9510-c1efe415626d,C00629,Campaign 29,Email,Opened,2025-01-17
+45fb3cce-d65f-4de9-821b-5b315995819b,C00275,Campaign 5,Email,Opened,2024-11-24
+42cce5ed-dd6b-440c-a695-047a4f42f29f,C00623,Campaign 10,Email,Clicked,2025-06-28
+437195e7-e071-4459-9735-af576304aba6,C00277,Campaign 11,SMS,Ignored,2025-05-24
+c1c2517e-6a3f-4aef-800f-3c74b137351c,C00642,Campaign 12,App Notification,Converted,2024-11-03
+56670775-7df5-433d-8294-b2f3ba99c11b,C00635,Campaign 26,App Notification,Ignored,2025-08-02
+84aa3fa6-bd1d-4a46-9b1b-daf4e13b39fc,C00297,Campaign 23,Email,Ignored,2024-11-21
+cb17f774-1bff-4f79-bfbe-64bac6f4fa2b,C00331,Campaign 17,App Notification,Clicked,2024-11-05
+c9eaa200-d3cc-40be-8ede-02cf8fcf4d2a,C00397,Campaign 37,Email,Ignored,2024-10-29
+8e6c3463-f6ea-4983-9e7c-f1c20e3656d2,C00247,Campaign 38,Call,Ignored,2024-10-01
+abd16c63-7fcc-409e-9149-2453135d0ddd,C00637,Campaign 41,App Notification,Ignored,2025-07-08
+7d77caa2-e915-40ec-9aa7-abc5548fc66a,C00866,Campaign 1,Call,Clicked,2024-10-09
+bceeacdd-7ded-44db-a6c8-47022b9f9711,C00150,Campaign 25,Email,Ignored,2025-04-12
+e338cce9-537b-4a09-b51c-f3c0d9abcec0,C00611,Campaign 20,Email,Ignored,2024-10-11
+17668ccc-4a29-42bd-bbef-68bd45553ab3,C00696,Campaign 42,SMS,Clicked,2025-08-20
+bf212187-476c-47be-bbc9-a5c6e7f896fe,C01000,Campaign 37,Email,Opened,2024-11-13
+c40869ac-42b5-4ae0-aca2-e5a2f9116ba2,C00937,Campaign 1,Call,Converted,2024-11-16
+a1105dcf-ca7d-42cd-be62-26e967870ea5,C00511,Campaign 13,Email,Clicked,2024-09-30
+58b76870-b331-4d46-8f82-811089efff81,C00338,Campaign 15,Email,Opened,2025-07-31
+1fb53919-d1b3-4ef8-9412-6cfd10969269,C00993,Campaign 38,SMS,Opened,2024-12-16
+6a40c746-a86d-4879-8305-2fecab48ef7e,C00208,Campaign 25,Call,Converted,2025-09-17
+82856310-6924-48b6-ad41-65f1e1c9db86,C00063,Campaign 23,SMS,Converted,2024-12-25
+71ba0cf3-fe73-4294-b286-93589e0f7d3f,C00593,Campaign 9,App Notification,Opened,2024-10-09
+6936059e-1011-47b4-8139-b191249a4ec1,C00554,Campaign 20,Email,Opened,2025-06-16
+4b78dda2-1dcc-414b-8141-bcdfaa500a5a,C00960,Campaign 45,Call,Clicked,2024-11-17
+71fe354d-016d-4e8d-ad49-e068e810aaf4,C00807,Campaign 15,SMS,Ignored,2025-09-16
+706b6138-141e-40b7-89fa-2744a8d2b9f8,C00226,Campaign 16,SMS,Ignored,2025-05-21
+13eb49d8-88ed-4d56-adde-53580b499144,C00533,Campaign 49,App Notification,Clicked,2025-08-20
+93a7f3d1-5c25-413f-ad0a-2041384f816b,C00312,Campaign 49,Email,Converted,2025-03-15
+989162b0-39c2-488e-ae90-112fabf419aa,C00177,Campaign 32,App Notification,Opened,2025-06-24
+693eec18-6435-432e-b7af-e93ac96c677c,C00141,Campaign 7,SMS,Clicked,2025-06-20
+40673e2d-5019-4df2-8c20-8a50aee44208,C00091,Campaign 48,App Notification,Ignored,2024-11-07
+528bd2de-1562-4845-888e-bf4675805d15,C00668,Campaign 18,App Notification,Ignored,2024-10-07
+038f1c51-6eb3-4ce2-be8b-5ccfcbe9a2ee,C00016,Campaign 10,App Notification,Converted,2024-10-23
+590d910f-7508-428d-9ee6-d93ed4eb22b4,C00715,Campaign 5,Email,Clicked,2025-06-28
+897142bc-be1a-45f7-b5da-12a41c62c232,C00399,Campaign 35,Email,Clicked,2025-08-12
+e99f77d2-72e3-47af-a62c-e1880164cc5d,C00507,Campaign 7,SMS,Converted,2025-03-16
+48b0d7b7-81c4-41e0-add4-36d0401b9ca1,C00497,Campaign 44,Call,Opened,2025-09-15
+1a470496-6fd2-4e3d-b4e0-b03c5cd2abe0,C00016,Campaign 40,App Notification,Clicked,2025-04-05
+7b72ae6d-7bb2-4688-abc5-27696d8a79c9,C00723,Campaign 20,Call,Clicked,2025-07-13
+2198171d-7cf4-42d3-ad88-dc5e6ef7ccbb,C00458,Campaign 13,Call,Opened,2025-06-02
+cc62ac54-28c9-4338-b9e3-7f0b9aa7191d,C00059,Campaign 20,Email,Opened,2025-07-23
+4ca50346-3b88-4285-827d-39738da0b992,C00651,Campaign 12,App Notification,Clicked,2025-04-26
+02bb7a10-348e-461e-824a-35801e08b398,C00291,Campaign 20,Email,Clicked,2025-09-06
+1c59c70c-26aa-414b-8ba9-340c9784cae1,C00163,Campaign 5,Call,Ignored,2025-02-03
+becd6b86-2d3c-4506-b3b9-da1073d56807,C00978,Campaign 28,SMS,Ignored,2025-02-04
+323f5791-38d8-42a7-88e4-78d07c3b18e0,C00205,Campaign 26,Email,Ignored,2025-02-25
+f9159063-e95e-4564-b6bf-fd44d4292211,C00346,Campaign 24,Email,Clicked,2025-01-04
+861cd4ee-e532-4a8c-8dec-2d12b028653f,C00161,Campaign 39,Email,Ignored,2025-05-30
+c5364f10-afdd-47e9-abaa-ffeb1a2d9670,C00245,Campaign 6,SMS,Converted,2024-10-10
+4481c4d2-cef3-4e42-9580-da3a97cf695f,C00550,Campaign 28,Call,Converted,2025-07-16
+e0d56b22-a0c7-43f5-b71f-7c0ab0259a44,C00450,Campaign 23,Call,Ignored,2025-07-04
+888d337b-d8ed-4566-bc09-224a97450e57,C00409,Campaign 40,SMS,Converted,2025-09-20
+2d2654f5-1731-4542-877d-5caf8a1ca3a8,C00248,Campaign 14,SMS,Clicked,2025-05-27
+67ae6237-c15e-4790-979d-2cfc2a48b60d,C00583,Campaign 19,Email,Converted,2025-07-12
+6a399b7f-3757-4987-8838-d23e0f926eb5,C00520,Campaign 23,SMS,Clicked,2024-10-29
+8a2ae585-8f31-4afd-9c15-13bd03ba09e8,C00906,Campaign 38,Email,Converted,2024-10-08
+a87e7cdb-d2e4-48d1-bdaa-e9db5b90aa65,C00970,Campaign 3,Email,Ignored,2024-10-08
+dfffa5f2-6747-4de3-9993-373611e29315,C00390,Campaign 8,Call,Clicked,2025-05-19
+a75d83ea-bc37-4a1a-8c19-962cb7ba1b36,C00803,Campaign 41,SMS,Converted,2025-02-16
+39fae98d-0ff0-47fa-b52a-73203daf6854,C00715,Campaign 15,SMS,Ignored,2025-08-19
+5a0bc986-9e7a-430d-9648-f953ed54fcd5,C00819,Campaign 25,Call,Opened,2025-08-13
+1f8d4b29-516b-4cf5-9b09-2f5f9f6c6bb9,C00092,Campaign 20,Call,Ignored,2025-02-14
+13aefbc7-c0d6-43d3-a0f8-0a26e6259184,C00162,Campaign 22,Email,Opened,2025-03-02
+9292057f-fb89-4819-a6d4-122e69d1517c,C00244,Campaign 10,App Notification,Opened,2025-02-19
+8aac093d-58e3-4819-b7e0-c98dce217546,C00640,Campaign 27,Call,Ignored,2025-08-04
+315f6ced-bf07-42aa-9f9b-debbec77139b,C00998,Campaign 46,Call,Converted,2025-02-12
+c7d20464-21fc-4591-8de9-ef88fca3d7d8,C00219,Campaign 10,SMS,Converted,2025-02-02
+83704ccb-602e-4747-9c9a-0a81fb16d8a4,C00161,Campaign 17,SMS,Opened,2025-03-21
+0f845913-cf33-4705-a4f0-6983ed16c95f,C00665,Campaign 6,SMS,Opened,2025-05-08
+46a1e473-df82-412f-9383-9c0f2d839318,C00142,Campaign 20,Email,Converted,2025-02-02
+f1fb17e1-fe81-4d3f-8cb1-42a4ce193683,C00074,Campaign 34,Call,Ignored,2025-08-24
+04b2047f-44aa-4939-9d4c-3a4f63203749,C00414,Campaign 2,App Notification,Converted,2025-05-06
+768cd7f9-ee73-4789-8cfe-63438f246dc4,C00603,Campaign 10,Call,Ignored,2025-07-20
+a641feb4-e7f0-4231-b567-525ad285fab1,C00946,Campaign 24,Email,Ignored,2025-08-05
+d1359520-18ce-4e9a-a94f-1ad77f7e170d,C00739,Campaign 45,Call,Ignored,2025-07-28
+e386fd96-a2d0-4985-b339-10e8ea2e354c,C00683,Campaign 34,SMS,Converted,2025-01-07
+fb742a7b-0e51-4be9-8132-00401e04f988,C00086,Campaign 28,Email,Opened,2024-10-12
+5296c7f4-63b6-4c09-afe0-62f10124ac08,C00284,Campaign 15,Email,Opened,2025-04-09
+f5cc1dfb-fe07-49f9-8985-b1e583e90210,C00784,Campaign 22,Email,Opened,2025-09-13
+c157d689-b625-4a11-9a05-bca73da82745,C00328,Campaign 26,SMS,Clicked,2025-07-17
+06fe7832-f464-4ddd-bb3f-8cf59045d088,C00614,Campaign 29,App Notification,Converted,2025-06-27
+39a31c1e-0fdd-443b-ae3b-7ea146d2befb,C00447,Campaign 4,App Notification,Ignored,2025-06-07
+b6edf8b3-a66d-4812-9627-9611502c9373,C00060,Campaign 20,SMS,Ignored,2025-02-22
+b2418dea-9bf5-4d77-889f-6264b57bccf1,C00112,Campaign 19,SMS,Converted,2025-08-02
+09c4489b-e338-46c3-bf1a-8f72a0f387e9,C00323,Campaign 25,SMS,Converted,2025-02-11
+aee8eca4-d95f-4dd3-9cb9-54c890b312ca,C00073,Campaign 26,Email,Ignored,2024-12-22
+015c4f73-cbfb-4a8f-9fb2-96825f7a80e6,C00414,Campaign 20,SMS,Clicked,2025-01-06
+fa3f3c44-9c50-4aa9-a232-26ad77acabc8,C00900,Campaign 47,Email,Converted,2024-10-12
+bf612d92-509c-4b54-b27c-75edd4914931,C00165,Campaign 20,Call,Converted,2025-04-14
+784ab448-4347-4a9a-8ec4-73473e19cb1a,C00915,Campaign 25,Email,Ignored,2024-09-29
+93b2fc84-879e-4beb-a7a4-7db87d1324f7,C00794,Campaign 46,SMS,Clicked,2024-10-02
+434c7405-6cea-4a26-b498-0cd9d9487c4d,C00861,Campaign 14,Call,Opened,2025-02-05
+af85607f-011f-4f66-b025-89c7ff6eff2f,C00474,Campaign 19,Call,Converted,2025-09-04
+a16d834c-ebcf-4304-9215-926a0c3a550c,C00389,Campaign 47,SMS,Converted,2025-07-11
+e5203d85-1e46-46ac-9ab0-9ea2e5a8b58d,C00484,Campaign 47,Call,Opened,2025-05-10
+ea61f108-53e8-4216-b36e-1870ed77dbd4,C00313,Campaign 50,SMS,Ignored,2025-03-22
+e724aae0-35b2-4ce3-bb71-418f4c7cfe89,C00173,Campaign 31,App Notification,Clicked,2025-04-10
+486246f7-8abc-47ec-800f-93c1c65934a8,C00181,Campaign 35,Call,Converted,2024-11-28
+28f0178b-61ff-440f-863c-91f94eb57e55,C00789,Campaign 7,SMS,Opened,2025-03-29
+00aee456-c8b7-4765-9354-2705805a043c,C00437,Campaign 7,SMS,Ignored,2025-03-05
+2f0c7e2d-3944-4fc4-9092-6491582f78cc,C00855,Campaign 46,Call,Converted,2024-09-28
+89474d79-f649-406b-a3d9-5b2fb187233c,C00624,Campaign 37,App Notification,Clicked,2025-02-03
+e5fb3839-5eaa-427b-979b-30c451d17e79,C00597,Campaign 20,Email,Converted,2024-10-14
+40bd884f-2831-492b-9458-8d33304387d8,C00724,Campaign 36,Email,Opened,2025-03-14
+8d8815b0-700e-4602-8d0c-b7121784dc41,C00868,Campaign 30,App Notification,Converted,2025-03-29
+c650f636-faf4-48cc-82c1-c69eac2818cb,C00987,Campaign 6,Email,Ignored,2025-01-28
+3550cc71-1f40-437f-9c87-91c3b834af7f,C00935,Campaign 3,Call,Converted,2025-09-18
+1ed02b04-b10e-4dd6-bf05-413e9f531cc0,C00854,Campaign 13,SMS,Ignored,2025-08-11
+834c3b6c-1679-4e77-8469-65a5a2961d86,C00811,Campaign 34,Call,Ignored,2024-10-02
+4a1c3baa-d25c-4f82-97b3-da76bfa80526,C00534,Campaign 5,Email,Converted,2024-10-31
+efb2c37b-b693-4966-b7c0-01ef05a619ff,C00872,Campaign 11,App Notification,Converted,2025-07-22
+ecce9751-a1c7-4ea1-821f-602c7e1be970,C00077,Campaign 25,App Notification,Converted,2024-10-09
+5fa99c60-fa37-481c-bc27-69fc465c777d,C00631,Campaign 13,Call,Ignored,2024-10-18
+ea08fb3e-9a8c-4016-949a-27a86d85a707,C00072,Campaign 12,Email,Ignored,2025-07-27
+276e2b7e-c58d-47b3-8d5e-2b77375d6f24,C00270,Campaign 8,App Notification,Opened,2025-03-16
+c8db2501-2538-426c-9ffd-db82b33d83d7,C00515,Campaign 2,Call,Converted,2025-07-04
+ead8ee71-e4ae-4f39-925d-e0448fcf33bd,C00902,Campaign 49,App Notification,Converted,2025-04-25
+7728e710-82cc-42ec-b9e3-697272b4f161,C00785,Campaign 31,Email,Clicked,2025-07-27
+ef8844f3-913d-4b25-8ac3-480633fc0e5f,C00431,Campaign 38,Call,Opened,2024-11-18
+3422bb5a-d9cc-41d2-ad9c-60cd5ea03d42,C00942,Campaign 2,SMS,Opened,2025-05-02
+5df195d6-0d1d-4c4a-ba90-06cd601f0e2e,C00198,Campaign 25,SMS,Converted,2025-02-22
+705e3f47-0b9d-49f3-8faa-b56c6955f227,C00032,Campaign 26,App Notification,Opened,2024-10-23
+d8fffd02-d021-4c98-9456-0b524d3a360f,C00690,Campaign 36,Email,Opened,2024-11-08
+d866c592-9c18-4e3a-b486-e25d7a2893ba,C00832,Campaign 31,App Notification,Converted,2025-01-10
+501cb01e-a52a-4bf6-a30c-1c0d16280bf4,C00707,Campaign 9,SMS,Ignored,2025-04-07
+38c9b951-9147-4b94-91cb-f74bd068f4ce,C00302,Campaign 15,App Notification,Clicked,2025-08-17
+dea05743-4983-4e4a-941f-4ae563add4b6,C00167,Campaign 38,Email,Ignored,2024-12-02
+6d7212dd-f7c9-4d16-b522-cd564c27ac78,C00369,Campaign 35,Call,Opened,2025-01-30
+a864bfae-1583-4511-b1e8-d1d4b17ed913,C00725,Campaign 36,App Notification,Ignored,2025-01-14
+b1676133-50ab-46ed-b7fe-9772bd3ea5e4,C00142,Campaign 19,Email,Ignored,2025-09-13
+5f71f537-47aa-4465-8acd-762df9966335,C00871,Campaign 3,Email,Ignored,2025-09-07
+5e3fba2a-1e0a-4b09-82b8-9fc28d4ad8fc,C00848,Campaign 21,Email,Clicked,2024-10-05
+fe02fb73-51d2-42ba-956a-b2988b054a03,C00751,Campaign 26,Call,Converted,2024-11-02
+3b92eb3e-b384-4cd3-a1a8-4b574b25d84a,C00013,Campaign 24,Email,Ignored,2025-07-10
+88bb6a9c-1b98-4fd5-ba91-c6d1edd8a1c0,C00583,Campaign 11,App Notification,Opened,2025-03-06
+e09dc82b-7a9a-4477-9435-46c98cf38f0c,C00594,Campaign 41,Email,Ignored,2025-02-21
+ac7d6760-f9c9-411c-bd67-090e3a6f9352,C00540,Campaign 41,SMS,Opened,2025-06-29
+47fc23f5-0201-465b-b2cf-4a9520f44d6e,C00159,Campaign 24,Call,Clicked,2024-11-19
+d01c9d00-3d9c-42f9-b5cf-159ed31efa52,C00173,Campaign 8,Email,Converted,2024-12-14
+c24750a9-a1a0-4993-8670-796784a53e31,C00556,Campaign 48,Call,Converted,2024-12-20
+010a8e80-62f7-4ff7-91eb-586aa95278e4,C00995,Campaign 43,Email,Opened,2025-07-02
+b9eda241-9c4f-4fb0-86ef-ad71530b9b65,C00838,Campaign 35,SMS,Clicked,2025-06-12
+422d6d4a-0422-468b-bee3-85c2274fb207,C00264,Campaign 40,Call,Ignored,2024-09-26
+c6582982-3ec2-4b6f-8f72-1793c738e97e,C00910,Campaign 28,Email,Converted,2025-07-26
+6129296b-edca-44f1-af7e-0375eaba6835,C00566,Campaign 8,App Notification,Ignored,2025-02-27
+cfd0da66-0a44-4a9f-b7a1-1b8e4d9f5527,C00692,Campaign 49,SMS,Converted,2025-03-25
+bcfc1f9f-0af6-49dd-a381-bbd7271ffe38,C00823,Campaign 6,Email,Ignored,2024-11-21
+8198e919-bbd3-461d-ba04-8ced5081a400,C00248,Campaign 36,SMS,Opened,2025-05-03
+69cfbfdd-33d9-4b3b-ad37-00ebf3ce1b5a,C00972,Campaign 25,Call,Ignored,2025-03-27
+fedd5c98-f891-4f00-b485-49f95b5f5348,C00292,Campaign 38,SMS,Ignored,2025-03-20
+8e045196-d7d7-45a5-8ed1-7b3587a88faa,C00478,Campaign 45,App Notification,Opened,2025-07-04
+3384f2f9-25b1-4f6d-b60a-5f9ef9e1c6cb,C00054,Campaign 15,App Notification,Opened,2024-12-02
+75dc631e-9072-4cd7-8b0c-a79cdabce106,C00441,Campaign 30,App Notification,Ignored,2024-10-04
+94ae96bf-fe40-4b97-8c11-86109bd424ec,C00821,Campaign 26,Call,Clicked,2025-04-10
+0ce56ee2-7fff-4773-b6d1-fa0d4b6b37af,C00112,Campaign 50,App Notification,Ignored,2025-05-12
+860d2517-196a-402c-9ca7-e998777a7939,C00409,Campaign 36,Email,Converted,2025-06-04
+00d0771a-1ab4-4b62-a37b-db3a656ba154,C00943,Campaign 1,Call,Ignored,2025-04-18
+cbcb7fe9-e052-46a8-a015-a8cea904b9a6,C00688,Campaign 4,App Notification,Converted,2025-05-22
+3028c1de-d6e9-4ba8-a9fd-ce92e6b875df,C00524,Campaign 32,Call,Converted,2025-02-18
+af83303c-fc35-4b53-af3b-b0028703cc53,C00029,Campaign 49,Email,Converted,2024-11-26
+e11db350-1169-4505-a671-9f38a61f60d8,C00955,Campaign 35,SMS,Converted,2025-02-26
+02e2ceb0-6320-4305-92f0-5e50f28b07f7,C00874,Campaign 7,App Notification,Converted,2024-09-29
+66216b57-e612-408a-a25b-e828c668a741,C00233,Campaign 2,Call,Ignored,2025-08-02
+86094fee-e877-470e-ae51-9a9b81132981,C00944,Campaign 35,Email,Opened,2024-10-17
+9686bd3c-7c81-4400-a8dd-75dde82933c8,C00468,Campaign 39,Call,Opened,2024-10-11
+5e96978d-29d6-4511-9d97-2216ba16ea5c,C00968,Campaign 32,SMS,Clicked,2024-11-25
+529105b7-609f-4e4f-8429-9108ac072eea,C00115,Campaign 38,Call,Ignored,2025-03-27
+c6b7d00a-8bc2-4bb7-ac1b-2e7c05f2e2fc,C00405,Campaign 24,SMS,Clicked,2024-10-21
+2822eb55-2258-4a36-98c6-c1a773181f22,C00487,Campaign 19,App Notification,Converted,2025-05-13
+9c11a1d7-9c74-4665-aa73-986219d228f6,C00322,Campaign 36,App Notification,Opened,2025-07-08
+0225b8b1-715f-466c-9ac0-ca40fe4fb7e1,C00823,Campaign 36,Call,Ignored,2024-12-12
+87faeca0-0ff2-40a4-8ebf-80720a91d3c3,C00847,Campaign 20,SMS,Clicked,2024-12-10
+9e283d8e-011f-490c-b991-c5738f0b3361,C00684,Campaign 26,App Notification,Clicked,2025-04-11
+b9b5a426-e291-4685-9882-ce56d9a85d50,C00846,Campaign 20,App Notification,Converted,2024-12-27
+74bff3cd-fc6f-436b-87dc-7216e88839f8,C00913,Campaign 37,App Notification,Ignored,2025-04-13
+cc5fca33-d1e6-4553-b1b2-0a7e0b660f71,C00971,Campaign 48,Call,Opened,2025-09-05
+3f26a88f-88b3-4fcf-b1bd-9ff2e5bac1f4,C00567,Campaign 5,App Notification,Converted,2024-12-03
+517d602a-cbc1-4513-a66b-0cc76a9e4054,C00735,Campaign 29,Call,Opened,2025-04-09
+ea7e103c-7536-4f30-b12a-3f14eafdf7ed,C00543,Campaign 6,App Notification,Converted,2025-06-20
+2ecbd946-0f54-45dd-a30b-34b922aff6bb,C00086,Campaign 13,Email,Opened,2024-10-30
+811d5c66-feee-41a9-ab82-e95411fb8702,C00809,Campaign 41,SMS,Opened,2025-06-02
+bf68e608-6c28-4bbf-b407-0fe56c1f96c5,C00802,Campaign 31,Call,Opened,2025-06-17
+ec01a365-51f7-4518-8e5d-63284c326e2d,C00610,Campaign 6,Call,Ignored,2025-05-16
+a2aa7f9a-79fe-4183-93f5-4676e2572729,C00798,Campaign 39,Call,Opened,2025-06-01
+87fd018e-0638-4ca8-a3ed-aaf938fa6094,C00996,Campaign 50,Call,Converted,2025-03-25
+b3e4af71-d784-4825-8234-8a828e47bfe3,C00536,Campaign 30,Call,Ignored,2024-12-10
+f9c2d0f3-ec1e-4164-ac48-491286275aaa,C00598,Campaign 27,App Notification,Converted,2025-05-17
+d748c6f4-ec06-415a-b4be-f407559d1417,C00112,Campaign 35,Email,Converted,2024-12-21
+bc25de4b-6b13-406f-a070-ee0a1b5ece45,C00365,Campaign 15,App Notification,Clicked,2025-08-10
+05eb7c54-7f1a-4298-870a-6e4886a05e8e,C00595,Campaign 28,Email,Converted,2025-01-07
+c95955ea-5569-45a1-948e-40d9e5349d25,C00791,Campaign 41,App Notification,Clicked,2025-09-08
+a2f8758c-f351-4ee5-8a5f-050e7c928d60,C00090,Campaign 32,App Notification,Converted,2024-10-30
+3345fa1b-708a-4515-bbe7-450ca1b9b7ee,C00974,Campaign 14,App Notification,Ignored,2025-06-12
+f91b43c6-2ac6-4f88-918c-6ab948a0e962,C00060,Campaign 27,Email,Opened,2025-09-14
+5695a1ea-ab2c-4c98-ba5f-8a17d73a2d0b,C00121,Campaign 3,Email,Converted,2025-02-12
+981d84ec-7b00-4430-8525-4f322334dd39,C00833,Campaign 12,Call,Converted,2025-05-02
+3f0a5c9f-4085-4dba-b8fc-c7fdf7298f09,C00636,Campaign 27,Call,Opened,2024-12-04
+8b6c03f9-f9dd-40a9-bf2d-02ae1c785665,C00791,Campaign 50,Call,Opened,2024-11-21
+09fd31ec-cea4-4b98-b8ef-faba39dd381d,C00220,Campaign 12,SMS,Converted,2025-01-30
+68939da2-7a43-4419-9ddd-7eccdd30827c,C00945,Campaign 14,Call,Opened,2025-03-02
+d32d81cb-4f14-4587-8722-f1c10832dc92,C00067,Campaign 37,Call,Opened,2024-09-29
+4634b50e-8556-49c7-b0c6-a60ae911e763,C00312,Campaign 13,Call,Clicked,2025-06-12
+03783050-e599-42e0-80c8-f92a66a633f8,C00773,Campaign 9,Email,Clicked,2025-06-30
+4b576881-72f3-46a3-b135-318d55016ddb,C00441,Campaign 31,Call,Opened,2025-02-19
+9992f66f-1de9-4057-a38f-e64862ddadaf,C00433,Campaign 30,Email,Ignored,2025-05-06
+510d729e-a986-4452-82d0-c34f7c5c0288,C00989,Campaign 28,Email,Ignored,2025-07-29
+50eba3be-200e-483d-a191-8c6c57cb3875,C00742,Campaign 46,Call,Clicked,2025-08-20
+2652048e-4cfa-4494-9aa2-22caa9fb289b,C00075,Campaign 11,SMS,Ignored,2024-12-29
+66e2f50e-6c02-4998-89ca-a5098fed6c2a,C00703,Campaign 23,App Notification,Clicked,2025-03-09
+9b6b0003-9292-42ab-adbc-5f4f9c31a30f,C00900,Campaign 25,App Notification,Converted,2024-10-14
+fb90ab38-22a1-4b7e-a979-f5cb7695d80a,C00028,Campaign 32,Email,Ignored,2025-06-14
+0b2e0c5f-4574-4407-9dab-14c178e0b9b8,C00044,Campaign 1,Call,Converted,2025-03-01
+fd32d0a9-507e-4ae2-9951-0f90060230b7,C00356,Campaign 11,App Notification,Opened,2025-07-04
+29e45de6-844a-45e0-ba48-3a3b1aadbbf4,C00052,Campaign 3,App Notification,Ignored,2025-03-03
+8e9dfe13-3bbf-456b-ad85-612aec95763e,C00384,Campaign 31,Call,Ignored,2025-02-20
+fd308df6-37f8-473a-868e-a928899ca7af,C00634,Campaign 12,SMS,Opened,2024-12-19
+d595bdbf-33f0-431a-8db1-2e19228ca5c7,C00883,Campaign 9,Email,Clicked,2025-04-08
+63e9316e-8655-4bf6-9b17-36d7c028e9ff,C00788,Campaign 25,App Notification,Converted,2024-11-13
+40bd07ab-e194-491f-a59b-2d555bafd14f,C00663,Campaign 29,App Notification,Clicked,2025-02-25
+2fcc9e22-6bd8-457f-bd59-17bb804114c3,C00305,Campaign 18,SMS,Clicked,2025-04-18
+163d8b82-fba3-4867-ae44-4d7de4b87a71,C00085,Campaign 33,Email,Opened,2024-10-16
+7f4af6cf-5f78-4903-a6c5-0aa25c4353d7,C00942,Campaign 19,SMS,Clicked,2024-12-31
+e9f660a9-8f3f-4876-8d43-240a8dfcfcef,C00735,Campaign 25,Call,Opened,2025-01-16
+14469774-ed11-4765-a6dd-e2aa7d98c83c,C00070,Campaign 32,Email,Ignored,2025-06-09
+2932cfea-9462-424e-85a3-5dcdd51a5332,C00855,Campaign 47,Call,Converted,2025-02-21
+5d9a1711-a07c-4bd8-bb58-314e7b25706b,C00538,Campaign 31,Email,Clicked,2024-09-25
+bad09612-0d62-4f8d-880d-68e066170439,C00819,Campaign 32,Call,Opened,2024-10-22
+dc9d41e7-699f-4b05-ad8e-8aead26984e7,C00128,Campaign 6,Call,Converted,2025-01-06
+094fe9ae-d3f4-4044-a2fe-915363eeb3af,C00112,Campaign 10,SMS,Clicked,2025-04-26
+9ad8a78b-48e4-4c7a-9351-f0476f16a980,C00272,Campaign 25,App Notification,Opened,2025-07-07
+1565fe66-db6d-48a4-a836-08e6910a80c6,C00904,Campaign 26,App Notification,Clicked,2024-09-26
+64690bf9-6e00-4280-9b3b-b28598e81d6f,C00766,Campaign 48,Email,Converted,2025-02-01
+52b50d5c-df7d-41c2-97c6-da93aa7f6c01,C00687,Campaign 27,App Notification,Clicked,2025-01-15
+b862e24a-ef7c-4701-8f9c-81b4f159362b,C00852,Campaign 15,Call,Converted,2024-12-23
+e294f5d3-797d-41fe-9899-18ba0dff6d72,C00720,Campaign 11,SMS,Opened,2025-04-01
+215ae290-666f-4262-9aad-9bb944cdd7a9,C00983,Campaign 3,Call,Clicked,2025-05-21
+4c515009-ba28-43a0-bdac-9dbdde82d840,C00702,Campaign 2,SMS,Clicked,2025-08-05
+cdeccbbc-2801-4ea2-b0dd-9227a69be18a,C00244,Campaign 2,App Notification,Clicked,2025-07-21
+2e4f53c6-5096-49fc-a58e-c778e94d2b20,C00895,Campaign 37,Call,Opened,2025-07-21
+acbe8e4d-aa4b-4717-9702-0933216aa7ca,C00617,Campaign 37,App Notification,Converted,2025-04-13
+752f0d48-e496-471d-af16-667481a67f9a,C00564,Campaign 13,App Notification,Clicked,2025-06-02
+7fc35f14-0e76-4505-b28f-b911d31466df,C00712,Campaign 18,Call,Clicked,2025-07-04
+6962f5bd-1be7-43b1-a868-967832c3772d,C00776,Campaign 44,SMS,Ignored,2025-09-22
+e6a69cf6-c62d-4e03-922a-5e845f9ec4a1,C00713,Campaign 29,App Notification,Clicked,2025-02-17
+bfde2c24-0bbc-428a-9b22-009ae2fa26be,C00759,Campaign 30,App Notification,Opened,2025-03-06
+aaf73dac-adc2-4cf7-883f-3134a0900fea,C00319,Campaign 20,App Notification,Clicked,2025-02-18
+1e31a2c8-dd51-400b-90d3-5dade85d7cd1,C00687,Campaign 30,App Notification,Converted,2025-07-18
+e9b0f619-ab40-4503-b6a1-514117dc6230,C00440,Campaign 25,Email,Converted,2024-12-25
+08951886-5b8b-46a7-a596-35b2a3ab26e3,C00191,Campaign 6,SMS,Opened,2025-09-06
+25cf561d-2d17-40d1-850d-519e683ab316,C00242,Campaign 38,SMS,Ignored,2025-09-17
+c9ffb6a0-e87c-45aa-aba7-a9a4fe735f4a,C00011,Campaign 8,Call,Converted,2024-12-27
+a577d497-9347-4a31-9501-25864f637747,C00085,Campaign 3,SMS,Opened,2025-01-14
+23e0c53f-56a3-434b-a9f5-2e16abe594e1,C00823,Campaign 7,Call,Ignored,2025-08-25
+5b2b79d3-ea1f-406a-af91-90b2ac77e0b3,C00872,Campaign 33,Email,Converted,2024-10-16
+48d19469-3145-4d09-b920-b0cf51e3b50d,C00154,Campaign 25,Call,Clicked,2025-03-25
+436d1a6a-d98a-41b3-ac02-5f6a7d873b7d,C00894,Campaign 45,App Notification,Clicked,2024-10-23
+282eae6e-03ce-454a-a947-af8efef7c9a8,C00747,Campaign 8,SMS,Opened,2025-03-29
+5a340ef1-e091-4476-92b1-00e6b37c8bb8,C00953,Campaign 44,Email,Clicked,2024-12-03
+f43435b2-e739-45ee-bb78-705ed6a70990,C00278,Campaign 22,Email,Converted,2025-04-13
+5bf14572-57e6-4ee7-bf9f-dac8b89f1b65,C00682,Campaign 31,SMS,Clicked,2025-05-01
+ec4c40d6-7e58-421c-8f99-c231e6778e35,C00616,Campaign 16,Email,Ignored,2025-01-17
+0f3089e8-2ff2-4e9d-bd20-647eee97201d,C00133,Campaign 50,Email,Clicked,2024-12-28
+e1b0c8e7-5821-4044-ac50-a7cb11db4eac,C00982,Campaign 36,App Notification,Clicked,2025-01-20
+8787e7ab-f6e4-4520-8a13-beecf656b6eb,C00791,Campaign 23,SMS,Converted,2025-06-21
+c34052fa-2a29-4267-aabb-0b14d72cad7a,C00233,Campaign 8,Email,Converted,2024-12-16
+663cdde3-1956-4791-9cbb-2fa3ce4a7324,C00899,Campaign 26,App Notification,Converted,2025-08-28
+053d8ea2-3b22-499a-ba81-3a5746166db6,C00504,Campaign 12,SMS,Ignored,2025-08-23
+ff0c517c-f758-4794-a08e-c1603f004214,C00111,Campaign 11,Call,Ignored,2024-11-12
+b474d20a-753e-4a37-beb8-d108f5a51dbe,C00746,Campaign 2,SMS,Ignored,2025-01-04
+3a2df027-498a-4895-8648-1e20a4b3be57,C00128,Campaign 4,Email,Ignored,2024-12-16
+97d83cd9-253e-49be-b9aa-fb43b7b2120f,C00825,Campaign 38,SMS,Opened,2025-06-08
+867a1104-74e0-4879-add9-d7825855427b,C00186,Campaign 17,SMS,Ignored,2025-02-27
+b1776a33-7fb7-423c-aa49-3463eb3f3218,C00261,Campaign 17,Email,Converted,2025-05-17
+0dc5594e-b516-402a-a0ce-c23f48495bff,C00443,Campaign 6,App Notification,Opened,2025-01-09
+f16e7483-78f2-4874-a5e6-50c7db552b32,C00711,Campaign 9,SMS,Clicked,2025-03-09
+c3b77188-a2ee-4353-a2e3-ecff43072a7f,C00897,Campaign 38,Call,Converted,2025-02-14
+7b177362-9ecf-46ad-a9db-dbca46216fd8,C00718,Campaign 44,App Notification,Converted,2024-11-18
+ce3350d1-bd1e-4fc0-8a09-e857de2b8f8b,C00068,Campaign 36,SMS,Opened,2025-03-29
+1a4f6dd4-4bba-4d1c-8607-9d81a957d31d,C00357,Campaign 22,Email,Ignored,2025-04-18
+a0b8bf86-735f-49a1-a8fa-79fa029aaa9d,C00225,Campaign 12,Email,Clicked,2025-08-18
+05939571-1310-4902-9ecb-d982a8bb22c2,C00726,Campaign 31,SMS,Ignored,2024-10-05
+4aa4ac11-8f1d-41e2-b13a-15be9282a140,C00359,Campaign 25,Email,Ignored,2025-01-08
+2a4049d2-8203-4ec2-9d15-76172c7a5163,C00079,Campaign 33,SMS,Clicked,2025-04-23
+a2d47c26-6117-4b2e-90e7-35f33f64b61f,C00540,Campaign 41,Email,Converted,2024-12-28
+206bf71e-80b5-4339-a0f0-f4ea1f0087ca,C00117,Campaign 29,Email,Converted,2025-02-26
+9abcd9bf-f5dd-4422-9941-5c99818401b3,C00941,Campaign 8,SMS,Ignored,2025-03-14
+eb76cb13-f7ae-423a-8ce1-4a8fc65a6597,C00230,Campaign 34,App Notification,Converted,2025-08-07
+979674b1-8406-49f7-88c0-66132e102f95,C00883,Campaign 13,SMS,Ignored,2024-10-20
+7835e67b-5d1d-4fe0-a4ac-4cc457a6b26c,C00159,Campaign 4,App Notification,Converted,2025-04-18
+c45b5b45-5c95-4b2b-96ae-14a991605059,C00061,Campaign 48,SMS,Converted,2025-07-31
+3a852ff6-42d3-4af2-be4e-1c81875ee1f5,C00373,Campaign 37,App Notification,Opened,2024-12-29
+60ffedd5-e469-4359-99ca-5572fceb75b1,C00324,Campaign 31,Email,Converted,2025-01-30
+fe703fc2-25bb-4712-a691-68201df22a39,C00746,Campaign 12,Call,Opened,2025-07-03
+43e6a93e-eb4b-4774-b45f-0ca0496d2174,C00616,Campaign 1,App Notification,Converted,2025-01-02
+b11848b7-77a7-4752-9e81-b3edb77b1335,C00764,Campaign 37,Email,Clicked,2024-10-03
+da731be5-6a16-40e0-8525-c043c5ad17e4,C00746,Campaign 29,SMS,Clicked,2025-05-20
+3d456837-bbd6-4daf-b0a3-29531234a2b7,C00666,Campaign 15,Call,Clicked,2025-04-28
+3d182a90-4ade-4ff9-a601-fc429c3ff9cd,C00186,Campaign 45,Call,Clicked,2025-01-20
+c88e19d8-bfe0-4a93-8a35-55a77326175e,C00393,Campaign 32,Email,Converted,2025-05-22
+9e8f862b-537e-474e-9b5c-aace44fcc9f4,C00934,Campaign 45,Call,Opened,2024-10-01
+b0e36869-ff2f-46e7-b592-cc6c78fb43c9,C00837,Campaign 32,Email,Opened,2025-06-17
+29dda158-85e6-4a6b-a7f2-aec31f9e7c7d,C00149,Campaign 47,App Notification,Clicked,2024-10-20
+2eb78b1b-1245-4efb-8b4d-4a6619cb0881,C00039,Campaign 11,Call,Opened,2025-02-15
+f8dd1dd4-183b-4568-a6f5-d57da32bd05a,C00100,Campaign 2,SMS,Clicked,2025-05-23
+43382b8f-418b-450f-91c0-008314278cf3,C00563,Campaign 14,SMS,Clicked,2025-07-02
+95686452-8156-4c6b-8dba-6cacf98473b6,C00783,Campaign 38,Email,Ignored,2024-12-12
+74aab2e1-f8b9-48fe-a2b9-c39576e2e392,C00727,Campaign 15,Email,Opened,2024-10-12
+073c002f-db11-4042-9eb3-30dd0ee8cae8,C00549,Campaign 17,Email,Ignored,2025-03-05
+a533559d-f26e-4838-9efb-9d999f28c83f,C00821,Campaign 16,Email,Clicked,2025-06-15
+21513795-eec1-4d04-a6f5-4f25a3722c5c,C00724,Campaign 34,SMS,Opened,2025-02-11
+67981259-719b-40ca-af7d-139137a1d11d,C00055,Campaign 31,SMS,Clicked,2024-11-28
+df9f32d4-a822-423a-b6bb-3b94415ff8ea,C00236,Campaign 38,Call,Opened,2025-06-30
+6d6ae8ce-2147-4e1b-b3c0-9abdfcf761fe,C00582,Campaign 35,Call,Opened,2025-01-24
+c4dcd45e-f531-4e4c-80d9-5c502725ef9e,C00542,Campaign 29,Call,Clicked,2025-03-24
+bd1c28b8-415d-4757-8d75-ab6186787aa8,C00216,Campaign 48,Email,Ignored,2025-03-22
+ffaddc07-9f1b-46d1-836f-c3387b34150d,C00145,Campaign 15,Call,Converted,2025-07-10
+70e0bae3-3dda-4fca-a40a-bcced903baeb,C00517,Campaign 2,Email,Clicked,2025-05-03
+a9df0fcf-7ea0-4346-bfae-946484618581,C00760,Campaign 31,Call,Converted,2025-01-22
+30d9026a-a6da-4e79-b874-3719b34b5f07,C00289,Campaign 11,Call,Converted,2025-05-09
+d596e5e3-d5f7-4b51-af45-c0df9f28bff6,C00755,Campaign 3,Call,Ignored,2024-12-04
+cf8e0248-1bdc-4558-8e37-c6f590d2869c,C00153,Campaign 24,SMS,Clicked,2025-04-02
+1b8d9838-4488-4132-86f0-ba6f5ca8aa69,C00193,Campaign 34,App Notification,Ignored,2025-08-07
+ac72e424-8b9b-4269-9613-12adce76b4db,C00972,Campaign 5,SMS,Clicked,2024-12-15
+73ceca7e-5cc1-43c1-aa1b-645781c6ef8e,C00883,Campaign 46,Call,Ignored,2025-09-15
+86fda633-2753-4e5c-9196-5133e3ea633b,C00257,Campaign 35,App Notification,Clicked,2024-11-23
+9acd45f0-be0b-4a51-a595-2bbdcefeaad5,C00815,Campaign 38,App Notification,Ignored,2024-09-30
+5a1646fe-eafe-4fea-8da3-3f1a6b5e6d5c,C00288,Campaign 11,SMS,Opened,2024-11-01
+504bd946-93c9-4ed3-b937-3c139a706219,C00267,Campaign 17,Email,Opened,2024-11-23
+da2de42e-7242-43dd-88b8-2b0aedb36225,C00382,Campaign 46,App Notification,Ignored,2025-07-14
+7e7f5fce-fe70-42c4-bdb1-1045d4c7d8b4,C00937,Campaign 5,Email,Opened,2025-09-09
+bc0d11c7-54dc-45f3-a48d-44755c722e60,C00649,Campaign 7,Call,Clicked,2024-12-14
+f9dc5cb7-1217-436b-b46c-608cf61034b7,C00002,Campaign 34,Call,Ignored,2025-05-19
+3a4bde1f-c628-4dc5-b0d6-fddb92fa504c,C00549,Campaign 21,SMS,Clicked,2024-10-20
+4c7b7e32-a422-49af-b691-ed69aa46c05b,C00348,Campaign 39,Call,Ignored,2025-07-20
+e13e6d45-6207-4af1-a590-fd88545801d8,C00691,Campaign 26,Email,Converted,2024-10-17
+1842b7ee-bfdb-4ed8-ac4b-1f95d4f3df52,C00697,Campaign 9,App Notification,Ignored,2025-08-04
+0cf34e82-a165-4653-9c5b-c43361244852,C00512,Campaign 32,Call,Ignored,2024-11-15
+0538ffa9-cd40-4071-8538-8c79cd7907e7,C00242,Campaign 33,Email,Converted,2025-07-08
+6c9522a8-8741-4bf3-bfab-99562be961bc,C00813,Campaign 28,SMS,Ignored,2025-01-14
+5b55ac88-9024-4e8c-8567-93f79c5dc768,C00195,Campaign 9,App Notification,Converted,2025-08-14
+ea4d9316-ab9a-4e9e-8594-f053d259ed81,C00537,Campaign 6,Email,Clicked,2025-06-27
+c4b92194-0e70-4ddc-b6cc-f94de0bd3fe7,C00868,Campaign 43,Email,Converted,2024-09-25
+f13a69ca-200f-4f61-a2f1-a2341ee14086,C00155,Campaign 8,Call,Ignored,2025-01-21
+0dac1724-a6df-428e-a5c0-eacc8342a8e2,C00800,Campaign 19,Call,Opened,2025-08-10
+18763672-317a-4e1d-abfb-3a7bc91b6eac,C00093,Campaign 27,Email,Ignored,2025-05-06
+373c6cc6-e67c-410d-94b6-3ce700b7444c,C00695,Campaign 44,Email,Converted,2025-08-14
+fc7ca8dc-6211-4ae7-a5ba-ca20d5ade9fd,C00295,Campaign 40,Email,Clicked,2025-04-30
+77b8d504-8e68-4e7d-baed-5fcb2bacbdbd,C00506,Campaign 4,App Notification,Ignored,2025-05-13
+2af2a2f4-af04-401e-93fb-4469e82835ed,C00350,Campaign 8,Call,Ignored,2025-06-10
+4977d084-7f78-4525-b48d-d25becef1d15,C00852,Campaign 37,SMS,Opened,2025-05-29
+2ff34f0c-c653-41a2-a282-4085cb1f4c06,C00768,Campaign 2,Call,Converted,2024-11-28
+9c6beb12-ad23-455b-83ff-70d6e92c0550,C00067,Campaign 40,Email,Clicked,2025-03-17
+bf323f92-13a3-43cf-96be-be8431c67aaf,C00491,Campaign 42,App Notification,Ignored,2025-08-12
+c2789b0f-4299-457d-ab17-eb1829dc5cba,C00168,Campaign 21,SMS,Ignored,2025-07-11
+dbf777bf-224d-4cae-bdf3-ad5a89ffca1c,C00879,Campaign 27,Call,Clicked,2025-05-22
+9a437632-7231-4218-933e-721871c8fb57,C00614,Campaign 14,Email,Converted,2024-12-03
+a6a866c3-dc72-4e63-8f7b-afa018d6adc4,C00732,Campaign 42,App Notification,Converted,2025-01-11
+cf2889d8-4485-426b-9bd4-41a6a775afb1,C00935,Campaign 13,Email,Converted,2025-07-07
+90821c6d-b4db-4af3-97fd-b7b51d7361ee,C00362,Campaign 13,App Notification,Opened,2025-02-08
+adb448cf-f815-49c6-90c9-738a4529982c,C00166,Campaign 47,App Notification,Opened,2025-04-22
+a6d28573-c34b-41d1-827f-0bc5f8e25377,C00338,Campaign 43,App Notification,Clicked,2025-02-11
+33d79079-ab4c-4829-8340-5bc1a20bf4f6,C00242,Campaign 13,SMS,Clicked,2025-04-14
+f2a69eba-931f-4f9d-b742-4101019fa738,C00925,Campaign 46,Call,Ignored,2025-08-31
+7e3fdc23-c454-4a11-a41f-94dbd42449cf,C00930,Campaign 18,SMS,Opened,2025-03-06
+5ad0bceb-d803-4ad9-930f-fa9aaa3283d5,C00251,Campaign 12,App Notification,Converted,2025-03-07
+a2dbcc0b-aa6f-4e94-ba80-2e71ec679415,C00581,Campaign 15,App Notification,Ignored,2025-02-22
+71d7c324-a5a5-4349-816b-053154d77fbe,C00127,Campaign 27,Call,Opened,2024-10-15
+8aa8bcdd-e54c-4aa7-9c1c-6253ac851f75,C00673,Campaign 32,Call,Converted,2024-11-20
+1e5bb5c5-e86a-4802-a574-c9e616b349ee,C00816,Campaign 11,Email,Ignored,2025-07-10
+a72cfe95-16f3-4c4a-b105-924df00d09db,C00236,Campaign 37,Call,Clicked,2025-04-06
+04d95667-ff49-44a0-a16d-b33d73f34aa9,C00515,Campaign 33,App Notification,Opened,2025-03-17
+471f681d-461d-437d-9afc-6bb9943cc1a3,C00477,Campaign 8,Call,Converted,2025-07-24
+f38611bf-6dfc-4177-aa0c-574f5f8f9ddc,C00324,Campaign 27,App Notification,Ignored,2025-08-23
+67053de4-ce57-443d-a87e-9ec39e868d36,C00369,Campaign 47,SMS,Opened,2025-06-17
+02720cd1-cbd3-4f54-a05e-3a25afb12754,C00534,Campaign 17,Email,Opened,2025-09-13
+b764b1f9-0df9-4154-9538-8c8fb84cb517,C00968,Campaign 18,Call,Converted,2024-12-31
+c4c9921c-0060-466b-beab-9a6845a90cee,C00958,Campaign 39,Call,Ignored,2024-10-23
+a76f99f1-6467-46d2-af74-562ffcbbe186,C00759,Campaign 24,App Notification,Ignored,2025-02-07
+4dd95cdb-b1c3-40d0-a0e4-ba2c741f4027,C00001,Campaign 27,Call,Ignored,2025-03-11
+d892f59b-a474-451c-981a-b0fb6b542dc8,C00154,Campaign 22,SMS,Opened,2025-07-02
+befd1a00-5cdd-48e9-a512-3e60ed992c30,C00528,Campaign 13,Call,Opened,2025-03-10
+9683db86-23a7-4d01-b9a1-4cd2314cf28c,C00006,Campaign 41,Email,Clicked,2025-05-17
+15661849-4d05-4204-b961-ff627acd3d7f,C00101,Campaign 42,Call,Opened,2025-06-30
+8507eade-6ee7-4c2d-80b1-eacc566a7cb2,C00117,Campaign 42,SMS,Opened,2025-01-20
+cd403fa3-c097-4de5-8ad2-67b40561090e,C00747,Campaign 2,SMS,Clicked,2025-06-16
+9ca94273-0df4-48cb-be60-af643dc606f9,C00712,Campaign 2,App Notification,Converted,2025-07-07
+c2c0f635-6d1d-4767-9f58-f6e1e425b5b7,C00643,Campaign 42,App Notification,Converted,2025-06-08
+7c380a65-b3f6-45e4-8f84-b5261e06009c,C00908,Campaign 11,SMS,Converted,2025-05-14
+190166c2-d67d-4fed-ab0c-b67fdd22f1cf,C00684,Campaign 8,Call,Clicked,2025-07-27
+3865ab28-559c-47ae-9545-afe1f365d9d4,C00079,Campaign 35,Call,Clicked,2025-08-01
+d61bb866-3840-4729-b67d-bc59e5b96b5e,C00596,Campaign 7,SMS,Converted,2025-07-26
+c6a9dcde-342e-4b30-926d-20bb033fd3c3,C00694,Campaign 18,Email,Converted,2025-08-10
+98ae63f5-8b0d-4773-aa37-e66a4bdccbe6,C00607,Campaign 22,Email,Ignored,2024-09-24
+11ff4d56-8737-45cf-b597-693f7da131be,C00763,Campaign 5,App Notification,Clicked,2025-05-14
+942b02ba-2620-46c3-aaf8-ef62d507017f,C00304,Campaign 42,Call,Converted,2024-12-07
+a63b6c9f-cd97-4b02-9354-0737ef3ee855,C00248,Campaign 23,Email,Opened,2025-02-09
+7a9feedd-0e60-4b33-9e1e-af355a039041,C00827,Campaign 8,App Notification,Converted,2024-11-03
+65e884b4-6e8c-4522-8cec-56e2d79c4a0d,C00852,Campaign 19,Email,Converted,2024-11-07
+6ef7926b-3862-4ce7-8df9-16a99a993bd3,C00230,Campaign 12,SMS,Ignored,2025-07-31
+93808821-54e7-4600-8ec4-153975aaf67e,C00364,Campaign 27,SMS,Opened,2024-10-15
+a82be000-75ca-401b-9e9f-bc991e505871,C00433,Campaign 27,Email,Opened,2025-07-28
+7822d1ff-ae59-4a18-9ad8-8a95a3c8fa06,C00229,Campaign 22,SMS,Clicked,2025-03-05
+1a99c97b-33e6-4ad2-acbb-4d826e4516dd,C00510,Campaign 41,SMS,Clicked,2025-04-29
+7173388b-6993-4b54-88fb-f6f0fa8fa177,C00121,Campaign 36,SMS,Clicked,2024-10-05
+ac504267-6322-41f1-9f36-ad32ee1a1e69,C00254,Campaign 2,App Notification,Clicked,2024-10-11
+6b91a4b6-9daa-4003-8569-c3a77610468f,C00021,Campaign 10,Call,Clicked,2025-07-23
+9ae6ee8a-264a-4353-a612-7629dced669a,C00626,Campaign 2,App Notification,Clicked,2025-08-05
+835b8981-04b5-4a0b-b80f-97c682e2b59d,C00272,Campaign 30,Call,Clicked,2025-05-27
+4f9bc12b-845f-4ba6-8a82-9f6d7d7667cb,C00726,Campaign 22,Call,Opened,2025-06-11
+8a064b9b-902c-481c-9979-a73b73cb2695,C00250,Campaign 14,Email,Ignored,2025-03-29
+c7164aa1-4186-4f53-a733-91e58136f4dc,C00470,Campaign 37,Call,Converted,2024-12-12
+fc783aaf-673c-4053-9f29-1fe85924a824,C00972,Campaign 33,App Notification,Ignored,2025-04-06
+6e493e7c-afc2-48dc-89b3-4014644702b9,C00203,Campaign 17,Call,Ignored,2025-09-23
+ebac3a24-40ee-43bb-bc8c-1b53726e0a16,C00333,Campaign 33,SMS,Ignored,2025-03-26
