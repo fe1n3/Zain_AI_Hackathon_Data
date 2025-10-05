@@ -1,0 +1,1001 @@
+participation_id,customer_id,event_type,event_date,attendance
+EV00001,C02391,Webinar,2024-05-03,Registered
+EV00002,C04136,Hackathon,2025-03-27,Registered
+EV00003,C02953,Webinar,2025-01-24,Attended
+EV00004,C04040,Hackathon,2024-10-22,No-show
+EV00005,C04101,Workshop,2025-03-30,Attended
+EV00006,C03683,Webinar,2024-08-14,Attended
+EV00007,C03957,Hackathon,2024-06-08,No-show
+EV00008,C00719,Hackathon,2023-12-19,Attended
+EV00009,C00508,Hackathon,2024-07-06,Registered
+EV00010,C00763,Hackathon,2025-10-04,Attended
+EV00011,C04191,Workshop,2024-02-05,Attended
+EV00012,C00670,Hackathon,2024-02-01,Registered
+EV00013,C00481,Workshop,2024-11-13,No-show
+EV00014,C01012,Hackathon,2023-10-29,Attended
+EV00015,C01172,Workshop,2025-02-20,No-show
+EV00016,C00744,Hackathon,2024-10-05,No-show
+EV00017,C00222,Training Session,2024-07-01,Registered
+EV00018,C04756,Hackathon,2024-07-10,Attended
+EV00019,C01213,Workshop,2023-10-28,Attended
+EV00020,C01398,Hackathon,2025-02-04,No-show
+EV00021,C04331,Hackathon,2024-08-10,Attended
+EV00022,C00452,Workshop,2024-11-27,Registered
+EV00023,C02545,Training Session,2024-12-07,No-show
+EV00024,C01329,Workshop,2024-06-26,Registered
+EV00025,C01361,Training Session,2024-02-16,Registered
+EV00026,C01288,Hackathon,2024-10-12,No-show
+EV00027,C04407,Training Session,2024-11-17,Attended
+EV00028,C02954,Webinar,2025-01-04,Registered
+EV00029,C01484,Training Session,2024-10-20,Registered
+EV00030,C02917,Training Session,2025-05-15,Attended
+EV00031,C00413,Training Session,2025-08-03,No-show
+EV00032,C00162,Hackathon,2023-12-04,Attended
+EV00033,C02859,Webinar,2024-12-03,Attended
+EV00034,C03060,Hackathon,2025-04-24,Registered
+EV00035,C00863,Webinar,2024-02-26,Attended
+EV00036,C00025,Hackathon,2024-12-11,No-show
+EV00037,C01965,Workshop,2023-12-11,Attended
+EV00038,C00001,Workshop,2024-12-13,No-show
+EV00039,C02574,Webinar,2024-07-10,No-show
+EV00040,C01722,Webinar,2024-07-02,Registered
+EV00041,C01182,Webinar,2024-06-11,No-show
+EV00042,C04681,Hackathon,2025-02-02,No-show
+EV00043,C04433,Training Session,2024-02-14,Attended
+EV00044,C02462,Training Session,2025-02-01,No-show
+EV00045,C01366,Workshop,2024-08-26,Attended
+EV00046,C03540,Workshop,2024-05-04,No-show
+EV00047,C04074,Hackathon,2025-05-19,Registered
+EV00048,C03220,Workshop,2024-09-09,Registered
+EV00049,C00118,Hackathon,2025-04-16,Registered
+EV00050,C03811,Hackathon,2024-11-07,Registered
+EV00051,C04142,Webinar,2024-07-20,No-show
+EV00052,C03237,Hackathon,2024-10-15,No-show
+EV00053,C02554,Workshop,2025-05-23,Attended
+EV00054,C04091,Training Session,2024-09-30,No-show
+EV00055,C01561,Training Session,2024-06-17,Attended
+EV00056,C01654,Webinar,2025-06-14,Attended
+EV00057,C02767,Workshop,2024-10-15,Registered
+EV00058,C02983,Webinar,2023-10-09,Registered
+EV00059,C01091,Training Session,2024-12-31,No-show
+EV00060,C03519,Hackathon,2025-03-29,Attended
+EV00061,C03881,Hackathon,2023-12-13,Registered
+EV00062,C01094,Hackathon,2025-01-08,Registered
+EV00063,C00871,Workshop,2025-01-01,Attended
+EV00064,C02720,Hackathon,2025-01-02,Registered
+EV00065,C01974,Hackathon,2024-08-04,Registered
+EV00066,C00958,Training Session,2024-03-08,Attended
+EV00067,C00259,Webinar,2025-06-02,Registered
+EV00068,C03118,Webinar,2024-07-20,Registered
+EV00069,C00915,Training Session,2025-07-12,Attended
+EV00070,C00858,Training Session,2024-03-10,Attended
+EV00071,C02066,Hackathon,2025-06-15,No-show
+EV00072,C00198,Training Session,2023-11-01,No-show
+EV00073,C03195,Webinar,2024-07-21,Registered
+EV00074,C04625,Hackathon,2024-12-21,Attended
+EV00075,C00772,Workshop,2024-09-29,No-show
+EV00076,C04360,Training Session,2024-03-14,Attended
+EV00077,C04686,Workshop,2024-10-16,Registered
+EV00078,C02983,Hackathon,2024-12-08,Attended
+EV00079,C03030,Hackathon,2024-03-23,No-show
+EV00080,C03678,Webinar,2024-07-26,No-show
+EV00081,C01973,Workshop,2025-03-13,No-show
+EV00082,C00231,Training Session,2025-09-22,Attended
+EV00083,C03661,Webinar,2023-11-05,Registered
+EV00084,C01785,Hackathon,2024-08-28,Attended
+EV00085,C02577,Workshop,2025-03-28,Registered
+EV00086,C03477,Workshop,2024-09-27,Attended
+EV00087,C01222,Webinar,2024-10-16,Attended
+EV00088,C02052,Training Session,2025-04-17,Registered
+EV00089,C02002,Workshop,2024-06-27,Attended
+EV00090,C04343,Training Session,2024-10-13,No-show
+EV00091,C00935,Hackathon,2024-07-09,No-show
+EV00092,C04172,Hackathon,2025-06-10,Attended
+EV00093,C04797,Training Session,2024-03-19,Attended
+EV00094,C03552,Workshop,2025-03-18,Attended
+EV00095,C00317,Workshop,2025-09-24,Registered
+EV00096,C01442,Hackathon,2024-03-12,Attended
+EV00097,C04514,Hackathon,2024-01-01,No-show
+EV00098,C00217,Hackathon,2025-09-26,Registered
+EV00099,C04479,Workshop,2025-02-17,No-show
+EV00100,C01196,Webinar,2023-11-04,No-show
+EV00101,C01926,Training Session,2025-07-10,No-show
+EV00102,C00580,Training Session,2025-02-17,No-show
+EV00103,C03224,Training Session,2024-08-15,Attended
+EV00104,C03516,Webinar,2024-11-19,Registered
+EV00105,C04749,Workshop,2024-10-01,Attended
+EV00106,C02057,Workshop,2024-05-29,Attended
+EV00107,C04167,Hackathon,2024-07-03,Registered
+EV00108,C04265,Hackathon,2024-02-21,No-show
+EV00109,C01243,Hackathon,2024-06-05,Attended
+EV00110,C02561,Hackathon,2023-12-24,Registered
+EV00111,C01360,Training Session,2024-09-18,Registered
+EV00112,C03248,Hackathon,2023-12-23,No-show
+EV00113,C03915,Hackathon,2024-06-02,Registered
+EV00114,C02533,Workshop,2024-12-07,Registered
+EV00115,C00111,Hackathon,2024-06-08,Attended
+EV00116,C00227,Webinar,2025-07-19,Attended
+EV00117,C04409,Hackathon,2023-12-05,Registered
+EV00118,C01654,Webinar,2025-02-28,No-show
+EV00119,C00600,Hackathon,2024-06-15,Registered
+EV00120,C02606,Webinar,2025-06-14,Attended
+EV00121,C00479,Workshop,2025-05-16,No-show
+EV00122,C01950,Hackathon,2024-08-21,Attended
+EV00123,C01174,Hackathon,2024-04-18,No-show
+EV00124,C02209,Hackathon,2025-09-04,Registered
+EV00125,C01957,Workshop,2025-05-31,Attended
+EV00126,C04099,Hackathon,2024-11-15,No-show
+EV00127,C03170,Workshop,2023-11-14,Attended
+EV00128,C00610,Hackathon,2025-02-28,Attended
+EV00129,C02744,Hackathon,2025-07-10,No-show
+EV00130,C01321,Hackathon,2024-08-27,Attended
+EV00131,C01971,Workshop,2024-04-17,Registered
+EV00132,C03955,Webinar,2023-12-03,No-show
+EV00133,C02353,Hackathon,2024-06-28,Attended
+EV00134,C00847,Training Session,2024-06-18,Registered
+EV00135,C04165,Workshop,2025-08-02,Attended
+EV00136,C02052,Hackathon,2024-05-12,Attended
+EV00137,C01276,Hackathon,2024-08-24,Registered
+EV00138,C02432,Hackathon,2024-04-09,Attended
+EV00139,C02840,Webinar,2025-06-01,No-show
+EV00140,C00303,Hackathon,2025-03-21,Attended
+EV00141,C00506,Workshop,2024-07-14,Registered
+EV00142,C01350,Workshop,2025-02-22,No-show
+EV00143,C00609,Hackathon,2024-06-28,Registered
+EV00144,C00689,Hackathon,2024-08-19,No-show
+EV00145,C04563,Workshop,2025-01-20,Attended
+EV00146,C01579,Workshop,2024-01-16,Registered
+EV00147,C01560,Training Session,2023-12-28,No-show
+EV00148,C00283,Webinar,2024-04-26,Attended
+EV00149,C03448,Hackathon,2024-09-06,Attended
+EV00150,C01576,Webinar,2024-10-18,Registered
+EV00151,C00854,Workshop,2025-08-20,No-show
+EV00152,C00858,Hackathon,2023-10-17,Registered
+EV00153,C02609,Workshop,2024-10-20,No-show
+EV00154,C00546,Workshop,2024-05-27,No-show
+EV00155,C04546,Training Session,2024-08-22,No-show
+EV00156,C04017,Webinar,2024-01-26,Attended
+EV00157,C04815,Hackathon,2025-02-27,Registered
+EV00158,C03492,Workshop,2024-11-19,Attended
+EV00159,C04261,Workshop,2024-01-01,Registered
+EV00160,C03333,Hackathon,2025-05-16,Registered
+EV00161,C00073,Webinar,2024-10-18,Registered
+EV00162,C01373,Training Session,2024-12-05,Attended
+EV00163,C03364,Workshop,2025-06-05,Registered
+EV00164,C03454,Hackathon,2024-08-25,No-show
+EV00165,C02815,Webinar,2024-05-21,Attended
+EV00166,C03324,Training Session,2024-01-29,No-show
+EV00167,C04149,Training Session,2024-07-09,Attended
+EV00168,C03452,Hackathon,2024-06-14,Registered
+EV00169,C01865,Training Session,2025-03-17,Attended
+EV00170,C03983,Workshop,2024-12-08,Registered
+EV00171,C03847,Hackathon,2025-03-29,No-show
+EV00172,C03074,Training Session,2025-03-07,Registered
+EV00173,C04996,Webinar,2025-04-13,Registered
+EV00174,C02780,Webinar,2024-02-17,Registered
+EV00175,C02814,Workshop,2025-05-17,Registered
+EV00176,C02958,Webinar,2024-03-10,Attended
+EV00177,C00322,Training Session,2024-02-02,Registered
+EV00178,C04919,Hackathon,2025-07-25,Attended
+EV00179,C00430,Webinar,2024-03-19,Registered
+EV00180,C01675,Hackathon,2024-12-11,No-show
+EV00181,C01506,Hackathon,2024-11-13,Registered
+EV00182,C00264,Hackathon,2025-03-25,Attended
+EV00183,C02387,Webinar,2024-03-04,No-show
+EV00184,C02326,Webinar,2024-12-17,Registered
+EV00185,C02401,Webinar,2024-03-25,Attended
+EV00186,C00634,Hackathon,2025-05-31,Attended
+EV00187,C00224,Hackathon,2024-12-02,No-show
+EV00188,C00441,Webinar,2025-02-09,Attended
+EV00189,C00238,Training Session,2024-06-10,No-show
+EV00190,C00284,Workshop,2025-07-12,Attended
+EV00191,C03594,Webinar,2025-04-24,Attended
+EV00192,C01339,Workshop,2024-06-29,Attended
+EV00193,C04672,Hackathon,2025-07-02,Registered
+EV00194,C02332,Webinar,2024-02-26,No-show
+EV00195,C01769,Webinar,2024-09-10,No-show
+EV00196,C00929,Training Session,2024-02-15,Registered
+EV00197,C02995,Hackathon,2025-09-13,Registered
+EV00198,C02737,Webinar,2025-05-24,Attended
+EV00199,C03733,Training Session,2023-10-20,Attended
+EV00200,C03469,Workshop,2025-08-13,Registered
+EV00201,C03580,Hackathon,2024-08-11,Attended
+EV00202,C01789,Webinar,2025-10-03,Registered
+EV00203,C00197,Webinar,2025-07-08,No-show
+EV00204,C03102,Workshop,2023-12-23,Registered
+EV00205,C02385,Training Session,2024-04-19,No-show
+EV00206,C01508,Hackathon,2023-12-11,No-show
+EV00207,C00260,Training Session,2025-01-13,Registered
+EV00208,C02747,Training Session,2024-11-06,Registered
+EV00209,C03790,Workshop,2024-06-05,Attended
+EV00210,C02299,Hackathon,2024-12-08,Registered
+EV00211,C00882,Workshop,2024-01-20,No-show
+EV00212,C00932,Hackathon,2024-03-08,Registered
+EV00213,C03032,Training Session,2023-11-06,Attended
+EV00214,C01057,Hackathon,2025-06-12,Attended
+EV00215,C04097,Webinar,2025-08-12,Attended
+EV00216,C04232,Hackathon,2024-05-01,Registered
+EV00217,C04797,Hackathon,2025-01-07,No-show
+EV00218,C01643,Workshop,2024-07-10,No-show
+EV00219,C01262,Hackathon,2024-03-17,Registered
+EV00220,C04133,Workshop,2023-11-27,No-show
+EV00221,C04929,Training Session,2025-05-08,Registered
+EV00222,C00847,Workshop,2025-10-01,Registered
+EV00223,C00267,Hackathon,2024-04-02,No-show
+EV00224,C04369,Training Session,2025-06-25,Registered
+EV00225,C04864,Webinar,2023-12-14,No-show
+EV00226,C02822,Webinar,2024-10-17,No-show
+EV00227,C00082,Training Session,2024-07-28,No-show
+EV00228,C02643,Webinar,2025-02-16,No-show
+EV00229,C04464,Training Session,2025-05-09,Registered
+EV00230,C04502,Training Session,2024-11-20,Attended
+EV00231,C02762,Workshop,2025-06-10,Registered
+EV00232,C04260,Webinar,2024-06-06,No-show
+EV00233,C04714,Hackathon,2023-12-09,Attended
+EV00234,C01511,Training Session,2025-05-03,Registered
+EV00235,C03600,Webinar,2023-11-06,No-show
+EV00236,C04722,Hackathon,2024-04-11,No-show
+EV00237,C00142,Training Session,2025-03-17,No-show
+EV00238,C02860,Workshop,2024-07-20,Registered
+EV00239,C04857,Hackathon,2024-11-09,No-show
+EV00240,C03895,Webinar,2024-03-15,Attended
+EV00241,C01559,Webinar,2024-12-12,Registered
+EV00242,C02874,Webinar,2024-06-15,No-show
+EV00243,C04140,Hackathon,2024-02-28,Attended
+EV00244,C00722,Training Session,2025-06-04,No-show
+EV00245,C02219,Hackathon,2024-10-25,No-show
+EV00246,C02955,Training Session,2024-02-25,No-show
+EV00247,C01144,Workshop,2024-10-16,No-show
+EV00248,C04650,Webinar,2024-09-16,Registered
+EV00249,C01141,Webinar,2025-05-24,No-show
+EV00250,C02196,Webinar,2023-12-03,Attended
+EV00251,C04359,Webinar,2025-09-20,Attended
+EV00252,C00911,Webinar,2024-08-03,No-show
+EV00253,C03756,Webinar,2024-03-15,Registered
+EV00254,C02229,Webinar,2025-04-18,Registered
+EV00255,C00963,Training Session,2025-02-21,Registered
+EV00256,C03734,Training Session,2024-05-09,Attended
+EV00257,C00446,Hackathon,2025-05-02,Attended
+EV00258,C03792,Webinar,2024-12-18,Registered
+EV00259,C02688,Webinar,2024-05-06,Attended
+EV00260,C00516,Webinar,2025-08-20,Attended
+EV00261,C04238,Hackathon,2023-11-19,Attended
+EV00262,C01013,Hackathon,2025-06-26,Attended
+EV00263,C03065,Workshop,2024-02-08,Registered
+EV00264,C00371,Training Session,2025-05-09,Registered
+EV00265,C03205,Hackathon,2025-05-08,No-show
+EV00266,C01822,Webinar,2025-07-29,No-show
+EV00267,C03115,Hackathon,2025-04-09,No-show
+EV00268,C02935,Training Session,2024-12-08,No-show
+EV00269,C04011,Webinar,2024-11-23,Registered
+EV00270,C04572,Workshop,2024-10-19,Registered
+EV00271,C01872,Workshop,2024-05-27,No-show
+EV00272,C00084,Training Session,2024-05-18,Attended
+EV00273,C02360,Webinar,2024-08-11,Attended
+EV00274,C01826,Workshop,2023-12-24,No-show
+EV00275,C01510,Training Session,2024-01-18,No-show
+EV00276,C00784,Webinar,2025-04-14,No-show
+EV00277,C04121,Training Session,2024-06-04,Registered
+EV00278,C00072,Webinar,2024-04-23,Attended
+EV00279,C01834,Webinar,2023-11-01,Attended
+EV00280,C04723,Hackathon,2024-01-03,Registered
+EV00281,C01121,Webinar,2024-07-08,Attended
+EV00282,C04492,Hackathon,2024-03-13,Registered
+EV00283,C02943,Workshop,2023-12-28,Attended
+EV00284,C04809,Hackathon,2024-05-04,No-show
+EV00285,C00307,Workshop,2024-07-29,Attended
+EV00286,C02822,Training Session,2024-02-15,Registered
+EV00287,C00219,Training Session,2023-12-17,No-show
+EV00288,C02091,Webinar,2025-06-23,No-show
+EV00289,C02399,Workshop,2024-03-08,Attended
+EV00290,C04626,Webinar,2025-08-04,No-show
+EV00291,C04153,Training Session,2025-06-19,No-show
+EV00292,C02912,Hackathon,2024-07-18,Attended
+EV00293,C04217,Hackathon,2024-11-16,Attended
+EV00294,C01966,Hackathon,2024-12-08,Attended
+EV00295,C01264,Training Session,2025-08-12,Registered
+EV00296,C01652,Workshop,2025-09-01,Registered
+EV00297,C03158,Hackathon,2023-12-26,No-show
+EV00298,C04694,Webinar,2025-02-14,Attended
+EV00299,C00377,Workshop,2024-05-04,No-show
+EV00300,C03859,Webinar,2025-08-09,Registered
+EV00301,C03878,Training Session,2024-04-29,Registered
+EV00302,C01382,Hackathon,2025-05-14,Registered
+EV00303,C01817,Webinar,2025-03-27,Registered
+EV00304,C04039,Webinar,2025-01-07,No-show
+EV00305,C04233,Webinar,2024-01-09,No-show
+EV00306,C02598,Hackathon,2025-07-31,Registered
+EV00307,C00102,Workshop,2025-07-15,Registered
+EV00308,C00268,Training Session,2024-08-25,Attended
+EV00309,C01746,Hackathon,2025-03-27,No-show
+EV00310,C02157,Hackathon,2025-04-13,Attended
+EV00311,C02137,Training Session,2024-12-20,Attended
+EV00312,C02009,Workshop,2024-07-03,Registered
+EV00313,C03768,Training Session,2024-05-13,No-show
+EV00314,C01931,Workshop,2024-10-22,Registered
+EV00315,C01853,Workshop,2024-12-15,Registered
+EV00316,C02530,Webinar,2025-05-03,Attended
+EV00317,C04308,Training Session,2024-11-23,Attended
+EV00318,C00890,Training Session,2024-05-22,No-show
+EV00319,C01974,Hackathon,2025-04-11,Registered
+EV00320,C03775,Training Session,2024-11-06,Attended
+EV00321,C02369,Webinar,2024-10-09,Registered
+EV00322,C02780,Hackathon,2025-03-31,No-show
+EV00323,C04689,Training Session,2024-03-15,Registered
+EV00324,C00737,Webinar,2025-05-14,No-show
+EV00325,C00569,Training Session,2023-12-11,Registered
+EV00326,C02933,Workshop,2023-10-10,Registered
+EV00327,C01811,Workshop,2024-08-20,Attended
+EV00328,C03981,Training Session,2024-04-30,No-show
+EV00329,C04062,Hackathon,2024-09-27,No-show
+EV00330,C00094,Hackathon,2024-03-19,No-show
+EV00331,C02350,Hackathon,2024-12-03,No-show
+EV00332,C00712,Webinar,2025-05-10,Attended
+EV00333,C02114,Hackathon,2023-12-08,Registered
+EV00334,C00813,Webinar,2025-07-30,Attended
+EV00335,C04856,Training Session,2024-12-06,Registered
+EV00336,C01918,Training Session,2024-11-20,Attended
+EV00337,C02151,Workshop,2024-11-30,Registered
+EV00338,C03839,Training Session,2024-06-10,Attended
+EV00339,C01389,Webinar,2024-12-23,No-show
+EV00340,C02229,Training Session,2024-01-22,Registered
+EV00341,C04297,Hackathon,2025-04-04,Registered
+EV00342,C04505,Webinar,2025-04-18,No-show
+EV00343,C03513,Workshop,2025-02-04,Attended
+EV00344,C01291,Training Session,2024-06-14,Attended
+EV00345,C04336,Hackathon,2024-09-18,Registered
+EV00346,C00092,Training Session,2024-09-24,Attended
+EV00347,C04794,Hackathon,2025-05-02,Registered
+EV00348,C01654,Training Session,2025-01-29,Registered
+EV00349,C03115,Webinar,2024-11-12,No-show
+EV00350,C00337,Training Session,2024-03-20,Attended
+EV00351,C00076,Webinar,2024-02-07,Attended
+EV00352,C04732,Workshop,2024-06-21,No-show
+EV00353,C00234,Hackathon,2024-06-14,No-show
+EV00354,C00369,Webinar,2024-03-15,Attended
+EV00355,C03510,Webinar,2025-07-19,No-show
+EV00356,C00768,Training Session,2024-05-01,Attended
+EV00357,C03542,Hackathon,2024-02-10,Attended
+EV00358,C03722,Webinar,2025-06-16,No-show
+EV00359,C01627,Training Session,2023-10-29,Registered
+EV00360,C04368,Webinar,2024-08-17,Attended
+EV00361,C04709,Webinar,2024-03-06,Attended
+EV00362,C02119,Workshop,2024-07-18,Registered
+EV00363,C04182,Webinar,2024-02-13,Registered
+EV00364,C02971,Webinar,2024-02-03,No-show
+EV00365,C01460,Webinar,2024-05-29,No-show
+EV00366,C04333,Workshop,2024-11-26,Registered
+EV00367,C02900,Webinar,2025-04-07,Attended
+EV00368,C04599,Webinar,2023-12-26,Attended
+EV00369,C02080,Workshop,2024-08-22,Attended
+EV00370,C04847,Training Session,2024-02-26,No-show
+EV00371,C01144,Webinar,2025-04-28,Attended
+EV00372,C00436,Webinar,2024-04-11,Attended
+EV00373,C01151,Webinar,2024-01-27,Registered
+EV00374,C03733,Training Session,2025-06-09,Attended
+EV00375,C03637,Workshop,2024-12-24,Registered
+EV00376,C03414,Webinar,2025-01-19,Registered
+EV00377,C03415,Webinar,2023-12-02,Registered
+EV00378,C02006,Workshop,2023-11-24,No-show
+EV00379,C04010,Hackathon,2025-09-28,Attended
+EV00380,C04577,Training Session,2025-01-06,Attended
+EV00381,C02609,Workshop,2025-09-18,No-show
+EV00382,C00315,Workshop,2025-02-09,Registered
+EV00383,C01506,Workshop,2024-01-01,Registered
+EV00384,C01478,Webinar,2024-12-10,No-show
+EV00385,C01065,Workshop,2025-06-06,No-show
+EV00386,C02851,Training Session,2024-09-18,Attended
+EV00387,C03016,Hackathon,2023-11-09,Attended
+EV00388,C01031,Workshop,2023-10-24,Attended
+EV00389,C02190,Hackathon,2024-01-26,Attended
+EV00390,C04515,Hackathon,2025-05-14,Attended
+EV00391,C04363,Training Session,2023-11-09,Attended
+EV00392,C00673,Webinar,2025-01-16,Attended
+EV00393,C03741,Hackathon,2024-11-09,Attended
+EV00394,C01861,Hackathon,2024-10-24,No-show
+EV00395,C02727,Hackathon,2024-02-28,Attended
+EV00396,C04046,Training Session,2024-04-21,No-show
+EV00397,C04012,Webinar,2024-06-12,No-show
+EV00398,C02710,Workshop,2023-12-19,Registered
+EV00399,C03748,Webinar,2024-06-30,No-show
+EV00400,C03597,Webinar,2024-01-07,Attended
+EV00401,C00564,Hackathon,2024-12-12,Registered
+EV00402,C03948,Training Session,2024-03-27,Attended
+EV00403,C01168,Webinar,2023-11-03,Attended
+EV00404,C02871,Training Session,2025-01-05,Attended
+EV00405,C03431,Workshop,2024-07-18,Attended
+EV00406,C03140,Workshop,2025-01-13,No-show
+EV00407,C03185,Training Session,2023-12-01,Registered
+EV00408,C03753,Hackathon,2024-10-24,Registered
+EV00409,C00517,Training Session,2025-06-18,Attended
+EV00410,C01535,Webinar,2024-06-20,Registered
+EV00411,C04702,Workshop,2023-11-04,Registered
+EV00412,C02248,Webinar,2025-06-09,Registered
+EV00413,C01315,Training Session,2024-11-10,No-show
+EV00414,C02934,Workshop,2024-11-28,Registered
+EV00415,C01725,Webinar,2024-07-04,No-show
+EV00416,C02625,Hackathon,2024-05-29,No-show
+EV00417,C03709,Hackathon,2025-02-24,Registered
+EV00418,C00768,Webinar,2024-03-06,Attended
+EV00419,C04388,Training Session,2024-09-29,No-show
+EV00420,C02043,Hackathon,2025-01-08,Attended
+EV00421,C00981,Webinar,2024-08-28,Attended
+EV00422,C00418,Workshop,2025-04-18,Attended
+EV00423,C02393,Webinar,2025-07-02,Attended
+EV00424,C01630,Workshop,2024-04-25,No-show
+EV00425,C02932,Webinar,2024-07-11,No-show
+EV00426,C04692,Training Session,2024-06-07,Attended
+EV00427,C02936,Training Session,2025-02-10,Registered
+EV00428,C02528,Webinar,2024-12-13,Registered
+EV00429,C03340,Training Session,2025-01-09,Registered
+EV00430,C04321,Hackathon,2024-09-10,Registered
+EV00431,C02338,Webinar,2025-07-18,No-show
+EV00432,C00276,Training Session,2025-03-09,Registered
+EV00433,C00193,Hackathon,2024-07-26,Registered
+EV00434,C00781,Hackathon,2024-05-12,Registered
+EV00435,C01615,Workshop,2024-07-26,No-show
+EV00436,C04287,Training Session,2025-03-19,Registered
+EV00437,C02431,Workshop,2024-05-28,Attended
+EV00438,C00377,Workshop,2024-04-30,No-show
+EV00439,C00146,Hackathon,2023-11-01,No-show
+EV00440,C00554,Hackathon,2025-04-22,Registered
+EV00441,C04842,Webinar,2025-07-10,Attended
+EV00442,C01875,Hackathon,2024-10-12,Registered
+EV00443,C00118,Training Session,2025-03-12,Attended
+EV00444,C01006,Webinar,2025-04-09,No-show
+EV00445,C02842,Workshop,2023-10-15,Attended
+EV00446,C00921,Workshop,2024-08-06,No-show
+EV00447,C04969,Workshop,2024-06-12,Registered
+EV00448,C01776,Hackathon,2025-08-02,No-show
+EV00449,C03054,Webinar,2025-09-14,No-show
+EV00450,C00022,Workshop,2024-05-05,Registered
+EV00451,C04686,Hackathon,2025-09-22,Attended
+EV00452,C00700,Webinar,2023-10-07,Registered
+EV00453,C03080,Hackathon,2023-11-20,No-show
+EV00454,C02068,Webinar,2024-03-09,Registered
+EV00455,C03502,Webinar,2024-04-26,Registered
+EV00456,C04239,Workshop,2024-07-05,Registered
+EV00457,C03132,Workshop,2025-09-24,Attended
+EV00458,C03247,Workshop,2024-05-15,Attended
+EV00459,C00400,Hackathon,2024-03-12,Registered
+EV00460,C02615,Training Session,2024-07-01,No-show
+EV00461,C00655,Training Session,2024-05-03,Attended
+EV00462,C01279,Training Session,2024-02-14,Attended
+EV00463,C02688,Webinar,2025-09-09,Registered
+EV00464,C02961,Training Session,2024-08-18,Attended
+EV00465,C00209,Training Session,2025-01-24,Attended
+EV00466,C02774,Webinar,2024-08-05,No-show
+EV00467,C03542,Workshop,2025-06-23,No-show
+EV00468,C00403,Training Session,2025-03-10,Attended
+EV00469,C03198,Workshop,2025-01-19,Registered
+EV00470,C02408,Webinar,2025-03-16,Registered
+EV00471,C01591,Webinar,2024-03-20,No-show
+EV00472,C00404,Webinar,2025-08-24,Attended
+EV00473,C01457,Webinar,2025-06-14,No-show
+EV00474,C03853,Workshop,2024-03-16,Registered
+EV00475,C02163,Webinar,2025-07-18,Attended
+EV00476,C01161,Webinar,2024-01-09,No-show
+EV00477,C02279,Workshop,2024-08-02,Registered
+EV00478,C00905,Webinar,2025-08-08,No-show
+EV00479,C00703,Workshop,2025-05-02,Attended
+EV00480,C02598,Workshop,2024-02-13,Registered
+EV00481,C03334,Workshop,2024-04-05,Registered
+EV00482,C00353,Training Session,2024-08-15,Attended
+EV00483,C01723,Hackathon,2025-04-19,Registered
+EV00484,C01495,Webinar,2024-09-22,Attended
+EV00485,C01683,Training Session,2024-06-03,Attended
+EV00486,C04427,Webinar,2025-08-01,Registered
+EV00487,C03896,Hackathon,2023-10-26,No-show
+EV00488,C03733,Training Session,2025-04-05,No-show
+EV00489,C03268,Hackathon,2025-05-28,Registered
+EV00490,C01599,Hackathon,2024-03-04,Attended
+EV00491,C04598,Hackathon,2025-07-21,Attended
+EV00492,C04633,Hackathon,2024-03-06,No-show
+EV00493,C04371,Webinar,2024-01-22,Attended
+EV00494,C02797,Workshop,2024-01-05,Attended
+EV00495,C02309,Workshop,2024-03-30,Attended
+EV00496,C00008,Webinar,2024-12-19,Attended
+EV00497,C02175,Training Session,2025-08-23,Attended
+EV00498,C02060,Hackathon,2025-09-20,Registered
+EV00499,C00516,Workshop,2024-01-15,Registered
+EV00500,C01645,Workshop,2024-03-08,No-show
+EV00501,C00177,Webinar,2025-04-25,Attended
+EV00502,C02178,Hackathon,2024-03-24,Registered
+EV00503,C02562,Webinar,2024-10-05,Registered
+EV00504,C01134,Workshop,2023-12-08,Attended
+EV00505,C02779,Webinar,2024-12-28,Registered
+EV00506,C00565,Webinar,2024-07-18,No-show
+EV00507,C00342,Workshop,2023-11-23,Registered
+EV00508,C04957,Hackathon,2025-10-02,No-show
+EV00509,C03696,Webinar,2023-12-19,Registered
+EV00510,C02820,Workshop,2025-03-16,Registered
+EV00511,C04773,Hackathon,2025-03-22,Attended
+EV00512,C00767,Webinar,2024-04-10,Registered
+EV00513,C01188,Training Session,2024-11-07,Registered
+EV00514,C01650,Hackathon,2024-05-04,Registered
+EV00515,C03971,Webinar,2024-08-30,Registered
+EV00516,C03613,Hackathon,2024-11-04,Attended
+EV00517,C01410,Workshop,2025-09-07,No-show
+EV00518,C01236,Workshop,2024-07-31,No-show
+EV00519,C02422,Hackathon,2025-08-18,Registered
+EV00520,C00364,Training Session,2025-04-09,Registered
+EV00521,C00426,Webinar,2024-08-27,Attended
+EV00522,C01997,Webinar,2025-03-31,Registered
+EV00523,C04445,Webinar,2024-07-06,Attended
+EV00524,C03906,Webinar,2025-02-28,Attended
+EV00525,C01838,Hackathon,2025-03-28,No-show
+EV00526,C03971,Workshop,2024-04-17,Attended
+EV00527,C04817,Webinar,2024-11-10,Attended
+EV00528,C04569,Training Session,2025-01-12,Registered
+EV00529,C00294,Training Session,2024-02-21,No-show
+EV00530,C04626,Webinar,2024-11-08,No-show
+EV00531,C02296,Hackathon,2024-12-19,Attended
+EV00532,C04290,Webinar,2024-04-15,Attended
+EV00533,C01035,Webinar,2025-02-15,Attended
+EV00534,C01494,Training Session,2025-05-05,Attended
+EV00535,C02082,Hackathon,2023-12-09,Attended
+EV00536,C04866,Webinar,2024-06-02,Attended
+EV00537,C01775,Training Session,2023-11-02,Registered
+EV00538,C03111,Training Session,2025-02-08,Attended
+EV00539,C03722,Hackathon,2024-10-03,No-show
+EV00540,C01251,Hackathon,2023-10-12,Registered
+EV00541,C04121,Webinar,2024-03-19,Registered
+EV00542,C03861,Hackathon,2024-12-14,Attended
+EV00543,C01771,Training Session,2024-09-20,Attended
+EV00544,C01504,Workshop,2024-04-30,Registered
+EV00545,C02899,Hackathon,2025-05-17,Registered
+EV00546,C02672,Webinar,2025-04-04,Registered
+EV00547,C00551,Hackathon,2024-03-17,Registered
+EV00548,C02266,Training Session,2024-04-07,Registered
+EV00549,C01885,Training Session,2025-09-20,No-show
+EV00550,C02876,Workshop,2023-12-01,Attended
+EV00551,C00731,Training Session,2024-08-20,Registered
+EV00552,C04213,Hackathon,2024-01-13,Registered
+EV00553,C03193,Workshop,2025-03-24,No-show
+EV00554,C02291,Training Session,2024-03-16,No-show
+EV00555,C00087,Hackathon,2025-04-30,No-show
+EV00556,C00995,Hackathon,2024-06-14,Registered
+EV00557,C03787,Hackathon,2024-06-09,Attended
+EV00558,C03181,Webinar,2023-11-16,Attended
+EV00559,C01451,Workshop,2024-10-07,Attended
+EV00560,C04071,Training Session,2024-05-09,Attended
+EV00561,C04351,Hackathon,2023-10-20,Registered
+EV00562,C01320,Workshop,2024-06-05,Registered
+EV00563,C04752,Webinar,2025-04-20,Attended
+EV00564,C04797,Training Session,2024-01-10,Registered
+EV00565,C03895,Workshop,2025-07-05,No-show
+EV00566,C03656,Training Session,2025-04-22,Registered
+EV00567,C02076,Training Session,2024-05-17,Registered
+EV00568,C02897,Webinar,2024-01-08,No-show
+EV00569,C02890,Hackathon,2025-01-12,Attended
+EV00570,C03081,Workshop,2023-12-01,No-show
+EV00571,C00465,Webinar,2024-05-28,Attended
+EV00572,C04374,Workshop,2024-05-27,Registered
+EV00573,C03953,Webinar,2024-05-18,No-show
+EV00574,C03505,Webinar,2025-08-31,Registered
+EV00575,C04380,Webinar,2024-12-13,Attended
+EV00576,C01147,Webinar,2025-08-22,Registered
+EV00577,C02011,Workshop,2024-08-26,Attended
+EV00578,C01049,Training Session,2024-07-21,Registered
+EV00579,C00002,Webinar,2025-03-10,Registered
+EV00580,C03786,Hackathon,2023-11-23,Attended
+EV00581,C03889,Hackathon,2025-02-12,Registered
+EV00582,C04093,Workshop,2024-09-11,Registered
+EV00583,C03710,Hackathon,2023-12-31,Attended
+EV00584,C01581,Workshop,2025-08-23,Registered
+EV00585,C00377,Training Session,2025-02-25,Registered
+EV00586,C00816,Webinar,2023-11-03,Registered
+EV00587,C02589,Workshop,2024-02-29,Registered
+EV00588,C02202,Hackathon,2024-03-20,Attended
+EV00589,C03204,Workshop,2024-11-10,Attended
+EV00590,C02741,Webinar,2023-11-05,No-show
+EV00591,C04795,Training Session,2024-09-27,No-show
+EV00592,C02258,Webinar,2023-11-11,Attended
+EV00593,C04963,Hackathon,2024-09-22,No-show
+EV00594,C02031,Training Session,2024-01-28,Registered
+EV00595,C03195,Hackathon,2025-10-01,Attended
+EV00596,C04210,Hackathon,2024-04-17,Registered
+EV00597,C00256,Workshop,2025-09-28,No-show
+EV00598,C04736,Webinar,2023-12-08,Attended
+EV00599,C02978,Webinar,2025-06-27,Attended
+EV00600,C04773,Webinar,2025-03-12,Registered
+EV00601,C03994,Webinar,2024-11-22,Registered
+EV00602,C01801,Training Session,2024-05-05,Attended
+EV00603,C01829,Hackathon,2025-06-05,No-show
+EV00604,C03737,Training Session,2025-06-11,Registered
+EV00605,C04907,Workshop,2024-05-01,Attended
+EV00606,C02854,Training Session,2023-12-02,Registered
+EV00607,C03795,Workshop,2024-03-22,Attended
+EV00608,C03530,Workshop,2024-03-09,No-show
+EV00609,C01888,Hackathon,2024-06-27,Attended
+EV00610,C00349,Hackathon,2023-12-09,No-show
+EV00611,C01058,Hackathon,2024-01-31,Registered
+EV00612,C03669,Hackathon,2025-01-14,No-show
+EV00613,C01562,Workshop,2025-01-07,No-show
+EV00614,C00035,Training Session,2024-04-27,No-show
+EV00615,C02031,Webinar,2024-08-31,Attended
+EV00616,C04945,Workshop,2024-03-19,No-show
+EV00617,C04239,Webinar,2024-03-10,Attended
+EV00618,C00614,Webinar,2024-03-29,Registered
+EV00619,C00803,Webinar,2024-10-19,No-show
+EV00620,C03277,Hackathon,2025-01-29,Registered
+EV00621,C02220,Workshop,2023-12-12,Registered
+EV00622,C04805,Workshop,2023-12-17,No-show
+EV00623,C02092,Training Session,2024-06-06,Registered
+EV00624,C04499,Training Session,2023-11-19,Registered
+EV00625,C00945,Workshop,2025-07-26,Attended
+EV00626,C02010,Webinar,2024-08-10,Attended
+EV00627,C02604,Hackathon,2025-05-24,Attended
+EV00628,C04401,Workshop,2024-11-25,Registered
+EV00629,C03833,Hackathon,2025-04-11,Attended
+EV00630,C03061,Webinar,2025-01-22,Registered
+EV00631,C01302,Training Session,2024-12-16,Registered
+EV00632,C00209,Hackathon,2024-06-03,Attended
+EV00633,C00126,Hackathon,2025-05-27,Registered
+EV00634,C03210,Training Session,2024-12-06,Attended
+EV00635,C00797,Hackathon,2024-05-26,Attended
+EV00636,C03487,Workshop,2024-05-18,No-show
+EV00637,C03689,Training Session,2024-04-27,Registered
+EV00638,C03640,Hackathon,2024-01-26,No-show
+EV00639,C01733,Hackathon,2024-05-06,Attended
+EV00640,C00862,Hackathon,2024-11-05,Attended
+EV00641,C00343,Webinar,2024-06-27,No-show
+EV00642,C04921,Webinar,2025-01-19,Attended
+EV00643,C03063,Workshop,2024-03-26,Registered
+EV00644,C00711,Training Session,2024-07-09,Attended
+EV00645,C01536,Training Session,2025-03-07,Attended
+EV00646,C02754,Training Session,2025-03-17,Registered
+EV00647,C04513,Webinar,2025-09-01,No-show
+EV00648,C02004,Webinar,2025-04-07,Attended
+EV00649,C02469,Workshop,2024-10-03,No-show
+EV00650,C03085,Hackathon,2024-02-03,No-show
+EV00651,C01643,Webinar,2024-11-06,No-show
+EV00652,C00590,Hackathon,2024-09-04,Registered
+EV00653,C01680,Hackathon,2025-05-28,Registered
+EV00654,C01840,Training Session,2024-05-05,No-show
+EV00655,C03453,Workshop,2025-07-03,Attended
+EV00656,C03364,Webinar,2025-08-21,Registered
+EV00657,C04900,Training Session,2025-07-23,No-show
+EV00658,C00947,Training Session,2024-08-15,Registered
+EV00659,C00951,Workshop,2025-04-18,Registered
+EV00660,C00760,Hackathon,2025-09-08,No-show
+EV00661,C00191,Hackathon,2025-06-27,No-show
+EV00662,C01806,Training Session,2024-07-27,No-show
+EV00663,C00381,Workshop,2025-09-06,No-show
+EV00664,C04487,Webinar,2025-03-14,Registered
+EV00665,C02362,Webinar,2024-07-06,Attended
+EV00666,C00418,Workshop,2024-08-26,No-show
+EV00667,C01958,Training Session,2025-04-28,No-show
+EV00668,C00903,Workshop,2025-03-28,Registered
+EV00669,C01278,Workshop,2024-03-17,Registered
+EV00670,C04767,Training Session,2025-03-05,Attended
+EV00671,C00041,Workshop,2024-12-11,Attended
+EV00672,C03401,Training Session,2024-07-20,Registered
+EV00673,C01167,Workshop,2024-12-02,Registered
+EV00674,C00093,Workshop,2025-03-19,Attended
+EV00675,C02308,Hackathon,2025-08-16,Registered
+EV00676,C03600,Webinar,2023-11-29,Attended
+EV00677,C02771,Webinar,2024-05-23,Attended
+EV00678,C00427,Webinar,2023-10-26,No-show
+EV00679,C00567,Workshop,2025-09-08,Attended
+EV00680,C02438,Hackathon,2024-04-27,Attended
+EV00681,C03272,Webinar,2025-01-07,No-show
+EV00682,C03550,Webinar,2025-04-22,Attended
+EV00683,C04567,Training Session,2023-12-06,Attended
+EV00684,C00680,Workshop,2024-10-03,Registered
+EV00685,C04405,Workshop,2024-01-15,Attended
+EV00686,C02772,Webinar,2024-10-14,Attended
+EV00687,C02618,Training Session,2023-11-10,No-show
+EV00688,C00832,Training Session,2024-03-25,Attended
+EV00689,C00497,Workshop,2025-03-11,Registered
+EV00690,C04072,Workshop,2023-12-26,Attended
+EV00691,C04473,Workshop,2025-08-31,No-show
+EV00692,C04554,Workshop,2024-08-13,No-show
+EV00693,C02648,Hackathon,2024-08-28,Attended
+EV00694,C03231,Webinar,2024-02-11,No-show
+EV00695,C00531,Training Session,2024-02-15,Attended
+EV00696,C04188,Webinar,2025-01-13,Attended
+EV00697,C04263,Workshop,2023-11-25,Registered
+EV00698,C01955,Hackathon,2023-10-13,Registered
+EV00699,C01276,Workshop,2024-06-14,Attended
+EV00700,C00382,Training Session,2025-03-10,Attended
+EV00701,C02695,Hackathon,2025-09-10,No-show
+EV00702,C03294,Workshop,2024-02-15,Attended
+EV00703,C04347,Workshop,2025-08-09,No-show
+EV00704,C04044,Training Session,2024-03-01,No-show
+EV00705,C03072,Webinar,2024-12-28,No-show
+EV00706,C02026,Webinar,2025-06-20,Attended
+EV00707,C04055,Training Session,2024-08-31,No-show
+EV00708,C04350,Workshop,2024-01-01,Attended
+EV00709,C04237,Training Session,2024-11-28,Registered
+EV00710,C00629,Webinar,2023-11-28,Registered
+EV00711,C04344,Training Session,2023-11-12,No-show
+EV00712,C03979,Hackathon,2025-05-20,Registered
+EV00713,C03861,Workshop,2024-11-17,Registered
+EV00714,C03705,Workshop,2024-01-14,Attended
+EV00715,C04886,Workshop,2024-11-13,Attended
+EV00716,C03788,Workshop,2025-09-03,Registered
+EV00717,C04249,Webinar,2024-01-01,Attended
+EV00718,C00325,Webinar,2024-07-16,Attended
+EV00719,C03080,Hackathon,2025-09-16,Registered
+EV00720,C01357,Webinar,2025-03-16,Registered
+EV00721,C03076,Training Session,2024-10-07,No-show
+EV00722,C03875,Webinar,2025-09-18,Attended
+EV00723,C02885,Hackathon,2025-04-29,Registered
+EV00724,C01400,Workshop,2023-12-15,No-show
+EV00725,C04884,Webinar,2025-09-19,Attended
+EV00726,C00393,Training Session,2024-08-20,No-show
+EV00727,C02983,Hackathon,2025-08-14,No-show
+EV00728,C04872,Training Session,2024-03-29,Registered
+EV00729,C01844,Workshop,2023-12-08,No-show
+EV00730,C01021,Webinar,2025-03-05,Registered
+EV00731,C03953,Workshop,2025-06-20,Registered
+EV00732,C02032,Hackathon,2024-01-02,Attended
+EV00733,C04841,Webinar,2023-11-22,Registered
+EV00734,C01351,Workshop,2023-12-29,No-show
+EV00735,C03494,Workshop,2025-02-02,No-show
+EV00736,C02631,Workshop,2025-07-21,No-show
+EV00737,C01326,Webinar,2025-01-11,Attended
+EV00738,C01712,Webinar,2024-08-04,No-show
+EV00739,C00507,Workshop,2024-01-22,Registered
+EV00740,C02972,Workshop,2024-08-06,Registered
+EV00741,C03005,Training Session,2024-02-28,No-show
+EV00742,C03266,Workshop,2024-05-31,Registered
+EV00743,C02579,Training Session,2024-10-08,Registered
+EV00744,C02558,Webinar,2025-09-04,Attended
+EV00745,C04173,Webinar,2025-09-06,Registered
+EV00746,C04003,Hackathon,2025-08-13,No-show
+EV00747,C01732,Hackathon,2024-10-25,No-show
+EV00748,C00448,Training Session,2025-07-23,Attended
+EV00749,C02601,Webinar,2025-08-08,Registered
+EV00750,C00237,Training Session,2024-07-11,Registered
+EV00751,C03949,Training Session,2024-03-12,Attended
+EV00752,C03047,Webinar,2025-08-09,Registered
+EV00753,C00622,Workshop,2024-08-16,Attended
+EV00754,C03936,Webinar,2025-06-16,No-show
+EV00755,C03540,Workshop,2023-11-15,Registered
+EV00756,C04978,Webinar,2024-08-28,Registered
+EV00757,C02016,Webinar,2024-05-05,Attended
+EV00758,C04583,Training Session,2024-03-25,Registered
+EV00759,C01948,Webinar,2023-10-16,Registered
+EV00760,C02282,Workshop,2024-12-01,Attended
+EV00761,C03985,Training Session,2024-11-22,Registered
+EV00762,C01910,Hackathon,2025-05-16,Attended
+EV00763,C01335,Hackathon,2024-06-06,No-show
+EV00764,C02150,Hackathon,2025-09-01,Attended
+EV00765,C04019,Hackathon,2025-02-11,No-show
+EV00766,C01826,Webinar,2025-04-20,Registered
+EV00767,C02566,Webinar,2025-08-13,Attended
+EV00768,C04199,Training Session,2024-04-27,Attended
+EV00769,C01107,Workshop,2025-03-17,Attended
+EV00770,C03988,Training Session,2025-09-24,No-show
+EV00771,C01458,Webinar,2025-05-29,Attended
+EV00772,C04970,Workshop,2025-02-25,Registered
+EV00773,C02174,Webinar,2025-01-04,Registered
+EV00774,C04617,Hackathon,2024-11-04,Attended
+EV00775,C04570,Webinar,2024-08-21,Attended
+EV00776,C04679,Workshop,2024-08-14,No-show
+EV00777,C04634,Webinar,2023-11-29,Attended
+EV00778,C03816,Training Session,2025-07-15,No-show
+EV00779,C01312,Workshop,2023-11-13,Registered
+EV00780,C01644,Hackathon,2025-05-19,Attended
+EV00781,C04087,Webinar,2025-08-01,No-show
+EV00782,C02296,Hackathon,2025-02-24,No-show
+EV00783,C02244,Webinar,2025-02-28,Registered
+EV00784,C01302,Hackathon,2025-03-17,Registered
+EV00785,C04909,Hackathon,2025-08-07,No-show
+EV00786,C00206,Training Session,2024-11-07,Registered
+EV00787,C04653,Webinar,2024-11-05,No-show
+EV00788,C01900,Hackathon,2025-01-09,Attended
+EV00789,C00900,Hackathon,2025-10-02,Attended
+EV00790,C00673,Workshop,2024-12-18,Registered
+EV00791,C00461,Workshop,2025-06-25,Registered
+EV00792,C01948,Hackathon,2024-06-30,Attended
+EV00793,C02376,Hackathon,2024-02-15,No-show
+EV00794,C01604,Workshop,2023-12-12,Attended
+EV00795,C03199,Hackathon,2024-01-03,Attended
+EV00796,C03858,Webinar,2025-04-04,No-show
+EV00797,C01536,Training Session,2024-05-13,Registered
+EV00798,C00538,Training Session,2025-03-16,No-show
+EV00799,C02750,Training Session,2024-12-13,Attended
+EV00800,C01356,Training Session,2025-07-18,Attended
+EV00801,C03881,Workshop,2023-11-29,Registered
+EV00802,C04161,Hackathon,2024-04-12,Attended
+EV00803,C03188,Hackathon,2024-01-25,No-show
+EV00804,C02780,Webinar,2024-10-11,Attended
+EV00805,C03705,Webinar,2025-02-10,Registered
+EV00806,C01931,Webinar,2024-12-05,Registered
+EV00807,C01270,Webinar,2023-11-14,Registered
+EV00808,C03184,Webinar,2024-10-26,Attended
+EV00809,C00611,Workshop,2025-03-31,No-show
+EV00810,C04745,Workshop,2023-12-06,Attended
+EV00811,C03259,Training Session,2023-11-06,Attended
+EV00812,C01241,Training Session,2025-09-14,Registered
+EV00813,C00827,Workshop,2024-04-26,Registered
+EV00814,C01879,Workshop,2024-08-22,Attended
+EV00815,C04841,Workshop,2023-10-08,Registered
+EV00816,C04261,Training Session,2024-09-01,Attended
+EV00817,C04471,Training Session,2024-07-24,No-show
+EV00818,C03676,Webinar,2024-06-09,No-show
+EV00819,C01613,Hackathon,2025-09-21,Attended
+EV00820,C00221,Workshop,2024-01-11,No-show
+EV00821,C02232,Webinar,2024-12-22,No-show
+EV00822,C01711,Webinar,2024-05-20,Attended
+EV00823,C00584,Hackathon,2023-11-24,Attended
+EV00824,C04275,Hackathon,2025-09-12,No-show
+EV00825,C04199,Workshop,2025-08-11,Attended
+EV00826,C01778,Training Session,2024-10-31,Registered
+EV00827,C01188,Webinar,2025-02-27,No-show
+EV00828,C01683,Workshop,2025-04-14,Attended
+EV00829,C00737,Webinar,2025-03-19,Attended
+EV00830,C01668,Workshop,2024-06-15,Registered
+EV00831,C02135,Hackathon,2024-10-05,No-show
+EV00832,C04901,Hackathon,2025-07-31,No-show
+EV00833,C00627,Workshop,2024-10-23,Attended
+EV00834,C01672,Webinar,2025-01-03,Registered
+EV00835,C02190,Workshop,2024-11-03,Attended
+EV00836,C03774,Workshop,2025-09-17,No-show
+EV00837,C04822,Workshop,2024-11-13,No-show
+EV00838,C02030,Hackathon,2024-03-19,Registered
+EV00839,C01103,Training Session,2025-09-24,Attended
+EV00840,C03339,Hackathon,2024-12-15,Registered
+EV00841,C02301,Webinar,2024-09-01,Attended
+EV00842,C00408,Webinar,2024-02-26,No-show
+EV00843,C03029,Hackathon,2024-10-08,Registered
+EV00844,C04792,Training Session,2024-03-24,No-show
+EV00845,C04711,Hackathon,2025-08-16,No-show
+EV00846,C02953,Training Session,2024-10-14,Registered
+EV00847,C01773,Hackathon,2024-10-25,No-show
+EV00848,C04347,Workshop,2025-01-06,No-show
+EV00849,C02163,Training Session,2023-10-12,Registered
+EV00850,C01661,Training Session,2024-08-11,Attended
+EV00851,C01354,Training Session,2024-08-31,Attended
+EV00852,C00033,Workshop,2025-09-13,Attended
+EV00853,C03150,Webinar,2023-11-05,Attended
+EV00854,C00228,Training Session,2025-06-13,Registered
+EV00855,C04369,Hackathon,2024-05-12,Registered
+EV00856,C02897,Webinar,2024-10-04,No-show
+EV00857,C02988,Training Session,2024-10-11,No-show
+EV00858,C04798,Hackathon,2023-10-16,Attended
+EV00859,C03491,Webinar,2024-11-24,Attended
+EV00860,C00859,Webinar,2025-04-20,Attended
+EV00861,C00721,Webinar,2025-01-25,Registered
+EV00862,C01106,Training Session,2025-08-13,Registered
+EV00863,C01411,Training Session,2025-08-23,Registered
+EV00864,C00696,Workshop,2023-12-13,No-show
+EV00865,C00762,Training Session,2024-02-06,Registered
+EV00866,C02572,Webinar,2023-12-27,Attended
+EV00867,C00051,Webinar,2024-08-22,Registered
+EV00868,C03604,Training Session,2025-08-15,No-show
+EV00869,C00878,Workshop,2024-05-29,Registered
+EV00870,C02225,Hackathon,2024-05-09,No-show
+EV00871,C01085,Workshop,2023-12-08,Registered
+EV00872,C04718,Hackathon,2024-05-21,Attended
+EV00873,C01675,Workshop,2024-12-28,No-show
+EV00874,C03984,Training Session,2025-07-08,No-show
+EV00875,C02392,Hackathon,2024-03-05,Registered
+EV00876,C03194,Training Session,2025-04-13,Registered
+EV00877,C04549,Training Session,2025-01-26,Registered
+EV00878,C00109,Webinar,2024-11-07,Attended
+EV00879,C01380,Webinar,2024-03-22,No-show
+EV00880,C01124,Webinar,2025-01-03,Attended
+EV00881,C04737,Webinar,2025-04-11,No-show
+EV00882,C00112,Training Session,2023-10-09,Registered
+EV00883,C02166,Workshop,2025-03-26,Registered
+EV00884,C00173,Workshop,2024-08-18,Attended
+EV00885,C00857,Training Session,2025-02-17,Registered
+EV00886,C01475,Hackathon,2024-11-13,Registered
+EV00887,C04551,Workshop,2025-01-03,No-show
+EV00888,C00150,Workshop,2025-09-02,Registered
+EV00889,C00581,Webinar,2024-01-30,Registered
+EV00890,C00272,Workshop,2025-06-18,No-show
+EV00891,C03475,Hackathon,2024-03-08,Attended
+EV00892,C00327,Webinar,2025-01-23,Registered
+EV00893,C03225,Hackathon,2025-01-19,Attended
+EV00894,C04770,Hackathon,2023-11-08,Attended
+EV00895,C04739,Webinar,2025-10-02,Attended
+EV00896,C04562,Training Session,2024-05-12,No-show
+EV00897,C00089,Hackathon,2025-09-22,Attended
+EV00898,C00922,Hackathon,2024-04-09,Attended
+EV00899,C01981,Workshop,2025-07-03,Registered
+EV00900,C00933,Training Session,2025-03-13,No-show
+EV00901,C03981,Hackathon,2023-12-05,Registered
+EV00902,C03905,Workshop,2024-02-04,No-show
+EV00903,C01950,Training Session,2024-01-10,Registered
+EV00904,C00062,Training Session,2025-06-16,No-show
+EV00905,C01406,Webinar,2024-04-28,Attended
+EV00906,C02017,Hackathon,2025-07-05,Attended
+EV00907,C04207,Training Session,2024-06-08,Attended
+EV00908,C00839,Training Session,2024-03-21,No-show
+EV00909,C00942,Hackathon,2024-09-02,Attended
+EV00910,C04404,Hackathon,2024-05-13,No-show
+EV00911,C03162,Webinar,2025-01-04,Attended
+EV00912,C04505,Training Session,2024-04-16,Attended
+EV00913,C00977,Workshop,2025-04-23,Registered
+EV00914,C02962,Hackathon,2023-11-01,No-show
+EV00915,C02330,Webinar,2024-04-11,No-show
+EV00916,C03174,Workshop,2024-05-23,No-show
+EV00917,C04004,Hackathon,2024-06-23,Attended
+EV00918,C02284,Training Session,2024-11-07,Attended
+EV00919,C01145,Training Session,2025-06-13,Registered
+EV00920,C04437,Training Session,2024-09-02,Attended
+EV00921,C00445,Training Session,2024-12-30,Registered
+EV00922,C04177,Workshop,2023-12-10,Registered
+EV00923,C01957,Workshop,2024-05-18,No-show
+EV00924,C01468,Workshop,2025-09-05,Attended
+EV00925,C03986,Training Session,2025-06-23,No-show
+EV00926,C04966,Training Session,2024-06-23,Registered
+EV00927,C00237,Webinar,2025-07-25,Attended
+EV00928,C02890,Training Session,2025-08-23,No-show
+EV00929,C01555,Workshop,2025-07-29,No-show
+EV00930,C03454,Workshop,2023-10-26,Attended
+EV00931,C04226,Hackathon,2025-04-20,Attended
+EV00932,C02159,Webinar,2024-09-28,No-show
+EV00933,C04205,Hackathon,2024-10-02,No-show
+EV00934,C04026,Webinar,2025-01-07,No-show
+EV00935,C03477,Workshop,2023-10-27,Registered
+EV00936,C02425,Training Session,2024-05-17,No-show
+EV00937,C03064,Training Session,2024-09-28,No-show
+EV00938,C02655,Hackathon,2024-02-04,Attended
+EV00939,C01704,Hackathon,2025-01-23,No-show
+EV00940,C04948,Workshop,2025-07-21,No-show
+EV00941,C00483,Training Session,2025-07-11,Registered
+EV00942,C04209,Workshop,2024-12-08,Attended
+EV00943,C00382,Workshop,2023-10-17,No-show
+EV00944,C02700,Webinar,2024-01-11,Attended
+EV00945,C00825,Workshop,2025-09-17,Registered
+EV00946,C03500,Workshop,2024-09-20,Registered
+EV00947,C01595,Webinar,2024-02-25,Registered
+EV00948,C04935,Hackathon,2024-03-18,Attended
+EV00949,C03696,Webinar,2025-07-30,No-show
+EV00950,C04443,Webinar,2025-03-08,Registered
+EV00951,C03419,Workshop,2025-06-15,Attended
+EV00952,C01104,Webinar,2024-08-10,Attended
+EV00953,C00069,Webinar,2024-08-18,Registered
+EV00954,C04236,Webinar,2024-07-25,Attended
+EV00955,C00167,Webinar,2024-03-27,No-show
+EV00956,C04420,Training Session,2025-04-26,Registered
+EV00957,C00612,Training Session,2024-10-22,No-show
+EV00958,C02917,Webinar,2025-01-07,No-show
+EV00959,C02510,Training Session,2025-07-09,Attended
+EV00960,C01084,Workshop,2024-01-18,Attended
+EV00961,C00459,Workshop,2024-08-14,Attended
+EV00962,C04442,Workshop,2024-01-08,Attended
+EV00963,C00297,Training Session,2024-05-26,No-show
+EV00964,C00484,Hackathon,2023-10-10,No-show
+EV00965,C00047,Workshop,2025-01-01,Registered
+EV00966,C03222,Hackathon,2024-11-04,Registered
+EV00967,C00175,Training Session,2024-03-16,No-show
+EV00968,C02664,Hackathon,2025-07-01,Attended
+EV00969,C03600,Webinar,2023-11-17,Registered
+EV00970,C02636,Training Session,2025-02-14,Registered
+EV00971,C00981,Training Session,2025-09-20,Registered
+EV00972,C01768,Training Session,2024-08-16,No-show
+EV00973,C04691,Training Session,2024-05-27,No-show
+EV00974,C01620,Hackathon,2024-01-08,No-show
+EV00975,C00054,Training Session,2024-05-01,Registered
+EV00976,C02131,Hackathon,2025-07-04,Attended
+EV00977,C00161,Hackathon,2024-03-24,Attended
+EV00978,C03558,Training Session,2024-03-26,Registered
+EV00979,C03515,Workshop,2024-04-10,Attended
+EV00980,C00804,Hackathon,2024-10-14,Registered
+EV00981,C01190,Webinar,2024-06-02,Attended
+EV00982,C01339,Hackathon,2025-01-11,Registered
+EV00983,C04523,Hackathon,2024-09-06,No-show
+EV00984,C02872,Hackathon,2024-01-15,No-show
+EV00985,C03167,Training Session,2024-05-08,Attended
+EV00986,C01530,Hackathon,2025-04-23,Registered
+EV00987,C02495,Hackathon,2024-08-26,Attended
+EV00988,C03822,Webinar,2024-12-24,No-show
+EV00989,C02350,Training Session,2025-05-19,No-show
+EV00990,C03884,Workshop,2024-08-13,Registered
+EV00991,C02131,Hackathon,2025-04-07,No-show
+EV00992,C00035,Webinar,2025-02-04,Registered
+EV00993,C03065,Hackathon,2025-06-11,Attended
+EV00994,C02996,Webinar,2023-11-28,Registered
+EV00995,C01233,Workshop,2024-03-08,No-show
+EV00996,C02338,Hackathon,2024-04-15,Attended
+EV00997,C02913,Webinar,2024-03-01,Registered
+EV00998,C03705,Training Session,2025-01-05,Attended
+EV00999,C00397,Workshop,2025-07-31,Attended
+EV01000,C01060,Training Session,2025-07-12,Attended

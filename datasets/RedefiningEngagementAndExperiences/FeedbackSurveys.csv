@@ -1,0 +1,1001 @@
+survey_id,subject_id,category,topic,rating,date
+S00001,C03668,Employee,Net Promoter Score,4,2024-06-08
+S00002,E00156,Customer,Satisfaction,4,2025-06-13
+S00003,C00034,Employee,Experience,5,2024-05-24
+S00004,C01405,Employee,Support,4,2024-09-17
+S00005,E00230,Customer,Experience,3,2023-12-27
+S00006,C04381,Customer,Satisfaction,3,2024-10-09
+S00007,E00081,Employee,Experience,1,2024-10-31
+S00008,E00094,Customer,Net Promoter Score,2,2024-06-18
+S00009,C01370,Customer,Experience,5,2024-11-20
+S00010,E00353,Employee,Experience,1,2024-12-12
+S00011,E00306,Employee,Net Promoter Score,3,2024-10-03
+S00012,C00501,Customer,Net Promoter Score,4,2023-12-09
+S00013,C03162,Customer,Support,2,2025-04-03
+S00014,E00390,Employee,Experience,2,2023-11-04
+S00015,E00185,Employee,Support,5,2024-08-14
+S00016,E00479,Employee,Support,1,2024-06-24
+S00017,C02412,Employee,Net Promoter Score,3,2025-07-19
+S00018,C04582,Employee,Satisfaction,1,2025-07-03
+S00019,C04125,Employee,Experience,4,2024-05-26
+S00020,C00311,Employee,Satisfaction,1,2024-05-10
+S00021,C01439,Employee,Net Promoter Score,2,2025-03-12
+S00022,E00162,Employee,Satisfaction,5,2024-02-14
+S00023,C03418,Employee,Support,1,2025-01-20
+S00024,C02172,Employee,Support,4,2024-02-05
+S00025,C02885,Customer,Net Promoter Score,2,2024-06-04
+S00026,C00571,Customer,Support,3,2025-05-30
+S00027,E00245,Employee,Satisfaction,4,2024-11-26
+S00028,C00270,Employee,Satisfaction,4,2024-08-13
+S00029,E00065,Employee,Satisfaction,2,2024-02-10
+S00030,C02209,Customer,Support,3,2025-04-27
+S00031,E00260,Employee,Support,3,2023-11-07
+S00032,E00065,Employee,Experience,4,2025-09-07
+S00033,E00444,Employee,Net Promoter Score,3,2024-03-20
+S00034,C01877,Customer,Satisfaction,2,2024-09-15
+S00035,E00160,Customer,Satisfaction,2,2025-05-24
+S00036,E00010,Customer,Support,5,2024-01-14
+S00037,E00326,Customer,Satisfaction,2,2023-12-02
+S00038,C03104,Employee,Support,4,2024-12-14
+S00039,E00190,Employee,Net Promoter Score,4,2025-07-18
+S00040,C00170,Employee,Experience,4,2024-06-04
+S00041,E00282,Employee,Experience,2,2025-01-16
+S00042,C03141,Employee,Net Promoter Score,4,2025-04-13
+S00043,E00408,Customer,Satisfaction,3,2023-11-13
+S00044,C01684,Customer,Support,2,2025-02-13
+S00045,E00136,Customer,Experience,5,2023-10-29
+S00046,C04959,Employee,Net Promoter Score,1,2025-04-27
+S00047,C01934,Customer,Satisfaction,1,2025-08-12
+S00048,E00471,Employee,Support,2,2024-03-28
+S00049,E00210,Customer,Satisfaction,5,2025-08-31
+S00050,E00060,Customer,Experience,3,2025-09-09
+S00051,C01654,Customer,Support,2,2024-01-01
+S00052,E00241,Employee,Satisfaction,2,2024-12-13
+S00053,C02970,Customer,Support,5,2025-06-10
+S00054,E00258,Employee,Support,1,2025-08-16
+S00055,E00221,Customer,Satisfaction,2,2025-06-16
+S00056,C03888,Customer,Satisfaction,1,2024-06-08
+S00057,E00381,Employee,Experience,1,2023-12-29
+S00058,C02960,Employee,Support,4,2025-09-18
+S00059,C00796,Employee,Experience,4,2025-08-01
+S00060,C00472,Customer,Satisfaction,2,2023-12-14
+S00061,C01310,Customer,Satisfaction,4,2023-11-01
+S00062,C01552,Employee,Experience,1,2024-11-15
+S00063,E00391,Customer,Support,3,2023-12-29
+S00064,C01069,Customer,Support,3,2024-10-24
+S00065,E00076,Customer,Experience,5,2024-01-21
+S00066,C00343,Customer,Support,1,2025-03-24
+S00067,C00925,Customer,Net Promoter Score,4,2025-03-03
+S00068,C01704,Employee,Net Promoter Score,5,2025-03-26
+S00069,C03355,Customer,Support,4,2025-08-12
+S00070,E00366,Employee,Net Promoter Score,2,2024-01-25
+S00071,C02929,Customer,Support,5,2025-06-13
+S00072,E00318,Employee,Net Promoter Score,3,2023-10-29
+S00073,E00024,Customer,Net Promoter Score,4,2024-03-22
+S00074,E00244,Customer,Satisfaction,4,2025-02-07
+S00075,E00020,Employee,Satisfaction,5,2025-03-21
+S00076,C04548,Employee,Net Promoter Score,4,2024-11-07
+S00077,C03949,Employee,Net Promoter Score,5,2024-04-29
+S00078,C03372,Customer,Net Promoter Score,4,2025-04-23
+S00079,E00154,Employee,Support,4,2024-12-08
+S00080,C02269,Customer,Experience,2,2025-08-09
+S00081,E00138,Customer,Support,1,2024-06-09
+S00082,C01503,Customer,Net Promoter Score,1,2025-08-29
+S00083,C00248,Employee,Experience,2,2025-03-15
+S00084,E00080,Customer,Experience,1,2024-06-24
+S00085,C00816,Employee,Experience,1,2024-06-02
+S00086,C01770,Customer,Experience,3,2024-04-24
+S00087,E00412,Customer,Support,5,2023-11-30
+S00088,E00350,Customer,Satisfaction,5,2024-07-01
+S00089,C04108,Customer,Support,1,2024-09-21
+S00090,C01064,Customer,Satisfaction,3,2024-05-09
+S00091,E00321,Customer,Support,5,2025-03-13
+S00092,E00383,Customer,Net Promoter Score,3,2025-09-06
+S00093,E00313,Employee,Support,2,2024-12-24
+S00094,C04723,Employee,Support,2,2025-04-12
+S00095,E00384,Customer,Experience,2,2023-11-30
+S00096,E00451,Customer,Net Promoter Score,5,2024-08-25
+S00097,E00309,Customer,Support,3,2024-06-13
+S00098,C02071,Customer,Support,3,2024-01-19
+S00099,C01558,Employee,Support,4,2024-04-17
+S00100,C00895,Employee,Experience,2,2024-09-06
+S00101,E00106,Customer,Satisfaction,3,2025-08-30
+S00102,C03546,Customer,Experience,3,2024-05-09
+S00103,E00387,Employee,Support,5,2024-03-25
+S00104,C04676,Employee,Experience,4,2025-05-07
+S00105,C01244,Employee,Satisfaction,3,2024-11-25
+S00106,E00295,Customer,Support,1,2025-04-29
+S00107,C02441,Customer,Net Promoter Score,4,2025-02-27
+S00108,C00680,Customer,Net Promoter Score,4,2025-03-19
+S00109,E00065,Employee,Experience,5,2024-06-08
+S00110,E00019,Customer,Support,3,2025-04-09
+S00111,C01055,Customer,Experience,3,2024-02-14
+S00112,E00156,Customer,Net Promoter Score,2,2024-12-23
+S00113,E00190,Employee,Satisfaction,4,2023-12-31
+S00114,C03805,Employee,Support,3,2025-06-22
+S00115,E00048,Employee,Experience,2,2025-06-25
+S00116,E00323,Customer,Experience,5,2025-08-06
+S00117,E00002,Customer,Satisfaction,2,2024-01-26
+S00118,E00406,Customer,Experience,2,2024-05-06
+S00119,C04974,Customer,Net Promoter Score,5,2024-06-29
+S00120,E00161,Employee,Net Promoter Score,1,2024-05-21
+S00121,E00375,Customer,Satisfaction,3,2024-08-23
+S00122,E00363,Employee,Support,5,2024-02-01
+S00123,C02188,Customer,Support,1,2024-09-08
+S00124,E00314,Customer,Net Promoter Score,4,2025-03-17
+S00125,C04965,Employee,Net Promoter Score,5,2024-07-09
+S00126,E00130,Customer,Satisfaction,5,2024-11-07
+S00127,C00309,Employee,Experience,1,2025-08-27
+S00128,C01383,Employee,Satisfaction,4,2023-10-15
+S00129,C04441,Customer,Net Promoter Score,5,2024-01-14
+S00130,C00260,Employee,Satisfaction,1,2025-04-08
+S00131,E00343,Employee,Experience,2,2025-08-06
+S00132,E00284,Employee,Net Promoter Score,2,2023-11-18
+S00133,E00194,Employee,Net Promoter Score,2,2023-12-24
+S00134,C00328,Customer,Net Promoter Score,1,2024-05-28
+S00135,C01208,Employee,Support,2,2024-04-21
+S00136,C02828,Employee,Support,5,2024-06-19
+S00137,E00061,Employee,Net Promoter Score,1,2024-11-07
+S00138,C03297,Employee,Experience,5,2025-04-17
+S00139,E00035,Customer,Net Promoter Score,5,2025-05-21
+S00140,E00482,Employee,Net Promoter Score,2,2025-09-13
+S00141,C03081,Customer,Support,5,2025-06-08
+S00142,C03391,Customer,Net Promoter Score,5,2025-09-22
+S00143,C04942,Employee,Net Promoter Score,3,2023-10-20
+S00144,C00502,Employee,Support,1,2025-08-16
+S00145,E00459,Customer,Support,2,2024-01-24
+S00146,C03067,Customer,Support,1,2024-02-12
+S00147,E00447,Employee,Satisfaction,3,2024-12-26
+S00148,E00012,Customer,Satisfaction,1,2024-08-29
+S00149,C01593,Employee,Net Promoter Score,4,2024-09-26
+S00150,C03212,Customer,Support,1,2025-06-12
+S00151,E00260,Customer,Net Promoter Score,5,2024-12-24
+S00152,C04997,Customer,Net Promoter Score,3,2024-05-20
+S00153,E00310,Customer,Experience,4,2025-01-31
+S00154,E00146,Customer,Net Promoter Score,2,2024-08-26
+S00155,E00467,Customer,Net Promoter Score,4,2024-08-22
+S00156,C00814,Customer,Support,1,2025-09-17
+S00157,C02558,Employee,Satisfaction,5,2024-09-09
+S00158,C04017,Employee,Net Promoter Score,2,2024-04-26
+S00159,C04164,Customer,Experience,2,2023-11-23
+S00160,C01193,Employee,Satisfaction,5,2024-08-26
+S00161,E00399,Employee,Experience,5,2025-05-15
+S00162,C04450,Employee,Support,3,2023-12-20
+S00163,C04155,Customer,Experience,1,2024-07-31
+S00164,C02882,Employee,Support,4,2025-05-07
+S00165,C03805,Employee,Support,1,2024-03-26
+S00166,E00290,Employee,Support,2,2025-01-18
+S00167,C03169,Employee,Net Promoter Score,4,2025-04-21
+S00168,E00131,Employee,Experience,2,2023-12-11
+S00169,E00341,Employee,Satisfaction,2,2025-02-01
+S00170,E00078,Employee,Satisfaction,4,2025-07-04
+S00171,C03857,Customer,Experience,2,2024-12-24
+S00172,C01764,Customer,Experience,3,2025-02-28
+S00173,C02453,Customer,Experience,4,2024-09-03
+S00174,C04173,Employee,Net Promoter Score,4,2024-03-24
+S00175,E00198,Employee,Experience,3,2024-10-15
+S00176,E00342,Employee,Satisfaction,4,2024-07-17
+S00177,E00069,Customer,Experience,2,2024-02-01
+S00178,E00141,Customer,Net Promoter Score,3,2024-10-13
+S00179,E00147,Employee,Experience,3,2024-07-26
+S00180,C04946,Customer,Satisfaction,1,2025-05-14
+S00181,C04966,Employee,Experience,3,2024-06-19
+S00182,C04145,Employee,Support,4,2023-12-04
+S00183,E00247,Customer,Experience,2,2024-05-02
+S00184,C03694,Employee,Net Promoter Score,3,2024-09-19
+S00185,C01174,Customer,Net Promoter Score,3,2025-04-14
+S00186,C04537,Customer,Experience,2,2024-08-26
+S00187,E00424,Customer,Experience,4,2024-02-24
+S00188,E00413,Employee,Net Promoter Score,2,2024-01-31
+S00189,E00335,Employee,Satisfaction,2,2023-10-07
+S00190,E00381,Customer,Satisfaction,3,2024-10-06
+S00191,C02467,Customer,Net Promoter Score,5,2023-12-07
+S00192,E00001,Employee,Support,3,2024-01-30
+S00193,C00712,Employee,Experience,3,2025-09-28
+S00194,E00179,Employee,Experience,3,2024-07-18
+S00195,E00171,Customer,Experience,2,2024-08-05
+S00196,C04607,Employee,Net Promoter Score,3,2025-09-30
+S00197,C02429,Customer,Experience,5,2024-04-15
+S00198,C04523,Employee,Net Promoter Score,2,2025-01-05
+S00199,E00122,Customer,Experience,4,2024-02-29
+S00200,E00199,Customer,Experience,2,2025-01-30
+S00201,C03677,Customer,Satisfaction,1,2023-12-31
+S00202,E00329,Customer,Support,4,2024-01-14
+S00203,E00018,Employee,Net Promoter Score,1,2023-12-09
+S00204,E00438,Customer,Support,2,2025-03-01
+S00205,C02731,Employee,Satisfaction,4,2025-05-12
+S00206,E00382,Employee,Experience,3,2024-05-13
+S00207,C00622,Employee,Support,2,2025-08-04
+S00208,E00464,Employee,Satisfaction,4,2025-04-28
+S00209,E00089,Employee,Satisfaction,1,2025-07-02
+S00210,C03416,Employee,Support,3,2024-09-16
+S00211,E00297,Customer,Satisfaction,2,2024-08-30
+S00212,E00091,Customer,Experience,5,2023-11-03
+S00213,C04914,Employee,Satisfaction,2,2024-11-29
+S00214,E00330,Customer,Satisfaction,2,2024-03-13
+S00215,C03302,Customer,Net Promoter Score,4,2025-03-15
+S00216,C00959,Employee,Experience,1,2025-01-08
+S00217,E00272,Customer,Net Promoter Score,1,2024-11-05
+S00218,E00191,Customer,Satisfaction,5,2024-08-13
+S00219,C01933,Employee,Experience,3,2024-11-27
+S00220,E00357,Employee,Experience,5,2025-01-17
+S00221,E00170,Employee,Net Promoter Score,5,2024-09-10
+S00222,E00052,Employee,Net Promoter Score,5,2023-11-09
+S00223,E00414,Customer,Experience,1,2023-11-23
+S00224,C03238,Customer,Experience,2,2024-10-13
+S00225,C00678,Customer,Satisfaction,1,2023-11-20
+S00226,C03649,Customer,Net Promoter Score,3,2024-01-24
+S00227,E00355,Customer,Support,5,2024-10-04
+S00228,C03754,Customer,Satisfaction,4,2024-10-14
+S00229,C01706,Customer,Net Promoter Score,1,2024-07-15
+S00230,E00366,Customer,Support,2,2024-06-21
+S00231,C02023,Employee,Support,4,2025-07-10
+S00232,E00374,Customer,Net Promoter Score,2,2025-09-20
+S00233,E00135,Customer,Net Promoter Score,4,2025-04-25
+S00234,C00168,Employee,Experience,2,2025-07-22
+S00235,E00368,Employee,Experience,2,2024-04-05
+S00236,E00049,Customer,Support,1,2024-06-27
+S00237,C01612,Employee,Net Promoter Score,1,2024-02-23
+S00238,E00327,Customer,Net Promoter Score,4,2024-11-23
+S00239,C01149,Customer,Experience,1,2024-10-30
+S00240,E00457,Employee,Experience,2,2025-07-07
+S00241,C04855,Employee,Support,5,2025-07-28
+S00242,C02894,Employee,Support,1,2025-05-11
+S00243,C00465,Customer,Satisfaction,4,2024-11-26
+S00244,C00967,Customer,Support,2,2024-03-23
+S00245,C03079,Customer,Support,1,2024-08-15
+S00246,E00222,Customer,Experience,2,2024-07-31
+S00247,C04596,Customer,Net Promoter Score,1,2025-10-02
+S00248,E00397,Employee,Net Promoter Score,4,2025-05-18
+S00249,E00298,Customer,Support,3,2024-03-26
+S00250,E00035,Employee,Net Promoter Score,1,2024-05-30
+S00251,C04396,Employee,Experience,5,2024-01-18
+S00252,E00447,Customer,Support,1,2023-11-18
+S00253,C04484,Customer,Support,4,2024-11-21
+S00254,C01438,Employee,Net Promoter Score,5,2025-01-22
+S00255,C03531,Customer,Support,5,2025-08-09
+S00256,C02702,Customer,Experience,3,2024-10-11
+S00257,E00333,Employee,Net Promoter Score,2,2025-02-27
+S00258,E00344,Customer,Experience,5,2025-04-24
+S00259,E00298,Employee,Net Promoter Score,2,2024-03-26
+S00260,E00300,Customer,Net Promoter Score,5,2024-07-22
+S00261,E00090,Customer,Support,3,2024-07-16
+S00262,E00366,Customer,Net Promoter Score,4,2025-02-05
+S00263,E00245,Customer,Satisfaction,2,2024-10-29
+S00264,E00267,Customer,Satisfaction,4,2025-07-08
+S00265,E00382,Customer,Net Promoter Score,5,2024-03-11
+S00266,C01504,Customer,Net Promoter Score,3,2025-06-25
+S00267,C02146,Employee,Satisfaction,5,2024-06-04
+S00268,C02980,Customer,Net Promoter Score,2,2024-03-11
+S00269,E00462,Employee,Net Promoter Score,1,2024-08-11
+S00270,E00100,Customer,Support,3,2024-10-02
+S00271,E00187,Customer,Support,4,2025-04-25
+S00272,C00084,Customer,Experience,1,2024-07-15
+S00273,E00132,Customer,Experience,2,2025-04-20
+S00274,C03118,Customer,Net Promoter Score,1,2024-10-03
+S00275,C02844,Customer,Support,1,2025-09-05
+S00276,E00488,Employee,Support,4,2024-03-06
+S00277,E00240,Employee,Net Promoter Score,2,2025-05-05
+S00278,C04404,Customer,Experience,1,2024-03-08
+S00279,E00085,Customer,Satisfaction,3,2023-12-10
+S00280,C02121,Customer,Support,5,2023-11-15
+S00281,C00252,Customer,Satisfaction,2,2023-10-06
+S00282,C00686,Customer,Satisfaction,5,2024-03-18
+S00283,C04489,Customer,Support,1,2024-09-22
+S00284,C04944,Employee,Net Promoter Score,1,2025-02-14
+S00285,E00257,Employee,Satisfaction,3,2025-01-30
+S00286,E00404,Customer,Net Promoter Score,2,2024-03-12
+S00287,E00087,Employee,Support,1,2024-10-11
+S00288,C03570,Employee,Satisfaction,2,2024-08-31
+S00289,C00155,Employee,Net Promoter Score,1,2025-06-29
+S00290,C03349,Employee,Experience,5,2023-11-22
+S00291,E00457,Customer,Satisfaction,4,2024-11-06
+S00292,E00486,Customer,Experience,4,2023-10-18
+S00293,C01961,Employee,Net Promoter Score,1,2024-05-11
+S00294,C02498,Customer,Net Promoter Score,4,2024-12-17
+S00295,C02415,Employee,Experience,4,2024-09-02
+S00296,E00177,Customer,Net Promoter Score,5,2024-10-09
+S00297,E00377,Employee,Satisfaction,1,2024-06-29
+S00298,E00129,Customer,Satisfaction,5,2024-05-26
+S00299,C02354,Employee,Support,4,2025-08-06
+S00300,E00025,Employee,Experience,1,2023-11-28
+S00301,C01592,Employee,Satisfaction,1,2025-08-13
+S00302,E00470,Customer,Satisfaction,3,2025-01-04
+S00303,C04656,Customer,Satisfaction,1,2023-10-19
+S00304,E00382,Employee,Net Promoter Score,3,2023-10-17
+S00305,E00231,Employee,Experience,4,2024-11-26
+S00306,C03853,Customer,Experience,4,2025-03-22
+S00307,E00202,Employee,Satisfaction,4,2024-09-22
+S00308,E00466,Customer,Net Promoter Score,5,2024-12-11
+S00309,C02022,Employee,Satisfaction,5,2025-09-04
+S00310,E00054,Employee,Support,4,2025-08-27
+S00311,E00416,Employee,Experience,3,2024-02-03
+S00312,C01644,Customer,Net Promoter Score,1,2024-06-04
+S00313,E00239,Customer,Experience,5,2024-06-17
+S00314,E00475,Employee,Satisfaction,5,2024-12-12
+S00315,E00488,Employee,Net Promoter Score,2,2025-06-23
+S00316,E00196,Employee,Support,5,2025-03-18
+S00317,E00175,Customer,Experience,4,2025-06-11
+S00318,E00310,Customer,Support,3,2024-12-11
+S00319,C03540,Employee,Satisfaction,1,2024-02-25
+S00320,E00050,Customer,Experience,1,2024-01-30
+S00321,E00082,Employee,Support,1,2024-07-18
+S00322,C01308,Employee,Satisfaction,1,2025-03-12
+S00323,C04109,Employee,Net Promoter Score,5,2024-06-20
+S00324,C02551,Employee,Satisfaction,1,2025-03-29
+S00325,E00381,Customer,Experience,4,2025-03-28
+S00326,C03453,Customer,Satisfaction,5,2024-08-07
+S00327,E00445,Employee,Net Promoter Score,4,2025-05-03
+S00328,E00132,Customer,Support,1,2025-07-31
+S00329,C04943,Employee,Satisfaction,4,2023-11-12
+S00330,E00067,Employee,Experience,5,2024-02-07
+S00331,E00167,Employee,Experience,4,2024-11-09
+S00332,E00265,Customer,Satisfaction,2,2025-09-21
+S00333,C03169,Customer,Experience,4,2025-05-15
+S00334,E00492,Customer,Satisfaction,1,2025-07-24
+S00335,E00289,Employee,Net Promoter Score,3,2024-01-03
+S00336,C01870,Employee,Satisfaction,1,2024-08-15
+S00337,E00105,Customer,Experience,1,2025-05-12
+S00338,C01834,Employee,Support,3,2025-03-13
+S00339,E00322,Customer,Support,5,2025-02-03
+S00340,E00299,Employee,Experience,5,2025-03-04
+S00341,C04298,Customer,Support,3,2024-02-01
+S00342,C00933,Customer,Net Promoter Score,4,2024-09-25
+S00343,E00235,Customer,Net Promoter Score,3,2024-06-14
+S00344,E00005,Customer,Satisfaction,5,2025-09-14
+S00345,C02702,Customer,Net Promoter Score,5,2024-10-18
+S00346,E00389,Customer,Satisfaction,2,2024-10-07
+S00347,C00653,Customer,Experience,3,2024-04-30
+S00348,C01501,Customer,Net Promoter Score,4,2025-03-24
+S00349,E00247,Employee,Experience,4,2024-04-30
+S00350,E00386,Customer,Experience,4,2024-02-21
+S00351,C01541,Customer,Support,3,2024-05-24
+S00352,C03410,Employee,Net Promoter Score,3,2024-12-06
+S00353,C03598,Customer,Experience,5,2024-04-13
+S00354,E00068,Customer,Experience,3,2024-09-01
+S00355,C00948,Customer,Net Promoter Score,1,2023-12-02
+S00356,E00309,Customer,Support,5,2023-11-28
+S00357,C01207,Employee,Experience,2,2025-04-29
+S00358,C00168,Employee,Support,2,2024-10-06
+S00359,C04934,Employee,Support,3,2024-02-07
+S00360,C03329,Customer,Experience,1,2024-05-18
+S00361,E00267,Employee,Experience,4,2023-11-04
+S00362,E00451,Employee,Experience,2,2024-06-12
+S00363,E00435,Customer,Satisfaction,4,2023-12-07
+S00364,E00481,Employee,Satisfaction,3,2024-04-29
+S00365,E00262,Customer,Net Promoter Score,4,2024-09-29
+S00366,C04209,Customer,Net Promoter Score,2,2024-02-17
+S00367,C01819,Employee,Satisfaction,2,2024-03-08
+S00368,E00418,Customer,Net Promoter Score,2,2023-11-09
+S00369,C04405,Employee,Support,2,2024-05-24
+S00370,C03067,Employee,Net Promoter Score,1,2024-12-25
+S00371,E00304,Employee,Satisfaction,2,2024-01-10
+S00372,E00132,Employee,Experience,2,2025-06-18
+S00373,C03263,Employee,Satisfaction,1,2024-12-24
+S00374,E00397,Employee,Support,3,2025-08-25
+S00375,E00172,Customer,Net Promoter Score,2,2023-10-22
+S00376,C01401,Customer,Support,3,2023-10-10
+S00377,E00478,Customer,Support,4,2025-04-06
+S00378,C01797,Employee,Support,1,2024-10-03
+S00379,C01341,Customer,Net Promoter Score,1,2023-12-31
+S00380,C01152,Employee,Net Promoter Score,3,2025-08-13
+S00381,C01418,Customer,Support,1,2024-04-16
+S00382,E00317,Employee,Experience,3,2023-10-10
+S00383,E00166,Employee,Net Promoter Score,4,2025-08-16
+S00384,E00302,Customer,Support,1,2023-12-10
+S00385,E00270,Customer,Support,2,2025-01-22
+S00386,C02806,Customer,Net Promoter Score,5,2025-03-20
+S00387,C02130,Customer,Support,2,2024-11-20
+S00388,E00165,Employee,Net Promoter Score,1,2024-09-15
+S00389,C02537,Employee,Experience,1,2025-08-20
+S00390,C03797,Customer,Support,3,2025-07-17
+S00391,E00475,Customer,Satisfaction,1,2024-05-08
+S00392,E00456,Employee,Experience,1,2025-02-13
+S00393,E00291,Customer,Experience,5,2025-01-28
+S00394,C00516,Customer,Support,1,2025-02-12
+S00395,E00150,Employee,Experience,5,2025-06-09
+S00396,E00300,Employee,Net Promoter Score,2,2023-12-08
+S00397,E00386,Employee,Satisfaction,5,2023-10-13
+S00398,C04542,Customer,Satisfaction,4,2025-02-22
+S00399,E00119,Customer,Net Promoter Score,2,2024-08-04
+S00400,E00017,Employee,Experience,3,2024-07-09
+S00401,E00208,Employee,Support,5,2024-11-12
+S00402,E00373,Employee,Support,1,2024-06-18
+S00403,C02546,Customer,Satisfaction,4,2024-09-20
+S00404,E00178,Customer,Support,3,2025-09-18
+S00405,E00372,Employee,Support,2,2024-02-20
+S00406,E00421,Customer,Net Promoter Score,5,2025-02-08
+S00407,E00174,Customer,Support,1,2024-07-12
+S00408,E00313,Customer,Experience,5,2024-12-31
+S00409,C01506,Customer,Satisfaction,5,2023-10-06
+S00410,E00106,Customer,Satisfaction,1,2024-07-24
+S00411,E00300,Customer,Satisfaction,5,2024-04-26
+S00412,C00912,Customer,Support,3,2024-10-19
+S00413,C04500,Employee,Experience,5,2024-06-28
+S00414,E00366,Customer,Support,3,2025-03-22
+S00415,E00427,Employee,Support,1,2024-10-03
+S00416,E00028,Employee,Experience,4,2024-12-17
+S00417,E00008,Customer,Net Promoter Score,2,2025-04-14
+S00418,C02814,Customer,Support,3,2025-02-16
+S00419,C03085,Customer,Experience,1,2025-05-24
+S00420,E00500,Employee,Satisfaction,2,2024-07-31
+S00421,C01766,Employee,Experience,2,2024-09-11
+S00422,C03771,Employee,Support,4,2024-12-10
+S00423,E00180,Employee,Net Promoter Score,4,2025-06-30
+S00424,E00282,Employee,Experience,5,2024-10-17
+S00425,E00378,Customer,Net Promoter Score,5,2025-09-25
+S00426,E00409,Employee,Support,4,2024-01-18
+S00427,E00403,Employee,Satisfaction,5,2025-01-10
+S00428,C03424,Customer,Support,2,2024-04-30
+S00429,E00428,Employee,Satisfaction,5,2025-06-19
+S00430,C04269,Customer,Experience,1,2024-04-16
+S00431,C01402,Customer,Net Promoter Score,5,2024-01-16
+S00432,E00062,Customer,Support,3,2024-04-20
+S00433,E00416,Employee,Support,2,2024-01-30
+S00434,C04232,Customer,Experience,5,2025-01-23
+S00435,E00319,Employee,Satisfaction,2,2025-07-11
+S00436,E00456,Customer,Support,4,2025-07-14
+S00437,C03748,Customer,Net Promoter Score,3,2024-03-20
+S00438,E00395,Customer,Net Promoter Score,5,2024-07-23
+S00439,C02590,Employee,Experience,4,2024-10-01
+S00440,E00124,Customer,Experience,2,2025-09-16
+S00441,C04206,Customer,Satisfaction,5,2024-03-07
+S00442,C02299,Customer,Net Promoter Score,3,2024-08-16
+S00443,C03539,Customer,Net Promoter Score,2,2025-03-18
+S00444,C02500,Employee,Experience,2,2025-05-15
+S00445,E00297,Customer,Support,3,2024-02-03
+S00446,C03587,Employee,Experience,3,2024-12-26
+S00447,E00194,Customer,Net Promoter Score,3,2024-07-24
+S00448,C00252,Employee,Satisfaction,3,2024-01-21
+S00449,C04153,Customer,Net Promoter Score,2,2023-10-31
+S00450,E00451,Customer,Experience,5,2024-08-29
+S00451,C00215,Employee,Satisfaction,3,2023-10-23
+S00452,E00047,Customer,Support,3,2025-03-03
+S00453,C01104,Employee,Satisfaction,5,2024-07-04
+S00454,E00448,Customer,Support,1,2024-01-03
+S00455,C03130,Customer,Net Promoter Score,4,2024-11-28
+S00456,C04098,Customer,Net Promoter Score,2,2024-03-15
+S00457,E00124,Customer,Support,2,2024-09-15
+S00458,C04034,Employee,Satisfaction,2,2024-04-13
+S00459,E00474,Customer,Support,1,2024-05-06
+S00460,C02079,Customer,Support,4,2024-12-23
+S00461,C01708,Employee,Satisfaction,4,2025-02-02
+S00462,C04491,Employee,Net Promoter Score,1,2024-12-19
+S00463,C03017,Employee,Experience,5,2025-01-19
+S00464,C04528,Employee,Support,1,2024-05-18
+S00465,C03642,Customer,Net Promoter Score,4,2025-07-02
+S00466,C00541,Employee,Satisfaction,1,2024-05-23
+S00467,C01834,Customer,Experience,4,2024-04-16
+S00468,C01435,Customer,Experience,4,2023-11-03
+S00469,C04804,Customer,Experience,1,2025-07-18
+S00470,C04705,Customer,Net Promoter Score,1,2024-10-14
+S00471,E00406,Employee,Net Promoter Score,5,2024-06-01
+S00472,C04446,Customer,Satisfaction,3,2025-03-04
+S00473,E00032,Employee,Support,1,2024-05-02
+S00474,C00093,Customer,Satisfaction,4,2025-07-14
+S00475,C02098,Customer,Experience,3,2024-04-02
+S00476,C04494,Customer,Satisfaction,3,2025-03-17
+S00477,C04155,Customer,Experience,4,2025-03-26
+S00478,E00469,Customer,Support,4,2025-02-02
+S00479,E00206,Employee,Support,1,2024-10-19
+S00480,C04975,Employee,Satisfaction,5,2024-01-24
+S00481,C03985,Employee,Experience,3,2025-07-23
+S00482,C03964,Customer,Net Promoter Score,1,2023-12-14
+S00483,C00824,Employee,Experience,5,2025-05-18
+S00484,C02097,Customer,Experience,2,2025-01-18
+S00485,E00062,Customer,Satisfaction,5,2024-04-16
+S00486,E00447,Customer,Net Promoter Score,5,2024-03-23
+S00487,E00117,Employee,Satisfaction,2,2025-05-10
+S00488,E00268,Customer,Satisfaction,3,2024-08-31
+S00489,E00417,Employee,Net Promoter Score,2,2025-05-30
+S00490,E00478,Employee,Net Promoter Score,1,2024-02-05
+S00491,C03867,Customer,Satisfaction,4,2024-04-05
+S00492,E00447,Employee,Satisfaction,3,2025-03-18
+S00493,C00476,Employee,Support,2,2025-04-08
+S00494,E00441,Employee,Support,1,2024-06-27
+S00495,C04066,Employee,Experience,1,2025-02-07
+S00496,E00148,Customer,Experience,1,2025-06-02
+S00497,E00164,Customer,Support,3,2025-06-02
+S00498,C01457,Customer,Support,2,2024-06-29
+S00499,E00390,Customer,Support,5,2025-03-13
+S00500,E00127,Employee,Experience,2,2025-08-01
+S00501,C01419,Employee,Support,2,2024-12-16
+S00502,E00480,Customer,Experience,4,2025-03-01
+S00503,E00093,Customer,Satisfaction,1,2025-05-13
+S00504,E00284,Employee,Net Promoter Score,3,2024-08-26
+S00505,E00444,Customer,Experience,5,2023-11-30
+S00506,E00158,Customer,Net Promoter Score,3,2025-09-16
+S00507,C00546,Customer,Support,1,2024-03-11
+S00508,C00965,Customer,Support,5,2023-11-12
+S00509,C04341,Employee,Satisfaction,3,2024-03-01
+S00510,C01209,Customer,Experience,3,2025-08-28
+S00511,C01921,Employee,Support,5,2025-07-23
+S00512,E00459,Customer,Support,2,2024-12-08
+S00513,C00004,Customer,Support,1,2024-12-06
+S00514,E00311,Employee,Satisfaction,4,2024-03-03
+S00515,E00100,Employee,Experience,1,2023-11-27
+S00516,C03880,Employee,Satisfaction,4,2025-03-31
+S00517,E00492,Employee,Support,4,2024-10-07
+S00518,E00102,Customer,Net Promoter Score,3,2024-04-15
+S00519,C01104,Customer,Net Promoter Score,1,2025-08-15
+S00520,C03697,Employee,Satisfaction,1,2024-02-12
+S00521,C03390,Customer,Satisfaction,1,2024-06-09
+S00522,E00326,Employee,Satisfaction,3,2024-11-21
+S00523,C00083,Customer,Experience,5,2025-09-23
+S00524,E00296,Employee,Support,1,2023-11-26
+S00525,E00488,Customer,Net Promoter Score,1,2024-04-25
+S00526,C00372,Customer,Net Promoter Score,4,2025-09-10
+S00527,C01920,Employee,Satisfaction,1,2024-08-14
+S00528,E00315,Customer,Support,3,2024-06-03
+S00529,C02977,Employee,Satisfaction,5,2025-08-06
+S00530,C04366,Customer,Support,5,2024-05-28
+S00531,C01006,Employee,Experience,5,2024-02-15
+S00532,E00199,Customer,Net Promoter Score,1,2023-11-16
+S00533,C01128,Employee,Support,4,2023-12-30
+S00534,E00456,Customer,Satisfaction,4,2024-09-21
+S00535,E00044,Customer,Net Promoter Score,4,2024-04-26
+S00536,C01561,Customer,Support,4,2024-02-07
+S00537,C04633,Customer,Experience,5,2024-12-12
+S00538,C00834,Employee,Satisfaction,2,2025-05-20
+S00539,C03185,Customer,Support,4,2023-11-14
+S00540,E00394,Customer,Support,2,2024-01-09
+S00541,E00461,Customer,Experience,1,2025-07-08
+S00542,C02430,Employee,Satisfaction,1,2024-01-25
+S00543,E00226,Employee,Support,3,2023-10-14
+S00544,C00558,Customer,Experience,2,2025-07-10
+S00545,E00139,Employee,Experience,2,2024-12-12
+S00546,E00098,Employee,Experience,3,2025-07-11
+S00547,E00394,Customer,Experience,1,2025-01-13
+S00548,C00272,Customer,Net Promoter Score,4,2023-10-20
+S00549,C04936,Customer,Experience,2,2024-03-23
+S00550,C01970,Employee,Satisfaction,5,2025-08-13
+S00551,E00433,Employee,Experience,4,2025-09-28
+S00552,E00437,Customer,Support,1,2025-02-08
+S00553,E00371,Employee,Satisfaction,3,2024-10-30
+S00554,E00004,Employee,Satisfaction,3,2024-04-02
+S00555,C02864,Employee,Satisfaction,5,2024-07-10
+S00556,E00007,Customer,Support,4,2024-04-13
+S00557,E00168,Customer,Satisfaction,2,2024-10-08
+S00558,C02087,Employee,Support,1,2025-03-28
+S00559,C00831,Employee,Support,5,2025-06-09
+S00560,E00260,Employee,Satisfaction,1,2025-01-03
+S00561,E00411,Employee,Support,5,2024-03-03
+S00562,E00042,Employee,Net Promoter Score,3,2024-05-19
+S00563,C02601,Customer,Net Promoter Score,5,2024-11-03
+S00564,C01305,Employee,Support,1,2023-11-15
+S00565,C00964,Customer,Satisfaction,1,2023-11-24
+S00566,C04970,Customer,Support,4,2025-08-30
+S00567,E00332,Customer,Support,3,2024-07-22
+S00568,E00369,Customer,Net Promoter Score,5,2025-07-24
+S00569,C02782,Employee,Support,1,2025-09-16
+S00570,C01518,Employee,Experience,3,2024-04-05
+S00571,E00300,Employee,Experience,1,2024-10-17
+S00572,C04157,Employee,Support,2,2024-05-11
+S00573,E00494,Employee,Experience,1,2023-11-13
+S00574,E00178,Employee,Experience,1,2025-03-26
+S00575,C02108,Customer,Support,3,2025-03-01
+S00576,E00419,Customer,Satisfaction,3,2023-10-13
+S00577,E00302,Customer,Net Promoter Score,5,2025-03-21
+S00578,C04963,Employee,Experience,5,2024-04-04
+S00579,E00293,Customer,Experience,5,2023-11-19
+S00580,E00348,Employee,Net Promoter Score,3,2024-01-17
+S00581,E00083,Employee,Net Promoter Score,5,2024-07-07
+S00582,E00086,Customer,Experience,2,2025-01-01
+S00583,E00232,Customer,Satisfaction,3,2025-07-16
+S00584,C03248,Customer,Experience,3,2025-09-18
+S00585,C04187,Customer,Satisfaction,4,2023-11-20
+S00586,C02823,Customer,Satisfaction,1,2025-05-27
+S00587,E00155,Employee,Satisfaction,1,2025-04-08
+S00588,C04309,Customer,Satisfaction,4,2023-11-02
+S00589,E00280,Customer,Experience,5,2025-03-26
+S00590,C04947,Customer,Satisfaction,4,2024-03-11
+S00591,C02072,Customer,Satisfaction,2,2024-10-13
+S00592,E00395,Customer,Satisfaction,1,2025-04-13
+S00593,E00205,Employee,Satisfaction,2,2023-12-07
+S00594,C03941,Customer,Satisfaction,1,2025-03-11
+S00595,E00192,Employee,Satisfaction,3,2023-12-30
+S00596,E00053,Customer,Experience,1,2024-06-01
+S00597,C00319,Employee,Satisfaction,4,2025-03-11
+S00598,E00236,Customer,Experience,4,2025-02-23
+S00599,C02481,Employee,Experience,1,2024-09-24
+S00600,E00347,Customer,Support,4,2024-02-22
+S00601,E00062,Employee,Support,1,2025-04-14
+S00602,E00309,Customer,Support,1,2024-08-11
+S00603,E00051,Employee,Support,5,2025-07-30
+S00604,C02766,Employee,Satisfaction,5,2024-10-29
+S00605,C03106,Employee,Experience,2,2023-10-23
+S00606,E00430,Customer,Net Promoter Score,1,2024-01-18
+S00607,E00020,Customer,Experience,1,2024-11-25
+S00608,E00024,Customer,Experience,2,2025-01-29
+S00609,C00163,Customer,Satisfaction,2,2024-09-02
+S00610,C01903,Customer,Net Promoter Score,4,2024-09-30
+S00611,C04402,Employee,Net Promoter Score,1,2025-07-26
+S00612,E00424,Employee,Support,3,2023-12-17
+S00613,E00116,Customer,Net Promoter Score,5,2025-05-25
+S00614,E00180,Employee,Net Promoter Score,1,2025-06-18
+S00615,C03792,Employee,Satisfaction,2,2024-08-30
+S00616,E00197,Employee,Satisfaction,3,2024-05-15
+S00617,C04477,Employee,Support,4,2024-06-20
+S00618,C03617,Customer,Support,4,2025-03-24
+S00619,E00186,Employee,Support,3,2025-04-19
+S00620,C04416,Customer,Satisfaction,5,2025-05-15
+S00621,C03139,Employee,Support,4,2024-07-10
+S00622,E00225,Customer,Net Promoter Score,4,2024-04-03
+S00623,E00084,Employee,Support,4,2023-10-12
+S00624,E00054,Employee,Satisfaction,1,2025-03-05
+S00625,E00087,Customer,Net Promoter Score,5,2024-08-20
+S00626,C02605,Employee,Satisfaction,2,2024-11-07
+S00627,E00225,Employee,Experience,3,2025-09-02
+S00628,C04615,Customer,Net Promoter Score,1,2024-12-15
+S00629,E00083,Employee,Satisfaction,4,2025-03-17
+S00630,E00100,Customer,Support,2,2024-11-02
+S00631,C01019,Customer,Experience,3,2024-02-14
+S00632,E00012,Customer,Net Promoter Score,3,2024-10-25
+S00633,E00147,Customer,Support,3,2024-06-07
+S00634,C01359,Customer,Satisfaction,1,2025-07-14
+S00635,E00341,Employee,Net Promoter Score,3,2024-08-08
+S00636,C03752,Employee,Support,4,2023-11-11
+S00637,E00358,Employee,Experience,5,2024-07-02
+S00638,C01338,Employee,Net Promoter Score,2,2024-08-23
+S00639,C04445,Customer,Support,2,2024-04-30
+S00640,E00366,Employee,Satisfaction,3,2024-06-26
+S00641,E00446,Employee,Net Promoter Score,5,2024-12-28
+S00642,E00109,Employee,Net Promoter Score,4,2024-10-16
+S00643,C03006,Employee,Support,5,2024-09-06
+S00644,C00414,Employee,Satisfaction,4,2024-11-06
+S00645,E00328,Employee,Satisfaction,4,2025-07-16
+S00646,E00493,Customer,Support,3,2024-08-30
+S00647,C03416,Customer,Support,1,2024-08-12
+S00648,E00309,Employee,Experience,5,2025-05-09
+S00649,C00950,Employee,Support,5,2024-07-01
+S00650,C01696,Employee,Support,4,2024-09-03
+S00651,C01257,Employee,Satisfaction,2,2023-12-18
+S00652,E00332,Employee,Support,4,2024-06-09
+S00653,E00020,Customer,Satisfaction,4,2024-12-18
+S00654,E00114,Employee,Satisfaction,1,2024-05-21
+S00655,E00323,Customer,Satisfaction,2,2024-10-10
+S00656,E00425,Employee,Net Promoter Score,5,2024-03-21
+S00657,C00820,Employee,Experience,2,2024-08-24
+S00658,C03062,Customer,Net Promoter Score,1,2024-02-23
+S00659,E00394,Employee,Experience,4,2024-12-20
+S00660,C04298,Employee,Support,1,2024-07-18
+S00661,C03936,Employee,Satisfaction,1,2025-08-19
+S00662,C02720,Employee,Satisfaction,2,2024-02-08
+S00663,E00486,Employee,Experience,5,2025-04-16
+S00664,E00303,Customer,Net Promoter Score,1,2024-06-05
+S00665,C01533,Customer,Net Promoter Score,3,2024-04-28
+S00666,E00113,Customer,Net Promoter Score,2,2024-09-26
+S00667,C01186,Customer,Net Promoter Score,2,2024-10-31
+S00668,E00269,Customer,Support,2,2025-03-14
+S00669,C04508,Employee,Net Promoter Score,1,2024-11-04
+S00670,E00034,Employee,Experience,2,2024-03-26
+S00671,E00037,Customer,Support,2,2024-04-04
+S00672,E00254,Customer,Satisfaction,3,2023-10-28
+S00673,C00164,Customer,Experience,3,2024-02-07
+S00674,C03914,Employee,Net Promoter Score,4,2024-11-02
+S00675,E00436,Customer,Experience,3,2024-01-08
+S00676,C01513,Employee,Support,1,2023-12-11
+S00677,E00246,Employee,Experience,5,2024-02-17
+S00678,E00231,Employee,Satisfaction,4,2023-12-02
+S00679,E00456,Employee,Net Promoter Score,2,2025-01-17
+S00680,E00035,Employee,Support,5,2025-03-07
+S00681,C04280,Employee,Satisfaction,1,2024-08-16
+S00682,E00285,Employee,Support,5,2024-07-02
+S00683,C00131,Employee,Net Promoter Score,4,2024-10-05
+S00684,C00137,Employee,Support,1,2024-12-19
+S00685,E00457,Employee,Satisfaction,5,2024-08-31
+S00686,E00267,Employee,Net Promoter Score,5,2024-10-10
+S00687,E00339,Customer,Support,1,2024-01-11
+S00688,E00208,Employee,Satisfaction,4,2024-01-28
+S00689,E00044,Customer,Experience,4,2025-08-02
+S00690,E00433,Employee,Support,3,2025-08-13
+S00691,C04947,Employee,Experience,3,2024-03-07
+S00692,C00339,Customer,Net Promoter Score,4,2025-09-29
+S00693,E00027,Employee,Support,4,2024-12-01
+S00694,E00484,Customer,Experience,3,2024-01-09
+S00695,C01622,Employee,Satisfaction,4,2024-10-19
+S00696,E00289,Customer,Support,5,2024-12-14
+S00697,E00125,Employee,Satisfaction,5,2025-05-26
+S00698,E00468,Employee,Satisfaction,1,2024-05-08
+S00699,E00407,Customer,Experience,5,2024-01-20
+S00700,C00614,Employee,Experience,3,2024-02-10
+S00701,E00482,Customer,Support,3,2024-08-15
+S00702,E00052,Customer,Experience,3,2025-04-12
+S00703,C02589,Employee,Support,5,2025-08-06
+S00704,E00283,Customer,Experience,5,2023-11-16
+S00705,C03791,Customer,Support,2,2024-01-25
+S00706,C01999,Customer,Net Promoter Score,3,2024-06-20
+S00707,E00021,Employee,Net Promoter Score,1,2024-02-25
+S00708,E00450,Employee,Experience,3,2025-08-27
+S00709,E00154,Employee,Experience,3,2023-10-13
+S00710,C01705,Employee,Experience,4,2023-10-12
+S00711,C04713,Employee,Experience,2,2025-04-24
+S00712,C00979,Employee,Support,1,2024-07-27
+S00713,C02908,Customer,Net Promoter Score,4,2024-05-06
+S00714,C03235,Employee,Experience,5,2024-03-29
+S00715,E00179,Employee,Experience,2,2024-12-29
+S00716,E00077,Employee,Net Promoter Score,3,2025-06-02
+S00717,C00708,Employee,Satisfaction,5,2025-03-25
+S00718,E00397,Customer,Satisfaction,4,2025-05-30
+S00719,E00078,Customer,Support,5,2024-08-27
+S00720,C00937,Employee,Satisfaction,3,2025-08-14
+S00721,C00073,Employee,Experience,2,2023-11-16
+S00722,E00136,Employee,Net Promoter Score,4,2025-06-17
+S00723,E00256,Customer,Experience,5,2024-02-06
+S00724,E00069,Customer,Satisfaction,3,2024-11-13
+S00725,E00165,Employee,Experience,4,2024-10-21
+S00726,E00487,Employee,Satisfaction,3,2023-10-31
+S00727,C02996,Employee,Support,3,2025-03-06
+S00728,E00456,Employee,Net Promoter Score,5,2024-05-25
+S00729,C02043,Customer,Experience,3,2024-12-18
+S00730,E00110,Customer,Support,1,2024-12-04
+S00731,E00125,Employee,Experience,4,2025-07-02
+S00732,E00019,Employee,Support,1,2025-06-24
+S00733,E00253,Customer,Satisfaction,2,2024-06-06
+S00734,C04658,Employee,Support,2,2025-03-31
+S00735,C04150,Employee,Experience,3,2024-07-14
+S00736,C02234,Customer,Support,3,2024-11-21
+S00737,C02945,Customer,Satisfaction,4,2023-12-26
+S00738,C00664,Employee,Experience,5,2025-04-29
+S00739,E00038,Employee,Experience,5,2025-06-25
+S00740,E00451,Customer,Experience,2,2023-11-15
+S00741,E00254,Employee,Support,5,2023-10-29
+S00742,E00071,Employee,Support,4,2024-08-21
+S00743,E00291,Customer,Experience,5,2024-10-12
+S00744,C03910,Customer,Experience,3,2023-10-16
+S00745,C00884,Customer,Net Promoter Score,4,2024-03-10
+S00746,C02189,Customer,Net Promoter Score,4,2024-10-17
+S00747,E00372,Customer,Experience,2,2024-06-16
+S00748,E00478,Customer,Satisfaction,4,2024-12-19
+S00749,E00043,Employee,Net Promoter Score,1,2023-12-29
+S00750,E00123,Customer,Satisfaction,3,2025-09-16
+S00751,E00140,Customer,Satisfaction,2,2024-11-09
+S00752,C00879,Customer,Support,3,2025-04-27
+S00753,C04878,Employee,Satisfaction,1,2024-11-14
+S00754,C02197,Employee,Net Promoter Score,5,2025-07-07
+S00755,C03947,Employee,Net Promoter Score,4,2025-01-09
+S00756,E00244,Customer,Support,2,2025-01-28
+S00757,C02873,Employee,Support,2,2024-08-11
+S00758,E00220,Employee,Experience,5,2024-12-17
+S00759,C04545,Customer,Satisfaction,5,2024-10-20
+S00760,C00239,Employee,Satisfaction,1,2025-09-20
+S00761,C02071,Customer,Satisfaction,2,2024-04-10
+S00762,C04257,Employee,Satisfaction,5,2025-05-20
+S00763,C04285,Customer,Satisfaction,5,2025-04-23
+S00764,C02066,Employee,Experience,2,2024-08-10
+S00765,E00183,Customer,Net Promoter Score,3,2025-05-08
+S00766,C00834,Customer,Experience,3,2024-01-09
+S00767,E00112,Customer,Satisfaction,1,2023-12-18
+S00768,E00184,Employee,Net Promoter Score,4,2025-01-02
+S00769,E00395,Employee,Net Promoter Score,1,2025-02-03
+S00770,C00759,Employee,Experience,3,2025-06-23
+S00771,C01039,Customer,Experience,3,2024-09-19
+S00772,E00005,Customer,Support,5,2025-04-24
+S00773,E00298,Employee,Satisfaction,4,2024-09-18
+S00774,E00213,Customer,Experience,3,2025-03-23
+S00775,E00360,Customer,Support,4,2025-04-27
+S00776,E00370,Customer,Net Promoter Score,2,2025-03-04
+S00777,C01856,Employee,Experience,2,2025-04-07
+S00778,E00335,Customer,Satisfaction,5,2024-03-23
+S00779,C02699,Employee,Net Promoter Score,4,2025-09-21
+S00780,C01433,Employee,Support,5,2024-07-05
+S00781,E00174,Customer,Net Promoter Score,1,2024-11-18
+S00782,E00167,Customer,Net Promoter Score,2,2023-11-14
+S00783,E00462,Customer,Satisfaction,3,2025-04-27
+S00784,E00208,Customer,Support,5,2025-02-21
+S00785,E00299,Employee,Satisfaction,4,2024-06-14
+S00786,E00130,Employee,Net Promoter Score,2,2024-07-31
+S00787,C03514,Customer,Net Promoter Score,1,2025-06-11
+S00788,E00500,Employee,Support,4,2024-12-22
+S00789,E00427,Employee,Experience,5,2024-09-25
+S00790,E00291,Customer,Experience,1,2024-12-13
+S00791,C03672,Customer,Net Promoter Score,5,2025-03-09
+S00792,E00320,Customer,Satisfaction,3,2025-06-09
+S00793,C04941,Employee,Satisfaction,3,2023-11-01
+S00794,E00316,Customer,Satisfaction,3,2025-01-01
+S00795,E00066,Employee,Support,5,2024-07-20
+S00796,E00432,Employee,Experience,4,2024-02-20
+S00797,E00007,Customer,Support,5,2025-06-28
+S00798,E00385,Employee,Satisfaction,2,2024-02-04
+S00799,E00485,Customer,Net Promoter Score,4,2024-06-18
+S00800,C04912,Customer,Experience,4,2025-07-03
+S00801,C04179,Employee,Satisfaction,4,2024-11-26
+S00802,C01516,Employee,Support,2,2025-01-16
+S00803,E00189,Employee,Satisfaction,3,2024-05-16
+S00804,E00259,Employee,Net Promoter Score,5,2024-05-04
+S00805,C00727,Customer,Satisfaction,2,2024-12-19
+S00806,C02158,Customer,Net Promoter Score,2,2025-09-30
+S00807,E00453,Employee,Experience,5,2025-08-18
+S00808,C00829,Customer,Net Promoter Score,5,2024-04-02
+S00809,E00422,Customer,Experience,1,2023-11-15
+S00810,E00122,Customer,Support,5,2024-08-19
+S00811,E00363,Customer,Experience,5,2025-07-12
+S00812,E00001,Employee,Support,3,2025-06-21
+S00813,E00377,Employee,Net Promoter Score,4,2025-08-29
+S00814,C02880,Customer,Satisfaction,5,2025-01-24
+S00815,E00018,Customer,Net Promoter Score,5,2025-07-14
+S00816,E00467,Customer,Net Promoter Score,3,2023-11-04
+S00817,E00317,Customer,Net Promoter Score,2,2024-02-23
+S00818,E00194,Employee,Net Promoter Score,5,2024-07-29
+S00819,E00160,Customer,Net Promoter Score,3,2024-06-21
+S00820,E00462,Employee,Experience,2,2025-05-08
+S00821,E00092,Customer,Net Promoter Score,3,2023-10-19
+S00822,C02712,Customer,Net Promoter Score,3,2025-03-07
+S00823,C04766,Customer,Experience,2,2023-10-13
+S00824,E00192,Employee,Experience,1,2024-03-12
+S00825,E00183,Customer,Net Promoter Score,4,2023-11-26
+S00826,C03919,Customer,Satisfaction,5,2024-09-17
+S00827,C02080,Employee,Net Promoter Score,2,2023-10-25
+S00828,E00179,Employee,Experience,4,2025-02-10
+S00829,C03999,Customer,Experience,5,2025-08-06
+S00830,E00036,Employee,Net Promoter Score,3,2024-03-23
+S00831,C00992,Customer,Experience,3,2024-10-07
+S00832,C01108,Employee,Net Promoter Score,1,2025-09-01
+S00833,C03887,Employee,Support,1,2025-03-15
+S00834,E00245,Employee,Net Promoter Score,2,2025-02-23
+S00835,E00194,Employee,Experience,4,2025-07-01
+S00836,E00254,Employee,Satisfaction,3,2023-11-16
+S00837,C04321,Employee,Net Promoter Score,3,2024-01-31
+S00838,C01772,Employee,Satisfaction,1,2023-10-10
+S00839,C00466,Customer,Net Promoter Score,4,2025-04-14
+S00840,C03726,Customer,Net Promoter Score,3,2025-06-24
+S00841,C03934,Customer,Support,4,2023-11-09
+S00842,E00466,Customer,Satisfaction,3,2024-08-02
+S00843,E00391,Customer,Experience,3,2024-12-17
+S00844,E00091,Customer,Net Promoter Score,3,2025-09-21
+S00845,E00362,Employee,Satisfaction,2,2023-12-23
+S00846,C04737,Employee,Experience,3,2025-09-15
+S00847,E00460,Customer,Satisfaction,1,2025-06-10
+S00848,C03146,Customer,Net Promoter Score,3,2025-01-30
+S00849,C03372,Customer,Experience,1,2024-09-25
+S00850,C00144,Employee,Net Promoter Score,2,2024-10-04
+S00851,C03938,Customer,Experience,5,2025-07-24
+S00852,C01235,Employee,Experience,3,2024-10-01
+S00853,C04273,Employee,Support,5,2024-04-07
+S00854,E00328,Employee,Net Promoter Score,3,2025-06-27
+S00855,C02398,Employee,Experience,4,2024-04-05
+S00856,E00070,Employee,Net Promoter Score,3,2024-10-13
+S00857,E00486,Customer,Experience,1,2024-04-06
+S00858,C02905,Employee,Experience,5,2023-10-11
+S00859,C00837,Employee,Net Promoter Score,1,2024-07-26
+S00860,E00354,Employee,Experience,1,2024-11-15
+S00861,C03187,Customer,Support,1,2023-11-18
+S00862,C04813,Employee,Support,5,2025-01-28
+S00863,C01761,Customer,Experience,4,2023-10-05
+S00864,E00276,Customer,Experience,1,2025-04-10
+S00865,C03611,Employee,Experience,2,2025-02-19
+S00866,C04518,Customer,Support,5,2024-09-03
+S00867,E00258,Customer,Satisfaction,3,2024-06-15
+S00868,C01681,Customer,Net Promoter Score,2,2023-11-28
+S00869,E00128,Customer,Satisfaction,1,2024-10-21
+S00870,C02868,Customer,Net Promoter Score,2,2024-10-01
+S00871,E00234,Customer,Net Promoter Score,1,2025-05-09
+S00872,E00097,Employee,Experience,4,2025-06-04
+S00873,C00182,Employee,Net Promoter Score,4,2024-02-19
+S00874,E00032,Employee,Experience,3,2023-10-22
+S00875,C03122,Employee,Experience,1,2024-09-10
+S00876,E00240,Employee,Net Promoter Score,1,2024-12-21
+S00877,C02605,Customer,Experience,1,2025-05-17
+S00878,E00479,Employee,Support,5,2025-06-08
+S00879,C00165,Employee,Experience,4,2024-03-27
+S00880,E00281,Employee,Satisfaction,5,2024-12-17
+S00881,C02968,Customer,Support,4,2025-01-24
+S00882,E00449,Customer,Experience,5,2024-12-10
+S00883,C02624,Employee,Satisfaction,2,2024-11-13
+S00884,C02522,Employee,Net Promoter Score,3,2023-10-19
+S00885,C00446,Employee,Support,5,2024-03-29
+S00886,E00144,Customer,Satisfaction,1,2025-03-04
+S00887,E00033,Customer,Support,1,2024-11-14
+S00888,E00436,Employee,Support,3,2025-07-26
+S00889,C03807,Employee,Support,5,2024-03-21
+S00890,E00367,Customer,Satisfaction,2,2025-10-01
+S00891,E00203,Customer,Support,3,2025-05-09
+S00892,C02632,Employee,Experience,4,2025-03-03
+S00893,C00319,Employee,Experience,5,2024-12-09
+S00894,E00372,Customer,Satisfaction,1,2024-03-26
+S00895,C03023,Customer,Experience,1,2025-07-18
+S00896,C04591,Employee,Satisfaction,5,2024-12-13
+S00897,E00045,Customer,Net Promoter Score,4,2025-07-11
+S00898,E00410,Employee,Support,5,2024-05-18
+S00899,C04564,Employee,Net Promoter Score,2,2024-04-25
+S00900,E00164,Employee,Experience,5,2024-08-18
+S00901,E00266,Customer,Net Promoter Score,5,2024-05-16
+S00902,C02951,Employee,Experience,2,2025-04-20
+S00903,E00167,Employee,Experience,2,2024-07-22
+S00904,E00107,Customer,Experience,4,2023-10-13
+S00905,C01457,Employee,Experience,5,2024-07-02
+S00906,E00304,Employee,Support,5,2023-12-27
+S00907,C03066,Employee,Support,5,2025-05-15
+S00908,C03973,Customer,Net Promoter Score,5,2024-03-19
+S00909,E00384,Customer,Satisfaction,2,2024-08-08
+S00910,E00456,Employee,Net Promoter Score,4,2024-06-20
+S00911,E00406,Employee,Support,3,2025-09-10
+S00912,C01411,Customer,Satisfaction,1,2024-09-02
+S00913,E00346,Employee,Net Promoter Score,5,2025-08-29
+S00914,E00259,Customer,Satisfaction,4,2024-08-15
+S00915,E00377,Customer,Satisfaction,1,2025-07-19
+S00916,C02349,Employee,Support,3,2025-03-26
+S00917,C04040,Customer,Support,5,2024-09-24
+S00918,E00351,Employee,Satisfaction,5,2025-01-05
+S00919,C03368,Employee,Net Promoter Score,5,2025-03-29
+S00920,C02675,Customer,Support,2,2025-02-24
+S00921,C01022,Customer,Experience,4,2025-02-15
+S00922,C01742,Employee,Satisfaction,1,2024-08-22
+S00923,C01349,Customer,Experience,1,2025-06-30
+S00924,E00173,Employee,Experience,3,2024-01-23
+S00925,E00381,Customer,Support,2,2024-05-24
+S00926,E00339,Employee,Net Promoter Score,5,2023-12-24
+S00927,E00015,Employee,Experience,1,2024-06-08
+S00928,C03037,Employee,Net Promoter Score,3,2023-12-03
+S00929,E00356,Employee,Experience,2,2025-01-24
+S00930,E00117,Customer,Net Promoter Score,4,2025-07-03
+S00931,E00460,Employee,Net Promoter Score,4,2025-09-30
+S00932,E00288,Customer,Net Promoter Score,4,2025-01-16
+S00933,E00095,Employee,Satisfaction,3,2024-10-16
+S00934,C03195,Customer,Support,2,2025-09-22
+S00935,E00195,Customer,Experience,4,2023-12-01
+S00936,E00404,Employee,Satisfaction,3,2023-12-10
+S00937,E00486,Employee,Experience,2,2024-09-25
+S00938,E00007,Employee,Support,4,2023-12-05
+S00939,E00183,Employee,Net Promoter Score,5,2024-06-20
+S00940,E00186,Customer,Support,1,2024-07-15
+S00941,E00104,Customer,Net Promoter Score,4,2024-02-17
+S00942,C00453,Employee,Support,1,2023-10-13
+S00943,C04451,Employee,Support,1,2024-03-03
+S00944,C00345,Customer,Experience,2,2024-03-30
+S00945,C03104,Employee,Support,5,2025-04-27
+S00946,C02727,Customer,Support,5,2024-03-11
+S00947,E00019,Employee,Satisfaction,4,2024-08-18
+S00948,E00490,Customer,Net Promoter Score,4,2024-03-25
+S00949,E00088,Customer,Satisfaction,5,2025-01-22
+S00950,C01013,Employee,Support,3,2024-07-31
+S00951,C00888,Customer,Net Promoter Score,2,2025-07-14
+S00952,C04436,Customer,Net Promoter Score,4,2024-08-09
+S00953,C04243,Employee,Satisfaction,5,2025-05-13
+S00954,C02965,Employee,Net Promoter Score,4,2024-05-04
+S00955,E00232,Customer,Support,5,2024-06-02
+S00956,C03577,Customer,Support,5,2025-07-07
+S00957,E00204,Employee,Net Promoter Score,5,2024-11-26
+S00958,E00433,Employee,Experience,2,2025-04-16
+S00959,C03550,Employee,Satisfaction,2,2024-05-05
+S00960,C02715,Employee,Experience,2,2025-06-11
+S00961,C02935,Customer,Support,4,2025-08-18
+S00962,E00239,Customer,Experience,2,2024-04-10
+S00963,C01381,Customer,Experience,3,2025-05-27
+S00964,C02451,Customer,Experience,3,2025-05-17
+S00965,C03991,Employee,Net Promoter Score,3,2025-03-24
+S00966,C04608,Customer,Experience,1,2025-08-07
+S00967,E00376,Customer,Experience,1,2025-04-02
+S00968,E00156,Customer,Net Promoter Score,4,2025-04-27
+S00969,C04053,Customer,Experience,2,2024-08-21
+S00970,E00412,Employee,Net Promoter Score,2,2025-06-09
+S00971,E00440,Customer,Support,3,2024-07-05
+S00972,E00296,Employee,Satisfaction,1,2024-10-06
+S00973,E00216,Employee,Support,4,2024-09-13
+S00974,E00345,Customer,Satisfaction,3,2024-08-27
+S00975,E00396,Customer,Net Promoter Score,1,2025-04-26
+S00976,C04326,Employee,Satisfaction,1,2025-06-29
+S00977,C01244,Employee,Net Promoter Score,4,2025-09-22
+S00978,E00178,Customer,Net Promoter Score,2,2024-03-09
+S00979,E00380,Employee,Net Promoter Score,2,2023-11-16
+S00980,E00132,Employee,Support,4,2024-06-10
+S00981,E00400,Employee,Support,5,2025-05-19
+S00982,C00829,Employee,Support,2,2024-01-29
+S00983,C00175,Employee,Experience,2,2024-01-09
+S00984,E00449,Employee,Net Promoter Score,5,2024-03-15
+S00985,E00382,Customer,Satisfaction,4,2025-02-20
+S00986,E00065,Customer,Satisfaction,3,2024-04-03
+S00987,E00392,Customer,Experience,5,2024-02-29
+S00988,E00400,Customer,Experience,2,2024-06-14
+S00989,C03025,Customer,Satisfaction,3,2025-06-28
+S00990,E00370,Customer,Net Promoter Score,5,2023-10-09
+S00991,C04850,Employee,Experience,1,2023-10-22
+S00992,E00145,Employee,Experience,2,2024-03-25
+S00993,E00430,Employee,Satisfaction,4,2024-04-21
+S00994,C02394,Employee,Experience,1,2023-11-11
+S00995,C01951,Customer,Experience,2,2024-11-02
+S00996,C01486,Customer,Net Promoter Score,4,2025-08-18
+S00997,E00205,Employee,Net Promoter Score,1,2024-03-12
+S00998,E00228,Customer,Experience,5,2024-02-08
+S00999,C01819,Employee,Satisfaction,2,2025-04-25
+S01000,E00201,Customer,Satisfaction,1,2024-01-12

@@ -1,0 +1,501 @@
+request_id,department,item,quantity,date_submitted,status
+PR00001,Operations,Laptop,31,2025-09-18,Rejected
+PR00002,Operations,Furniture,40,2025-06-02,Approved
+PR00003,Finance,Laptop,37,2024-09-30,Rejected
+PR00004,IT,Phone,40,2024-10-27,Pending
+PR00005,IT,Software License,37,2024-01-11,Rejected
+PR00006,Finance,Furniture,4,2024-07-14,Approved
+PR00007,IT,Phone,25,2025-09-13,Rejected
+PR00008,Finance,Software License,44,2025-08-20,Pending
+PR00009,HR,Laptop,21,2025-05-22,Pending
+PR00010,HR,Laptop,12,2024-05-08,Pending
+PR00011,IT,Furniture,1,2025-09-09,Rejected
+PR00012,Finance,Software License,44,2024-09-22,Pending
+PR00013,IT,Software License,26,2024-10-29,Rejected
+PR00014,HR,Phone,15,2025-07-17,Approved
+PR00015,Finance,Laptop,7,2024-11-19,Pending
+PR00016,Operations,Phone,37,2025-04-10,Pending
+PR00017,Finance,Phone,14,2023-11-28,Pending
+PR00018,Finance,Laptop,25,2023-11-26,Approved
+PR00019,Finance,Laptop,27,2025-01-23,Pending
+PR00020,IT,Software License,43,2025-08-04,Pending
+PR00021,IT,Software License,28,2025-04-25,Pending
+PR00022,Finance,Phone,39,2025-08-21,Approved
+PR00023,IT,Laptop,32,2023-11-25,Rejected
+PR00024,Finance,Software License,1,2024-10-29,Rejected
+PR00025,HR,Laptop,36,2025-07-06,Approved
+PR00026,Finance,Phone,39,2023-11-29,Pending
+PR00027,HR,Phone,22,2024-11-03,Rejected
+PR00028,HR,Furniture,14,2025-07-07,Approved
+PR00029,HR,Furniture,46,2024-07-10,Pending
+PR00030,Finance,Phone,45,2025-06-09,Rejected
+PR00031,Operations,Laptop,35,2024-11-25,Pending
+PR00032,IT,Laptop,29,2025-06-28,Approved
+PR00033,Operations,Furniture,17,2023-11-15,Rejected
+PR00034,Finance,Laptop,40,2025-07-03,Pending
+PR00035,Operations,Software License,7,2024-04-19,Pending
+PR00036,HR,Laptop,49,2023-10-18,Pending
+PR00037,Operations,Laptop,33,2025-01-30,Approved
+PR00038,Operations,Laptop,49,2024-01-26,Pending
+PR00039,Finance,Phone,4,2025-09-10,Rejected
+PR00040,IT,Phone,17,2025-07-08,Rejected
+PR00041,IT,Laptop,32,2025-08-02,Approved
+PR00042,HR,Furniture,45,2024-05-07,Rejected
+PR00043,IT,Phone,12,2025-05-17,Pending
+PR00044,Operations,Phone,24,2025-02-05,Approved
+PR00045,HR,Laptop,15,2024-08-21,Pending
+PR00046,IT,Software License,40,2023-10-09,Approved
+PR00047,HR,Furniture,9,2024-12-12,Rejected
+PR00048,Operations,Furniture,16,2025-07-31,Approved
+PR00049,Operations,Software License,37,2025-01-17,Rejected
+PR00050,HR,Laptop,1,2025-09-26,Pending
+PR00051,Finance,Furniture,8,2025-05-15,Rejected
+PR00052,Operations,Phone,36,2024-05-06,Rejected
+PR00053,HR,Laptop,38,2025-06-11,Rejected
+PR00054,HR,Software License,26,2023-12-07,Approved
+PR00055,IT,Phone,42,2024-05-07,Rejected
+PR00056,IT,Laptop,30,2025-09-19,Rejected
+PR00057,Finance,Software License,44,2023-10-25,Approved
+PR00058,HR,Laptop,49,2025-08-08,Rejected
+PR00059,IT,Furniture,40,2025-01-19,Approved
+PR00060,Operations,Laptop,42,2025-04-25,Rejected
+PR00061,Finance,Furniture,9,2025-02-20,Approved
+PR00062,Operations,Phone,45,2024-11-05,Approved
+PR00063,Finance,Laptop,49,2024-07-11,Pending
+PR00064,IT,Phone,32,2025-03-24,Approved
+PR00065,Operations,Furniture,6,2023-12-10,Pending
+PR00066,Finance,Furniture,3,2024-03-05,Approved
+PR00067,Operations,Software License,37,2024-10-02,Rejected
+PR00068,IT,Furniture,37,2025-08-15,Approved
+PR00069,Finance,Software License,5,2025-03-03,Pending
+PR00070,IT,Furniture,1,2024-09-12,Pending
+PR00071,IT,Furniture,14,2024-08-14,Pending
+PR00072,HR,Laptop,9,2023-10-27,Approved
+PR00073,HR,Software License,40,2025-03-07,Approved
+PR00074,IT,Software License,17,2025-02-14,Approved
+PR00075,IT,Software License,37,2024-02-11,Approved
+PR00076,HR,Software License,31,2025-05-01,Approved
+PR00077,IT,Software License,25,2023-11-02,Pending
+PR00078,Operations,Phone,31,2024-08-28,Rejected
+PR00079,Finance,Software License,50,2025-02-01,Rejected
+PR00080,Finance,Phone,44,2024-12-28,Pending
+PR00081,Finance,Phone,8,2024-06-17,Pending
+PR00082,IT,Software License,50,2024-07-14,Approved
+PR00083,IT,Furniture,41,2025-09-04,Rejected
+PR00084,Finance,Furniture,49,2024-01-23,Pending
+PR00085,HR,Phone,37,2025-03-11,Approved
+PR00086,HR,Laptop,23,2025-01-12,Pending
+PR00087,Finance,Laptop,35,2024-08-20,Pending
+PR00088,Operations,Software License,40,2025-04-30,Rejected
+PR00089,IT,Furniture,38,2023-12-10,Approved
+PR00090,HR,Phone,29,2024-12-30,Pending
+PR00091,HR,Phone,18,2025-04-07,Pending
+PR00092,IT,Software License,42,2024-08-04,Approved
+PR00093,Operations,Furniture,7,2024-03-23,Rejected
+PR00094,Operations,Phone,48,2024-05-11,Rejected
+PR00095,Finance,Laptop,4,2025-06-05,Approved
+PR00096,HR,Furniture,15,2025-05-22,Pending
+PR00097,IT,Laptop,48,2024-08-23,Rejected
+PR00098,Operations,Software License,30,2025-07-03,Rejected
+PR00099,Operations,Furniture,29,2023-12-24,Rejected
+PR00100,IT,Phone,30,2024-12-18,Rejected
+PR00101,Finance,Software License,16,2025-07-13,Rejected
+PR00102,IT,Laptop,24,2024-03-03,Approved
+PR00103,IT,Phone,36,2024-10-31,Approved
+PR00104,IT,Laptop,8,2025-06-02,Rejected
+PR00105,Operations,Software License,49,2024-03-31,Approved
+PR00106,HR,Software License,42,2023-12-01,Pending
+PR00107,Finance,Phone,45,2024-12-03,Rejected
+PR00108,HR,Furniture,4,2024-11-17,Rejected
+PR00109,HR,Laptop,33,2025-01-25,Pending
+PR00110,Finance,Software License,23,2024-03-20,Approved
+PR00111,IT,Software License,38,2023-12-28,Pending
+PR00112,Finance,Furniture,9,2025-07-16,Approved
+PR00113,Finance,Software License,17,2024-11-07,Pending
+PR00114,Operations,Phone,5,2023-12-12,Approved
+PR00115,HR,Phone,7,2024-02-28,Rejected
+PR00116,IT,Furniture,30,2025-08-19,Rejected
+PR00117,Operations,Phone,17,2023-12-27,Rejected
+PR00118,Finance,Phone,47,2025-06-18,Pending
+PR00119,Finance,Software License,35,2024-12-15,Rejected
+PR00120,Finance,Software License,27,2025-09-20,Approved
+PR00121,HR,Software License,29,2024-07-27,Pending
+PR00122,HR,Furniture,7,2025-08-28,Pending
+PR00123,Finance,Phone,16,2025-09-11,Rejected
+PR00124,Finance,Phone,6,2025-07-08,Pending
+PR00125,Operations,Laptop,39,2024-02-22,Pending
+PR00126,IT,Laptop,43,2025-05-26,Approved
+PR00127,IT,Furniture,15,2024-04-25,Rejected
+PR00128,IT,Furniture,21,2024-06-20,Pending
+PR00129,IT,Software License,43,2025-08-02,Approved
+PR00130,HR,Furniture,27,2025-06-25,Pending
+PR00131,HR,Laptop,42,2024-05-26,Rejected
+PR00132,Operations,Laptop,9,2024-10-13,Pending
+PR00133,Operations,Phone,1,2023-11-19,Approved
+PR00134,Operations,Software License,6,2025-01-19,Rejected
+PR00135,Operations,Phone,27,2025-08-13,Approved
+PR00136,IT,Phone,25,2024-12-30,Pending
+PR00137,Finance,Laptop,22,2024-12-14,Rejected
+PR00138,Finance,Phone,40,2023-12-30,Rejected
+PR00139,Operations,Laptop,28,2024-06-20,Pending
+PR00140,Finance,Furniture,30,2024-03-10,Rejected
+PR00141,Operations,Laptop,44,2025-09-13,Pending
+PR00142,HR,Laptop,39,2023-12-02,Pending
+PR00143,HR,Laptop,35,2025-06-23,Approved
+PR00144,Finance,Laptop,32,2023-10-25,Approved
+PR00145,IT,Phone,8,2024-06-26,Rejected
+PR00146,IT,Software License,7,2024-11-04,Approved
+PR00147,HR,Phone,11,2024-04-23,Rejected
+PR00148,Operations,Laptop,47,2023-12-21,Pending
+PR00149,HR,Laptop,32,2025-07-16,Pending
+PR00150,Operations,Software License,50,2025-05-15,Approved
+PR00151,IT,Phone,47,2025-04-17,Pending
+PR00152,Operations,Furniture,2,2025-07-03,Pending
+PR00153,Operations,Phone,15,2024-04-25,Approved
+PR00154,HR,Furniture,44,2025-05-20,Pending
+PR00155,Finance,Furniture,3,2024-09-22,Pending
+PR00156,Finance,Software License,42,2025-01-07,Pending
+PR00157,HR,Laptop,38,2025-05-27,Approved
+PR00158,Finance,Furniture,22,2023-10-28,Rejected
+PR00159,HR,Laptop,19,2024-01-30,Approved
+PR00160,Finance,Software License,24,2024-08-12,Rejected
+PR00161,Operations,Software License,46,2024-06-14,Approved
+PR00162,Finance,Software License,45,2025-06-27,Pending
+PR00163,Operations,Laptop,15,2023-10-15,Pending
+PR00164,IT,Software License,15,2025-02-10,Approved
+PR00165,IT,Software License,49,2025-01-02,Pending
+PR00166,HR,Furniture,36,2024-09-12,Pending
+PR00167,Operations,Software License,12,2024-12-27,Rejected
+PR00168,Operations,Software License,13,2023-10-11,Pending
+PR00169,HR,Software License,25,2025-06-25,Approved
+PR00170,Operations,Furniture,11,2024-10-21,Rejected
+PR00171,IT,Phone,10,2023-12-18,Approved
+PR00172,Finance,Software License,23,2024-09-01,Approved
+PR00173,HR,Laptop,10,2024-11-16,Pending
+PR00174,Operations,Laptop,9,2023-12-28,Pending
+PR00175,Finance,Laptop,4,2024-08-14,Pending
+PR00176,Finance,Software License,40,2024-09-16,Rejected
+PR00177,IT,Laptop,26,2024-05-14,Approved
+PR00178,IT,Software License,23,2024-09-16,Rejected
+PR00179,Operations,Laptop,1,2023-11-20,Rejected
+PR00180,IT,Software License,5,2024-02-26,Rejected
+PR00181,HR,Phone,10,2024-02-10,Pending
+PR00182,IT,Furniture,34,2025-04-18,Rejected
+PR00183,IT,Phone,50,2023-12-23,Rejected
+PR00184,Operations,Phone,35,2025-03-08,Pending
+PR00185,HR,Laptop,22,2025-06-09,Approved
+PR00186,IT,Furniture,4,2024-05-15,Pending
+PR00187,IT,Furniture,5,2024-02-20,Approved
+PR00188,Operations,Laptop,24,2025-08-26,Pending
+PR00189,Finance,Software License,3,2025-06-18,Rejected
+PR00190,IT,Phone,19,2024-02-09,Approved
+PR00191,HR,Furniture,5,2025-01-02,Approved
+PR00192,HR,Software License,34,2024-10-14,Pending
+PR00193,Finance,Phone,41,2024-04-02,Pending
+PR00194,HR,Phone,11,2025-07-08,Approved
+PR00195,Operations,Phone,33,2024-04-13,Pending
+PR00196,Operations,Laptop,24,2023-10-12,Pending
+PR00197,HR,Laptop,21,2024-06-25,Pending
+PR00198,Finance,Furniture,3,2025-07-30,Rejected
+PR00199,HR,Phone,48,2023-11-23,Approved
+PR00200,IT,Furniture,39,2024-06-19,Approved
+PR00201,IT,Software License,37,2023-10-13,Approved
+PR00202,HR,Laptop,50,2024-08-15,Approved
+PR00203,IT,Laptop,15,2025-07-21,Approved
+PR00204,Operations,Software License,22,2024-05-06,Pending
+PR00205,Operations,Laptop,4,2025-04-21,Rejected
+PR00206,HR,Laptop,37,2024-07-10,Rejected
+PR00207,HR,Furniture,43,2024-09-11,Rejected
+PR00208,Finance,Phone,26,2024-06-17,Rejected
+PR00209,IT,Software License,44,2024-04-04,Approved
+PR00210,IT,Phone,43,2024-10-14,Rejected
+PR00211,Finance,Software License,46,2025-04-11,Approved
+PR00212,IT,Software License,23,2023-12-29,Pending
+PR00213,HR,Software License,8,2024-07-09,Approved
+PR00214,IT,Software License,26,2025-09-15,Rejected
+PR00215,IT,Furniture,12,2025-02-25,Pending
+PR00216,IT,Laptop,6,2025-04-09,Pending
+PR00217,Finance,Furniture,10,2024-11-26,Rejected
+PR00218,HR,Furniture,48,2024-08-23,Pending
+PR00219,Operations,Laptop,47,2025-08-23,Rejected
+PR00220,HR,Laptop,40,2024-03-19,Approved
+PR00221,IT,Furniture,11,2024-04-07,Pending
+PR00222,Finance,Laptop,46,2023-11-15,Approved
+PR00223,Finance,Software License,21,2025-06-09,Rejected
+PR00224,HR,Laptop,23,2023-11-04,Rejected
+PR00225,IT,Laptop,43,2025-02-27,Pending
+PR00226,HR,Laptop,25,2025-03-07,Rejected
+PR00227,Operations,Software License,37,2024-01-21,Approved
+PR00228,Finance,Software License,24,2023-12-20,Pending
+PR00229,HR,Software License,13,2024-03-11,Approved
+PR00230,Operations,Software License,14,2024-02-07,Rejected
+PR00231,Operations,Software License,11,2024-09-12,Approved
+PR00232,Operations,Laptop,49,2025-03-31,Approved
+PR00233,Finance,Software License,6,2025-05-20,Approved
+PR00234,HR,Laptop,50,2024-09-22,Pending
+PR00235,Finance,Software License,48,2024-09-21,Pending
+PR00236,Finance,Software License,35,2024-05-16,Rejected
+PR00237,Operations,Laptop,6,2024-08-07,Approved
+PR00238,HR,Software License,29,2024-03-29,Pending
+PR00239,Operations,Software License,10,2025-02-28,Pending
+PR00240,Finance,Furniture,36,2023-11-18,Rejected
+PR00241,IT,Software License,23,2025-01-13,Rejected
+PR00242,HR,Laptop,9,2024-04-10,Approved
+PR00243,Operations,Software License,37,2024-09-08,Pending
+PR00244,HR,Laptop,18,2024-12-29,Rejected
+PR00245,Finance,Software License,32,2024-12-24,Approved
+PR00246,Finance,Software License,36,2025-06-04,Approved
+PR00247,Operations,Furniture,33,2024-11-29,Rejected
+PR00248,HR,Phone,41,2024-09-01,Pending
+PR00249,Operations,Phone,40,2024-01-01,Rejected
+PR00250,Finance,Phone,44,2024-08-15,Rejected
+PR00251,IT,Phone,21,2025-06-11,Pending
+PR00252,HR,Laptop,36,2024-12-07,Pending
+PR00253,Finance,Furniture,2,2024-03-16,Pending
+PR00254,HR,Furniture,29,2024-02-22,Pending
+PR00255,Finance,Software License,18,2024-02-04,Approved
+PR00256,IT,Phone,43,2025-09-30,Rejected
+PR00257,IT,Laptop,32,2024-09-26,Rejected
+PR00258,HR,Furniture,25,2024-10-13,Approved
+PR00259,Finance,Phone,35,2025-09-17,Approved
+PR00260,HR,Software License,23,2024-06-12,Rejected
+PR00261,IT,Phone,19,2024-09-08,Pending
+PR00262,IT,Software License,13,2025-03-08,Pending
+PR00263,IT,Software License,31,2024-02-06,Pending
+PR00264,HR,Laptop,3,2024-05-15,Rejected
+PR00265,Operations,Software License,40,2025-05-30,Rejected
+PR00266,HR,Furniture,18,2023-10-23,Rejected
+PR00267,HR,Phone,49,2023-12-23,Rejected
+PR00268,Finance,Furniture,38,2023-11-02,Pending
+PR00269,Finance,Software License,20,2025-08-09,Pending
+PR00270,IT,Furniture,13,2024-02-06,Approved
+PR00271,HR,Furniture,29,2024-10-19,Rejected
+PR00272,Finance,Furniture,7,2023-12-11,Rejected
+PR00273,Operations,Phone,40,2024-06-26,Pending
+PR00274,HR,Furniture,28,2025-02-18,Pending
+PR00275,HR,Phone,15,2024-06-30,Approved
+PR00276,Finance,Laptop,50,2024-05-18,Rejected
+PR00277,HR,Furniture,17,2025-01-25,Rejected
+PR00278,HR,Laptop,2,2025-03-08,Pending
+PR00279,Operations,Phone,36,2025-03-20,Approved
+PR00280,IT,Furniture,23,2024-11-01,Approved
+PR00281,Finance,Laptop,18,2025-04-24,Rejected
+PR00282,HR,Phone,20,2025-10-02,Approved
+PR00283,Operations,Phone,10,2024-06-01,Rejected
+PR00284,Operations,Phone,13,2025-05-04,Rejected
+PR00285,Operations,Laptop,14,2025-04-30,Approved
+PR00286,Operations,Phone,20,2025-02-16,Pending
+PR00287,IT,Furniture,18,2025-05-26,Pending
+PR00288,HR,Laptop,11,2024-11-21,Approved
+PR00289,Operations,Software License,16,2024-09-26,Rejected
+PR00290,IT,Phone,26,2024-09-25,Pending
+PR00291,HR,Laptop,34,2025-02-21,Rejected
+PR00292,Finance,Furniture,27,2024-04-25,Pending
+PR00293,IT,Software License,10,2024-09-12,Pending
+PR00294,Finance,Laptop,46,2023-12-09,Approved
+PR00295,HR,Phone,38,2025-04-04,Approved
+PR00296,IT,Phone,5,2025-07-20,Approved
+PR00297,Operations,Software License,39,2024-03-08,Pending
+PR00298,Finance,Software License,10,2023-12-01,Rejected
+PR00299,HR,Software License,27,2024-05-13,Pending
+PR00300,IT,Software License,44,2024-01-19,Pending
+PR00301,IT,Furniture,13,2025-09-08,Approved
+PR00302,Operations,Furniture,38,2025-07-05,Rejected
+PR00303,Operations,Furniture,29,2025-06-04,Pending
+PR00304,Finance,Software License,15,2025-05-01,Rejected
+PR00305,Operations,Furniture,16,2025-02-19,Approved
+PR00306,Finance,Software License,44,2024-09-19,Pending
+PR00307,Finance,Software License,33,2024-05-26,Approved
+PR00308,HR,Laptop,40,2025-08-26,Rejected
+PR00309,IT,Software License,28,2025-07-28,Rejected
+PR00310,Finance,Laptop,17,2024-02-16,Rejected
+PR00311,IT,Laptop,11,2024-06-22,Pending
+PR00312,HR,Furniture,36,2025-02-28,Pending
+PR00313,Operations,Software License,9,2024-08-15,Pending
+PR00314,HR,Furniture,9,2025-01-02,Rejected
+PR00315,Finance,Software License,18,2024-07-26,Rejected
+PR00316,Operations,Furniture,27,2025-01-20,Pending
+PR00317,IT,Furniture,27,2024-08-20,Pending
+PR00318,Finance,Phone,32,2024-08-22,Rejected
+PR00319,HR,Furniture,19,2024-12-09,Approved
+PR00320,Operations,Software License,9,2024-05-02,Pending
+PR00321,Operations,Software License,27,2023-12-05,Rejected
+PR00322,Operations,Phone,20,2025-08-22,Approved
+PR00323,Operations,Software License,16,2024-11-25,Rejected
+PR00324,Finance,Phone,33,2024-03-14,Rejected
+PR00325,IT,Laptop,12,2024-03-30,Approved
+PR00326,Finance,Furniture,39,2024-12-07,Rejected
+PR00327,Operations,Software License,14,2025-09-06,Pending
+PR00328,IT,Software License,1,2024-07-21,Approved
+PR00329,HR,Laptop,26,2025-01-19,Rejected
+PR00330,Operations,Software License,24,2024-07-01,Pending
+PR00331,Operations,Phone,43,2024-11-08,Pending
+PR00332,Finance,Software License,6,2024-07-18,Pending
+PR00333,Operations,Laptop,21,2024-11-05,Rejected
+PR00334,Operations,Furniture,24,2023-11-16,Pending
+PR00335,Finance,Laptop,47,2024-07-14,Pending
+PR00336,Finance,Furniture,9,2024-04-10,Rejected
+PR00337,Operations,Software License,35,2024-03-12,Approved
+PR00338,Finance,Laptop,4,2024-11-12,Pending
+PR00339,HR,Phone,46,2024-05-03,Pending
+PR00340,IT,Phone,19,2024-02-09,Rejected
+PR00341,Operations,Furniture,33,2023-12-25,Pending
+PR00342,Operations,Phone,8,2024-03-13,Pending
+PR00343,Operations,Laptop,4,2025-04-27,Approved
+PR00344,Finance,Laptop,37,2025-03-24,Rejected
+PR00345,IT,Furniture,45,2023-11-20,Rejected
+PR00346,Operations,Laptop,30,2025-07-14,Rejected
+PR00347,Operations,Furniture,30,2023-10-27,Rejected
+PR00348,Operations,Furniture,38,2023-12-02,Rejected
+PR00349,IT,Software License,12,2025-02-16,Approved
+PR00350,HR,Software License,4,2025-04-29,Pending
+PR00351,Operations,Software License,17,2025-04-01,Rejected
+PR00352,Operations,Laptop,20,2024-04-15,Rejected
+PR00353,Finance,Phone,49,2025-08-22,Rejected
+PR00354,Operations,Furniture,48,2025-09-18,Approved
+PR00355,HR,Laptop,26,2023-12-16,Pending
+PR00356,Operations,Phone,50,2025-01-25,Pending
+PR00357,IT,Laptop,49,2024-08-19,Rejected
+PR00358,Finance,Laptop,10,2023-11-15,Approved
+PR00359,HR,Furniture,17,2025-07-03,Pending
+PR00360,Operations,Laptop,40,2024-01-29,Rejected
+PR00361,HR,Phone,41,2025-07-11,Pending
+PR00362,Operations,Software License,34,2024-06-11,Approved
+PR00363,HR,Phone,17,2023-11-30,Approved
+PR00364,HR,Furniture,17,2025-05-28,Rejected
+PR00365,HR,Furniture,41,2025-08-14,Pending
+PR00366,IT,Furniture,46,2024-04-03,Rejected
+PR00367,Operations,Software License,40,2025-03-09,Rejected
+PR00368,HR,Phone,45,2024-08-19,Rejected
+PR00369,Operations,Furniture,15,2024-12-26,Rejected
+PR00370,Finance,Software License,27,2023-12-30,Approved
+PR00371,HR,Laptop,5,2024-06-23,Pending
+PR00372,Finance,Phone,12,2025-06-14,Approved
+PR00373,HR,Laptop,11,2025-05-04,Pending
+PR00374,IT,Laptop,3,2023-10-18,Rejected
+PR00375,Operations,Furniture,42,2024-12-17,Pending
+PR00376,IT,Software License,40,2025-08-31,Approved
+PR00377,Operations,Software License,46,2024-04-30,Rejected
+PR00378,Finance,Software License,48,2024-05-14,Approved
+PR00379,IT,Software License,41,2024-07-13,Rejected
+PR00380,IT,Laptop,6,2024-01-10,Pending
+PR00381,IT,Furniture,45,2025-02-23,Rejected
+PR00382,Finance,Furniture,15,2025-08-02,Rejected
+PR00383,IT,Software License,31,2025-02-11,Pending
+PR00384,HR,Laptop,8,2024-07-30,Pending
+PR00385,Finance,Furniture,34,2023-12-11,Pending
+PR00386,Operations,Software License,14,2024-11-18,Approved
+PR00387,IT,Software License,16,2024-05-01,Pending
+PR00388,Finance,Laptop,17,2025-04-30,Rejected
+PR00389,Finance,Software License,24,2024-01-27,Rejected
+PR00390,Operations,Laptop,23,2024-01-23,Pending
+PR00391,Finance,Laptop,31,2024-02-06,Pending
+PR00392,IT,Phone,18,2024-01-19,Rejected
+PR00393,Operations,Software License,30,2025-01-12,Approved
+PR00394,HR,Phone,16,2024-09-25,Pending
+PR00395,HR,Laptop,29,2024-07-09,Rejected
+PR00396,Operations,Phone,7,2024-04-21,Approved
+PR00397,Finance,Furniture,48,2025-04-18,Approved
+PR00398,IT,Furniture,5,2025-07-22,Rejected
+PR00399,Operations,Laptop,43,2025-05-06,Approved
+PR00400,Operations,Laptop,8,2025-03-11,Rejected
+PR00401,Finance,Software License,16,2025-06-22,Approved
+PR00402,IT,Phone,4,2024-09-14,Approved
+PR00403,Finance,Furniture,6,2024-08-23,Approved
+PR00404,HR,Phone,1,2025-07-20,Pending
+PR00405,IT,Software License,38,2024-02-29,Pending
+PR00406,IT,Furniture,32,2024-03-26,Approved
+PR00407,Operations,Phone,19,2025-06-27,Approved
+PR00408,Operations,Laptop,6,2024-05-22,Rejected
+PR00409,Operations,Laptop,20,2024-01-22,Rejected
+PR00410,IT,Furniture,6,2025-03-07,Approved
+PR00411,IT,Furniture,27,2024-05-21,Rejected
+PR00412,Operations,Laptop,48,2025-01-06,Pending
+PR00413,Finance,Software License,28,2025-08-18,Pending
+PR00414,Finance,Phone,45,2024-02-05,Rejected
+PR00415,Operations,Laptop,16,2024-10-31,Pending
+PR00416,Finance,Furniture,2,2024-02-20,Approved
+PR00417,Finance,Phone,39,2023-10-29,Pending
+PR00418,Operations,Furniture,1,2024-07-20,Rejected
+PR00419,Operations,Laptop,48,2023-12-16,Pending
+PR00420,Finance,Laptop,17,2025-08-22,Rejected
+PR00421,Finance,Phone,14,2023-12-05,Pending
+PR00422,HR,Phone,37,2023-10-14,Rejected
+PR00423,Operations,Furniture,23,2023-10-12,Rejected
+PR00424,Operations,Furniture,16,2024-08-28,Approved
+PR00425,HR,Phone,39,2024-03-07,Rejected
+PR00426,Operations,Phone,21,2025-02-25,Approved
+PR00427,Finance,Software License,37,2023-11-13,Pending
+PR00428,IT,Software License,14,2024-02-02,Approved
+PR00429,HR,Phone,7,2024-05-12,Approved
+PR00430,Operations,Phone,19,2025-08-25,Pending
+PR00431,IT,Phone,4,2025-08-16,Approved
+PR00432,HR,Phone,18,2025-03-11,Rejected
+PR00433,IT,Software License,47,2024-07-30,Rejected
+PR00434,Finance,Furniture,40,2024-08-21,Rejected
+PR00435,HR,Software License,32,2025-05-01,Approved
+PR00436,IT,Laptop,15,2025-08-20,Rejected
+PR00437,Operations,Furniture,30,2024-01-03,Rejected
+PR00438,Finance,Furniture,7,2025-01-24,Rejected
+PR00439,IT,Software License,47,2024-02-09,Rejected
+PR00440,IT,Phone,33,2023-11-06,Approved
+PR00441,Operations,Software License,12,2025-01-05,Approved
+PR00442,Finance,Laptop,34,2025-03-04,Approved
+PR00443,Operations,Phone,5,2023-12-16,Pending
+PR00444,HR,Laptop,8,2024-11-28,Approved
+PR00445,Operations,Furniture,25,2023-10-07,Rejected
+PR00446,Finance,Phone,37,2023-12-13,Approved
+PR00447,HR,Software License,4,2024-01-18,Approved
+PR00448,Operations,Furniture,4,2025-01-14,Pending
+PR00449,Operations,Laptop,45,2025-08-31,Pending
+PR00450,IT,Phone,7,2024-09-14,Pending
+PR00451,IT,Phone,25,2024-10-25,Pending
+PR00452,Finance,Phone,4,2023-11-17,Rejected
+PR00453,Operations,Phone,17,2024-02-18,Approved
+PR00454,Finance,Laptop,41,2023-11-09,Rejected
+PR00455,Finance,Software License,6,2023-11-24,Pending
+PR00456,Finance,Software License,18,2025-06-26,Rejected
+PR00457,Finance,Laptop,41,2025-06-08,Rejected
+PR00458,Finance,Furniture,18,2024-04-05,Approved
+PR00459,Operations,Laptop,41,2025-05-17,Pending
+PR00460,IT,Furniture,34,2024-01-30,Approved
+PR00461,Finance,Phone,30,2024-10-13,Approved
+PR00462,HR,Laptop,4,2025-05-18,Rejected
+PR00463,Finance,Furniture,42,2024-04-12,Rejected
+PR00464,Finance,Phone,2,2025-07-02,Approved
+PR00465,Finance,Furniture,30,2025-01-15,Approved
+PR00466,HR,Laptop,50,2024-05-17,Rejected
+PR00467,Finance,Phone,7,2025-01-07,Rejected
+PR00468,IT,Phone,27,2025-08-28,Pending
+PR00469,Finance,Laptop,38,2024-04-26,Pending
+PR00470,Operations,Furniture,44,2024-04-01,Pending
+PR00471,HR,Phone,9,2025-05-22,Rejected
+PR00472,HR,Phone,47,2025-07-16,Pending
+PR00473,Operations,Laptop,37,2024-03-12,Approved
+PR00474,IT,Furniture,27,2025-07-25,Approved
+PR00475,Operations,Software License,44,2024-07-18,Rejected
+PR00476,Finance,Software License,46,2024-12-03,Rejected
+PR00477,IT,Furniture,40,2024-01-19,Pending
+PR00478,Finance,Furniture,20,2024-01-07,Pending
+PR00479,Operations,Furniture,17,2024-11-13,Approved
+PR00480,HR,Phone,49,2024-07-08,Approved
+PR00481,IT,Laptop,29,2025-08-20,Approved
+PR00482,Operations,Phone,36,2024-05-25,Pending
+PR00483,IT,Furniture,12,2024-12-31,Pending
+PR00484,Finance,Software License,30,2023-12-22,Rejected
+PR00485,HR,Phone,38,2024-07-04,Rejected
+PR00486,IT,Furniture,23,2024-07-24,Pending
+PR00487,IT,Furniture,8,2023-12-01,Rejected
+PR00488,IT,Laptop,48,2024-09-01,Approved
+PR00489,Finance,Phone,48,2024-12-20,Rejected
+PR00490,HR,Software License,36,2025-03-12,Pending
+PR00491,HR,Phone,38,2024-08-21,Pending
+PR00492,Finance,Laptop,34,2024-05-03,Approved
+PR00493,HR,Furniture,39,2025-05-16,Rejected
+PR00494,IT,Software License,7,2024-11-29,Rejected
+PR00495,IT,Laptop,36,2024-10-19,Approved
+PR00496,IT,Software License,46,2024-09-19,Rejected
+PR00497,IT,Furniture,50,2024-09-29,Approved
+PR00498,Finance,Laptop,44,2024-06-12,Pending
+PR00499,HR,Software License,31,2025-05-01,Rejected
+PR00500,IT,Software License,5,2025-02-01,Pending

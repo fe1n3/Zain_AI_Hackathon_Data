@@ -253,22 +253,240 @@ def generate_tasks(projects, employees, n=1000):
         })
     return pd.DataFrame(data)
 
-# -----------------------------
-# Challenge 3: Redefining Engagement & Experiences
-# -----------------------------
-def generate_engagement_history(customers, n=5000):
-    channels = ["Email", "SMS", "App Notification", "Call"]
-    responses = ["Clicked", "Opened", "Ignored", "Converted"]
+
+def generate_customer_profiles(n=5000):
+    cities = ["Manama", "Muharraq", "Riffa", "Isa Town"]
     data = []
-    for _ in range(n):
-        cust = random.choice(customers)
+    for i in range(1, n+1):
         data.append({
-            "engagement_id": fake.uuid4(),
-            "customer_id": cust["customer_id"],
-            "campaign": f"Campaign {random.randint(1,50)}",
+            "customer_id": f"C{i:05d}",
+            "name": fake.name(),
+            "age": random.randint(18, 65),
+            "gender": random.choice(["M", "F"]),
+            "city": random.choice(cities),
+            "preferred_channel": random.choice(["SMS", "Email", "App", "Call"]),
+            "loyalty_score": round(random.uniform(0, 1), 2),
+            "historical_engagement": random.randint(0, 100)
+        })
+    return pd.DataFrame(data)
+
+def generate_employee_profiles(n=500):
+    roles = ["Manager", "Engineer", "Sales", "HR", "Finance", "Support"]
+    departments = ["IT", "Sales", "HR", "Finance", "Operations"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "employee_id": f"E{i:05d}",
+            "name": fake.name(),
+            "age": random.randint(22, 60),
+            "gender": random.choice(["M", "F"]),
+            "role": random.choice(roles),
+            "department": random.choice(departments),
+            "training_completed": random.randint(0, 20),
+            "engagement_score": round(random.uniform(0, 1), 2)
+        })
+    return pd.DataFrame(data)
+
+def generate_campaigns(n=200):
+    channels = ["Email", "SMS", "Social Media", "App Push", "Website"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "campaign_id": f"CM{i:04d}",
+            "name": f"Campaign {i}",
+            "start_date": fake.date_between(start_date='-2y', end_date='today'),
+            "end_date": fake.date_between(start_date='-1y', end_date='today'),
             "channel": random.choice(channels),
-            "response": random.choice(responses),
-            "date": fake.date_between(start_date='-1y', end_date='today')
+            "budget_bhd": round(random.uniform(1000, 50000), 2),
+            "target_segment": random.choice(["Youth", "Families", "Professionals", "Students"])
+        })
+    return pd.DataFrame(data)
+
+def generate_media_assets(n=500):
+    types = ["Image", "Video", "Audio", "GIF"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "asset_id": f"MA{i:05d}",
+            "campaign_id": f"CM{random.randint(1,200):04d}",
+            "type": random.choice(types),
+            "url": f"https://example.com/assets/{i}",
+            "engagement_score": round(random.uniform(0, 1), 2)
+        })
+    return pd.DataFrame(data)
+
+def generate_feedback_surveys(n=1000):
+    categories = ["Customer", "Employee"]
+    topics = ["Satisfaction", "Net Promoter Score", "Experience", "Support"]
+    ratings = [1, 2, 3, 4, 5]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "survey_id": f"S{i:05d}",
+            "subject_id": f"C{random.randint(1,5000):05d}" if random.random() > 0.5 else f"E{random.randint(1,500):05d}",
+            "category": random.choice(categories),
+            "topic": random.choice(topics),
+            "rating": random.choice(ratings),
+            "date": fake.date_between(start_date='-2y', end_date='today')
+        })
+    return pd.DataFrame(data)
+
+def generate_rewards_redemptions(n=1000):
+    rewards = ["Discount", "Voucher", "Free Data", "Gift Item"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "redemption_id": f"R{i:05d}",
+            "customer_id": f"C{random.randint(1,5000):05d}",
+            "reward_type": random.choice(rewards),
+            "points_spent": random.randint(10, 500),
+            "date": fake.date_between(start_date='-2y', end_date='today')
+        })
+    return pd.DataFrame(data)
+
+def generate_event_participation(n=1000):
+    events = ["Workshop", "Hackathon", "Webinar", "Training Session"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "participation_id": f"EV{i:05d}",
+            "customer_id": f"C{random.randint(1,5000):05d}",
+            "event_type": random.choice(events),
+            "event_date": fake.date_between(start_date='-2y', end_date='today'),
+            "attendance": random.choice(["Attended", "Registered", "No-show"])
+        })
+    return pd.DataFrame(data)
+
+def generate_content_interactions(n=2000):
+    actions = ["View", "Click", "Like", "Share"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "interaction_id": f"CI{i:05d}",
+            "customer_id": f"C{random.randint(1,5000):05d}",
+            "campaign_id": f"CM{random.randint(1,200):04d}",
+            "action": random.choice(actions),
+            "date": fake.date_between(start_date='-2y', end_date='today')
+        })
+    return pd.DataFrame(data)
+
+
+# -----------------------------
+# Challenge 3: Reinventing How Work Gets Done
+# -----------------------------
+def generate_hr_requests(n=500):
+    request_types = ["Leave", "Onboarding", "Policy Update", "Other"]
+    statuses = ["Pending", "Approved", "Rejected"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "request_id": f"HR{i:05d}",
+            "employee_id": f"E{random.randint(1,500):05d}",
+            "request_type": random.choice(request_types),
+            "date_submitted": fake.date_between(start_date='-2y', end_date='today'),
+            "status": random.choice(statuses)
+        })
+    return pd.DataFrame(data)
+
+def generate_finance_requests(n=500):
+    request_types = ["Purchase", "Expense Claim", "Budget Approval"]
+    statuses = ["Pending", "Approved", "Rejected"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "request_id": f"FN{i:05d}",
+            "employee_id": f"E{random.randint(1,500):05d}",
+            "request_type": random.choice(request_types),
+            "amount_bhd": round(random.uniform(100, 10000), 2),
+            "date_submitted": fake.date_between(start_date='-2y', end_date='today'),
+            "status": random.choice(statuses)
+        })
+    return pd.DataFrame(data)
+
+def generate_it_tickets(n=500):
+    categories = ["Hardware", "Software", "Network", "Other"]
+    priorities = ["Low", "Medium", "High"]
+    statuses = ["Open", "In Progress", "Closed"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "ticket_id": f"IT{i:05d}",
+            "employee_id": f"E{random.randint(1,500):05d}",
+            "category": random.choice(categories),
+            "priority": random.choice(priorities),
+            "status": random.choice(statuses),
+            "date_reported": fake.date_between(start_date='-2y', end_date='today')
+        })
+    return pd.DataFrame(data)
+
+def generate_meetings(n=500):
+    data = []
+    for i in range(1, n+1):
+        participants = [f"E{random.randint(1,500):05d}" for _ in range(random.randint(2,6))]
+        data.append({
+            "meeting_id": f"M{i:05d}",
+            "topic": fake.sentence(nb_words=5),
+            "date": fake.date_between(start_date='-2y', end_date='today'),
+            "participants": ",".join(participants),
+            "action_items": fake.sentence(nb_words=10)
+        })
+    return pd.DataFrame(data)
+
+def generate_task_assignments(n=1000):
+    statuses = ["Open", "In Progress", "Completed", "Blocked"]
+    priorities = ["Low", "Medium", "High"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "task_id": f"T{i:05d}",
+            "employee_id": f"E{random.randint(1,500):05d}",
+            "project_id": f"P{random.randint(1,200):04d}",
+            "description": fake.sentence(),
+            "priority": random.choice(priorities),
+            "status": random.choice(statuses),
+            "due_date": fake.date_between(start_date='-1y', end_date='today')
+        })
+    return pd.DataFrame(data)
+
+def generate_procurement_requests(n=500):
+    items = ["Laptop", "Phone", "Software License", "Furniture"]
+    statuses = ["Pending", "Approved", "Rejected"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "request_id": f"PR{i:05d}",
+            "department": random.choice(["IT", "HR", "Finance", "Operations"]),
+            "item": random.choice(items),
+            "quantity": random.randint(1, 50),
+            "date_submitted": fake.date_between(start_date='-2y', end_date='today'),
+            "status": random.choice(statuses)
+        })
+    return pd.DataFrame(data)
+
+def generate_system_logs(n=1000):
+    events = ["Login", "Logout", "Error", "Update", "Access"]
+    severities = ["Low", "Medium", "High", "Critical"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "log_id": f"SL{i:05d}",
+            "system": random.choice(["ERP", "CRM", "Network", "InternalApp"]),
+            "event": random.choice(events),
+            "severity": random.choice(severities),
+            "timestamp": fake.date_time_between(start_date='-2y', end_date='now')
+        })
+    return pd.DataFrame(data)
+
+def generate_knowledge_base(n=500):
+    categories = ["HR", "Finance", "IT", "Operations", "Policies"]
+    data = []
+    for i in range(1, n+1):
+        data.append({
+            "article_id": f"KB{i:05d}",
+            "title": fake.sentence(nb_words=6),
+            "category": random.choice(categories),
+            "content": fake.paragraph(nb_sentences=5),
+            "last_updated": fake.date_between(start_date='-2y', end_date='today')
         })
     return pd.DataFrame(data)
 
@@ -279,7 +497,7 @@ def main():
     base_dir = "datasets"
     ensure_folder(base_dir)
 
-    # ----- Challenge 1 -----
+    # ----- Challenge 1: Turning Information into Intelligence -----
     c1_dir = os.path.join(base_dir, "TurningInformationIntoIntelligence")
     ensure_folder(c1_dir)
 
@@ -313,25 +531,42 @@ def main():
     demographics_df = generate_customer_demographics(customers_df.to_dict(orient="records"))
     save_csv(demographics_df, os.path.join(c1_dir, "CustomerDemographics.csv"))
 
-    # ----- Challenge 2 -----
+    # ----- Challenge 2: Reinventing How Work Gets Done -----
     c2_dir = os.path.join(base_dir, "ReinventingHowWorkGetsDone")
     ensure_folder(c2_dir)
 
-    employees_df = generate_employees(10000)
+    employees_df = generate_employees(500)
     save_csv(employees_df, os.path.join(c2_dir, "Employees.csv"))
 
-    projects_df = generate_projects(employees_df.to_dict(orient="records"), 10000)
+    projects_df = generate_projects(employees_df.to_dict(orient="records"), 200)
     save_csv(projects_df, os.path.join(c2_dir, "Projects.csv"))
 
-    tasks_df = generate_tasks(projects_df.to_dict(orient="records"), employees_df.to_dict(orient="records"), 10000)
+    tasks_df = generate_tasks(projects_df.to_dict(orient="records"), employees_df.to_dict(orient="records"), 1000)
     save_csv(tasks_df, os.path.join(c2_dir, "Tasks.csv"))
 
-    # ----- Challenge 3 -----
+    save_csv(generate_hr_requests(500), os.path.join(c2_dir, "HRRequests.csv"))
+    save_csv(generate_finance_requests(500), os.path.join(c2_dir, "FinanceRequests.csv"))
+    save_csv(generate_it_tickets(500), os.path.join(c2_dir, "ITTickets.csv"))
+    save_csv(generate_meetings(500), os.path.join(c2_dir, "Meetings.csv"))
+    save_csv(generate_task_assignments(1000), os.path.join(c2_dir, "TaskAssignments.csv"))
+    save_csv(generate_procurement_requests(500), os.path.join(c2_dir, "ProcurementRequests.csv"))
+    save_csv(generate_system_logs(1000), os.path.join(c2_dir, "SystemLogs.csv"))
+    save_csv(generate_knowledge_base(500), os.path.join(c2_dir, "KnowledgeBase.csv"))
+
+    # ----- Challenge 3: Redefining Engagement & Experiences -----
     c3_dir = os.path.join(base_dir, "RedefiningEngagementAndExperiences")
     ensure_folder(c3_dir)
 
-    engagement_df = generate_engagement_history(customers_df.to_dict(orient="records"), 10000)
-    save_csv(engagement_df, os.path.join(c3_dir, "EngagementHistory.csv"))
+    # save_csv(generate_engagement_history(customers_df.to_dict(orient="records"), 10000), os.path.join(c3_dir, "EngagementHistory.csv"))
+    save_csv(generate_customer_profiles(5000), os.path.join(c3_dir, "CustomerProfiles.csv"))
+    save_csv(generate_employee_profiles(500), os.path.join(c3_dir, "EmployeeProfiles.csv"))
+    save_csv(generate_campaigns(200), os.path.join(c3_dir, "Campaigns.csv"))
+    save_csv(generate_media_assets(500), os.path.join(c3_dir, "MediaAssets.csv"))
+    save_csv(generate_feedback_surveys(1000), os.path.join(c3_dir, "FeedbackSurveys.csv"))
+    save_csv(generate_rewards_redemptions(1000), os.path.join(c3_dir, "RewardsRedemptions.csv"))
+    save_csv(generate_event_participation(1000), os.path.join(c3_dir, "EventParticipation.csv"))
+    save_csv(generate_content_interactions(2000), os.path.join(c3_dir, "ContentInteractions.csv"))
+
 
 if __name__ == "__main__":
     main()
