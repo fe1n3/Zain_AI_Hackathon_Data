@@ -535,37 +535,37 @@ def main():
     c2_dir = os.path.join(base_dir, "ReinventingHowWorkGetsDone")
     ensure_folder(c2_dir)
 
-    employees_df = generate_employees(500)
+    employees_df = generate_employees(10000)
     save_csv(employees_df, os.path.join(c2_dir, "Employees.csv"))
 
-    projects_df = generate_projects(employees_df.to_dict(orient="records"), 200)
+    projects_df = generate_projects(employees_df.to_dict(orient="records"), 10000)
     save_csv(projects_df, os.path.join(c2_dir, "Projects.csv"))
 
-    tasks_df = generate_tasks(projects_df.to_dict(orient="records"), employees_df.to_dict(orient="records"), 1000)
+    tasks_df = generate_tasks(projects_df.to_dict(orient="records"), employees_df.to_dict(orient="records"), 10000)
     save_csv(tasks_df, os.path.join(c2_dir, "Tasks.csv"))
 
-    save_csv(generate_hr_requests(500), os.path.join(c2_dir, "HRRequests.csv"))
-    save_csv(generate_finance_requests(500), os.path.join(c2_dir, "FinanceRequests.csv"))
-    save_csv(generate_it_tickets(500), os.path.join(c2_dir, "ITTickets.csv"))
-    save_csv(generate_meetings(500), os.path.join(c2_dir, "Meetings.csv"))
-    save_csv(generate_task_assignments(1000), os.path.join(c2_dir, "TaskAssignments.csv"))
-    save_csv(generate_procurement_requests(500), os.path.join(c2_dir, "ProcurementRequests.csv"))
-    save_csv(generate_system_logs(1000), os.path.join(c2_dir, "SystemLogs.csv"))
-    save_csv(generate_knowledge_base(500), os.path.join(c2_dir, "KnowledgeBase.csv"))
+    save_csv(generate_hr_requests(10000), os.path.join(c2_dir, "HRRequests.csv"))
+    save_csv(generate_finance_requests(10000), os.path.join(c2_dir, "FinanceRequests.csv"))
+    save_csv(generate_it_tickets(10000), os.path.join(c2_dir, "ITTickets.csv"))
+    save_csv(generate_meetings(10000), os.path.join(c2_dir, "Meetings.csv"))
+    save_csv(generate_task_assignments(10000), os.path.join(c2_dir, "TaskAssignments.csv"))
+    save_csv(generate_procurement_requests(10000), os.path.join(c2_dir, "ProcurementRequests.csv"))
+    save_csv(generate_system_logs(10000), os.path.join(c2_dir, "SystemLogs.csv"))
+    save_csv(generate_knowledge_base(10000), os.path.join(c2_dir, "KnowledgeBase.csv"))
 
     # ----- Challenge 3: Redefining Engagement & Experiences -----
     c3_dir = os.path.join(base_dir, "RedefiningEngagementAndExperiences")
     ensure_folder(c3_dir)
 
     # save_csv(generate_engagement_history(customers_df.to_dict(orient="records"), 10000), os.path.join(c3_dir, "EngagementHistory.csv"))
-    save_csv(generate_customer_profiles(5000), os.path.join(c3_dir, "CustomerProfiles.csv"))
-    save_csv(generate_employee_profiles(500), os.path.join(c3_dir, "EmployeeProfiles.csv"))
-    save_csv(generate_campaigns(200), os.path.join(c3_dir, "Campaigns.csv"))
-    save_csv(generate_media_assets(500), os.path.join(c3_dir, "MediaAssets.csv"))
-    save_csv(generate_feedback_surveys(1000), os.path.join(c3_dir, "FeedbackSurveys.csv"))
-    save_csv(generate_rewards_redemptions(1000), os.path.join(c3_dir, "RewardsRedemptions.csv"))
-    save_csv(generate_event_participation(1000), os.path.join(c3_dir, "EventParticipation.csv"))
-    save_csv(generate_content_interactions(2000), os.path.join(c3_dir, "ContentInteractions.csv"))
+    save_csv(generate_customer_profiles(10000), os.path.join(c3_dir, "CustomerProfiles.csv"))
+    save_csv(generate_employee_profiles(10000), os.path.join(c3_dir, "EmployeeProfiles.csv"))
+    save_csv(generate_campaigns(10000), os.path.join(c3_dir, "Campaigns.csv"))
+    save_csv(generate_media_assets(10000), os.path.join(c3_dir, "MediaAssets.csv"))
+    save_csv(generate_feedback_surveys(10000), os.path.join(c3_dir, "FeedbackSurveys.csv"))
+    save_csv(generate_rewards_redemptions(10000), os.path.join(c3_dir, "RewardsRedemptions.csv"))
+    save_csv(generate_event_participation(10000), os.path.join(c3_dir, "EventParticipation.csv"))
+    save_csv(generate_content_interactions(10000), os.path.join(c3_dir, "ContentInteractions.csv"))
 
 
 if __name__ == "__main__":
