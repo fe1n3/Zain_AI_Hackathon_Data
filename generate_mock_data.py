@@ -302,19 +302,6 @@ def generate_campaigns(n=200):
         })
     return pd.DataFrame(data)
 
-def generate_media_assets(n=500):
-    types = ["Image", "Video", "Audio", "GIF"]
-    data = []
-    for i in range(1, n+1):
-        data.append({
-            "asset_id": f"MA{i:05d}",
-            "campaign_id": f"CM{random.randint(1,200):04d}",
-            "type": random.choice(types),
-            "url": f"https://example.com/assets/{i}",
-            "engagement_score": round(random.uniform(0, 1), 2)
-        })
-    return pd.DataFrame(data)
-
 def generate_feedback_surveys(n=1000):
     categories = ["Customer", "Employee"]
     topics = ["Satisfaction", "Net Promoter Score", "Experience", "Support"]
@@ -546,7 +533,6 @@ def main():
     save_csv(generate_customer_profiles(10000), os.path.join(c3_dir, "CustomerProfiles.csv"))
     save_csv(generate_employee_profiles(10000), os.path.join(c3_dir, "EmployeeProfiles.csv"))
     save_csv(generate_campaigns(10000), os.path.join(c3_dir, "Campaigns.csv"))
-    save_csv(generate_media_assets(10000), os.path.join(c3_dir, "MediaAssets.csv"))
     save_csv(generate_feedback_surveys(10000), os.path.join(c3_dir, "FeedbackSurveys.csv"))
     save_csv(generate_rewards_redemptions(10000), os.path.join(c3_dir, "RewardsRedemptions.csv"))
     save_csv(generate_event_participation(10000), os.path.join(c3_dir, "EventParticipation.csv"))

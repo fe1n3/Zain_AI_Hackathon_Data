@@ -1,9 +1,14 @@
 # ZainAI Mock Data Generator
 
-This project generates mock datasets for various business scenarios using Python and the Faker library. The generated data is organized into three main categories, each with multiple CSV files, and is useful for analytics, testing, and demonstration purposes.
+This project generates mock datasets for various business scenarios using Python and the Faker library. The generated data is organized into three main categories, each with multiple CSV files, and is useful for analytics, testing, andThe generated CSV files will be saved in the `datasets/` directory, organized by business domain:
+- `datasets/TurningInformationIntoIntelligence/` - Customer intelligence and product analytics (10 files)
+- `datasets/ReinventingHowWorkGetsDone/` - Complete operational management (10 files)
+- `datasets/RedefiningEngagementAndExperiences/` - Customer experience and marketing analytics (7 files)
+
+**Total: 27 CSV files** covering comprehensive business operations from customer analytics to internal operations and engagement tracking.stration purposes.
 
 **Key Features:**
-- 30 comprehensive datasets across three business domains
+- 27 comprehensive datasets across three business domains
 - Realistic business scenarios covering telecommunications, operations, and customer experience
 - Enhanced product catalog with electronics and technology products
 - Complete purchase tracking system with installment payment support
@@ -11,47 +16,13 @@ This project generates mock datasets for various business scenarios using Python
 - Comprehensive customer engagement and experience analytics
 - Multiple use cases from analytics to AI model training
 
-## What's New in This Version
-
-### � **Massive Dataset Expansion**
-- **30 Total Datasets**: Expanded from 14 to 30 comprehensive business datasets
-- **Complete Business Operations**: Full coverage of telecommunications, HR, finance, IT, and customer experience
-- **Advanced Engagement Tracking**: Comprehensive customer experience and employee engagement analytics
-- **Operational Intelligence**: Complete internal operations tracking from HR to procurement
-
-### �🛍️ **E-Commerce & Financial Integration** 
-- **Enhanced Product Catalog**: Electronics and technology products with brands, warranties, release years
-- **Purchase Tracking System**: Full payment and installment tracking with remaining balances
-- **Financial Transaction Management**: Complete transaction lifecycle from purchases to payments
-- **Customer-Product Analytics**: Deep linking between customer behavior and purchase patterns
-
-### 🏢 **Complete Operational Framework**
-- **HR Management**: Employee requests, profiles, and administrative tracking
-- **IT Operations**: System logs, support tickets, and infrastructure monitoring  
-- **Financial Operations**: Budget requests, procurement, and expense management
-- **Project Management**: Tasks, meetings, and collaboration tracking
-- **Knowledge Management**: Organizational knowledge base and documentation
-
-### 🎯 **Advanced Customer Experience**
-- **Multi-channel Campaigns**: Marketing campaigns across email, SMS, social media, and app notifications
-- **Customer Engagement**: Detailed interaction tracking and engagement scoring
-- **Loyalty Programs**: Rewards redemption and customer retention analytics
-- **Event Management**: Workshop, training, and event participation tracking
-- **Content Analytics**: Media asset performance and content interaction analysis
-
-### 🔧 **Technical Excellence**
-- **Realistic Data Volumes**: Appropriately sized datasets for each business function (200-10,000 rows)
-- **Enhanced Data Relationships**: Complex foreign key relationships across all business domains
-- **Business Logic Integration**: Authentic business processes and workflows represented in data
-- **Scalable Architecture**: Modular design supporting easy expansion and customization
-
 ## Structure
 
 - `generate_mock_data.py`: Main script to generate all datasets.
 - `datasets/`: Output folder containing all generated CSV files, organized by business domain:
   - `TurningInformationIntoIntelligence/`: Customer analytics, product catalog, and network intelligence (10 datasets)
-  - `ReinventingHowWorkGetsDone/`: Complete operational management including HR, IT, finance, and project management (11 datasets)
-  - `RedefiningEngagementAndExperiences/`: Customer experience, marketing campaigns, and engagement analytics (9 datasets)
+  - `ReinventingHowWorkGetsDone/`: Complete operational management including HR, IT, finance, and project management (10 datasets)
+  - `RedefiningEngagementAndExperiences/`: Customer experience, marketing campaigns, and engagement analytics (7 datasets)
 
 
 ## Data Categories, Tables, Examples, and Use Cases
@@ -93,32 +64,56 @@ This project generates mock datasets for various business scenarios using Python
 #### Calls.csv
 - **Description:** Call, SMS, and data session records with network tracking.
 - **Rows:** 10,000
+- **Example Row:**
+   | call_id  | customer_id | call_type | duration_min | cell_tower_id |
+   |----------|-------------|-----------|--------------|---------------|
+   | uuid-789 | C00001      | voice     | 15.5         | T001          |
 
 #### InternetUsage.csv
 - **Description:** Internet usage logs by app category and device type.
 - **Rows:** 10,000
+- **Example Row:**
+   | usage_id  | customer_id | data_used_gb | app_category | device_type |
+   |-----------|-------------|--------------|--------------|-------------|
+   | uuid-101  | C00001      | 2.5          | Social Media | Mobile      |
 
 #### SupportTickets.csv
 - **Description:** Customer support ticket records with resolution tracking.
 - **Rows:** 10,000
+- **Example Row:**
+   | ticket_id | customer_id | issue_category | priority | status   | resolution_time_hours |
+   |-----------|-------------|----------------|----------|----------|-----------------------|
+   | uuid-102  | C00001      | Billing        | Medium   | Resolved | 24.5                  |
 
 #### SocialSentiment.csv
 - **Description:** Social media posts with engagement metrics.
 - **Rows:** 10,000
+- **Example Row:**
+   | post_id  | customer_id | platform | sentiment | topic   | likes | shares |
+   |----------|-------------|----------|-----------|---------|-------|--------|
+   | uuid-103 | C00001      | Twitter  | Positive  | Network | 25    | 5      |
 
 #### NetworkPerformance.csv
 - **Description:** Network performance metrics by region with tower load data.
 - **Rows:** 10,000
+- **Example Row:**
+   | record_id | region | signal_strength | latency_ms | tower_load_percentage |
+   |-----------|--------|-----------------|------------|-----------------------|
+   | 1         | Manama | 4               | 45         | 75.2                  |
 
 #### CustomerDemographics.csv
 - **Description:** Extended customer demographic information.
 - **Rows:** 10,000 (matches customers)
+- **Example Row:**
+   | customer_id | income_bracket | household_size | nationality | education_level |
+   |-------------|----------------|----------------|-------------|-----------------|
+   | C00001      | Medium         | 4              | Bahraini    | Bachelor        |
 
-### 2. Reinventing How Work Gets Done (11 Datasets)
+### 2. Reinventing How Work Gets Done (10 Datasets)
 
 #### Employees.csv
 - **Description:** Employee information with department and salary details.
-- **Rows:** 500
+- **Rows:** 10000
 - **Example Row:**
    | employee_id | name       | department | role     | salary_bhd |
    |-------------|------------|------------|----------|------------|
@@ -126,15 +121,23 @@ This project generates mock datasets for various business scenarios using Python
 
 #### Projects.csv
 - **Description:** Project information with status tracking and manager assignments.
-- **Rows:** 200
+- **Rows:** 10000
+- **Example Row:**
+   | project_id | name       | status | manager_id | start_date | end_date   |
+   |------------|------------|--------|------------|------------|------------|
+   | P0001      | Project 1  | Active | E00001     | 2023-01-15 | 2024-06-30 |
 
 #### Tasks.csv
 - **Description:** Task assignments and completion tracking.
-- **Rows:** 1,000
+- **Rows:** 10000
+- **Example Row:**
+   | task_id | project_id | assignee_id | description       | priority | status      |
+   |---------|------------|-------------|-------------------|----------|-------------|
+   | T00001  | P0001      | E00005      | Implement feature | High     | In Progress |
 
 #### HRRequests.csv
 - **Description:** HR-related requests from employees.
-- **Rows:** 500
+- **Rows:** 10000
 - **Example Row:**
    | request_id | employee_id | request_type | status   |
    |------------|-------------|--------------|----------|
@@ -142,7 +145,7 @@ This project generates mock datasets for various business scenarios using Python
 
 #### FinanceRequests.csv
 - **Description:** Finance-related requests and budget approvals.
-- **Rows:** 500
+- **Rows:** 10000
 - **Example Row:**
    | request_id | employee_id | request_type | amount_bhd | status  |
    |------------|-------------|--------------|------------|---------|
@@ -150,33 +153,49 @@ This project generates mock datasets for various business scenarios using Python
 
 #### ITTickets.csv
 - **Description:** IT support ticket records for employees.
-- **Rows:** 500
+- **Rows:** 10000
+- **Example Row:**
+   | ticket_id | employee_id | category | priority | status      |
+   |-----------|-------------|----------|----------|-------------|
+   | IT00001   | E00015      | Hardware | High     | In Progress |
 
 #### Meetings.csv
 - **Description:** Meeting records with participants and action items.
-- **Rows:** 500
+- **Rows:** 10000
+- **Example Row:**
+   | meeting_id | topic              | participants        | action_items          |
+   |------------|--------------------|---------------------|-----------------------|
+   | M00001     | Weekly standup     | E00001,E00002,E00003| Review project status |
 
 #### TaskAssignments.csv
 - **Description:** Task assignments and completion tracking.
-- **Rows:** 1,000
+- **Rows:** 10000
+- **Example Row:**
+   | task_id | employee_id | project_id | priority | status    | due_date   |
+   |---------|-------------|------------|----------|-----------|------------|
+   | T00001  | E00005      | P0001      | High     | Completed | 2024-03-15 |
 
 #### ProcurementRequests.csv
 - **Description:** Procurement and vendor requests by departments.
-- **Rows:** 500
+- **Rows:** 10000
+- **Example Row:**
+   | request_id | department | item   | quantity | status   |
+   |------------|------------|--------|----------|----------|
+   | PR00001    | IT         | Laptop | 5        | Approved |
 
 #### SystemLogs.csv
 - **Description:** System event logs across various platforms.
-- **Rows:** 1,000
+- **Rows:** 10000
+- **Example Row:**
+   | log_id | system | event | severity | timestamp           |
+   |--------|--------|-------|----------|---------------------|
+   | SL00001| ERP    | Login | Low      | 2024-03-15 09:30:15 |
 
-#### KnowledgeBase.csv
-- **Description:** Knowledge base articles and documentation.
-- **Rows:** 500
-
-### 3. Redefining Engagement & Experiences (9 Datasets)
+### 3. Redefining Engagement & Experiences (7 Datasets)
 
 #### CustomerProfiles.csv
 - **Description:** Customer engagement preferences and activity tracking.
-- **Rows:** 5,000
+- **Rows:** 10000
 - **Example Row:**
    | customer_id | preferred_channel | loyalty_score | historical_engagement |
    |-------------|------------------|---------------|----------------------|
@@ -184,39 +203,51 @@ This project generates mock datasets for various business scenarios using Python
 
 #### EmployeeProfiles.csv
 - **Description:** Employee engagement and training profiles.
-- **Rows:** 500
+- **Rows:** 10000
+- **Example Row:**
+   | employee_id | name       | role     | training_completed | engagement_score |
+   |-------------|------------|----------|-------------------|------------------|
+   | E00001      | John Smith | Engineer | 12                | 0.88             |
 
 #### Campaigns.csv
 - **Description:** Marketing campaign details across multiple channels.
-- **Rows:** 200
+- **Rows:** 10000
 - **Example Row:**
    | campaign_id | name       | channel      | budget_bhd | target_segment |
    |-------------|------------|--------------|------------|----------------|
    | CM0001      | Campaign 1 | Email        | 25000.00   | Youth          |
 
-#### MediaAssets.csv
-- **Description:** Media assets used in campaigns with engagement scores.
-- **Rows:** 500
-
 #### FeedbackSurveys.csv
 - **Description:** Customer and employee satisfaction surveys.
-- **Rows:** 1,000
+- **Rows:** 10000
+- **Example Row:**
+   | survey_id | subject_id | category | topic        | rating |
+   |-----------|------------|----------|--------------|--------|
+   | S00001    | C00001     | Customer | Satisfaction | 4      |
 
 #### RewardsRedemptions.csv
 - **Description:** Customer loyalty program reward redemptions.
-- **Rows:** 1,000
+- **Rows:** 10000
+- **Example Row:**
+   | redemption_id | customer_id | reward_type | points_spent | date       |
+   |---------------|-------------|-------------|--------------|------------|
+   | R00001        | C00001      | Discount    | 100          | 2024-03-15 |
 
 #### EventParticipation.csv
 - **Description:** Customer participation in company events.
-- **Rows:** 1,000
+- **Rows:** 10000
+- **Example Row:**
+   | participation_id | customer_id | event_type | attendance |
+   |------------------|-------------|------------|------------|
+   | EV00001          | C00001      | Workshop   | Attended   |
 
 #### ContentInteractions.csv
 - **Description:** Customer interactions with digital content and campaigns.
-- **Rows:** 2,000
-
-#### EngagementHistory.csv (Note: Currently commented out in code)
-- **Description:** Historical customer engagement tracking across channels.
-- **Status:** Available but not currently generated
+- **Rows:** 10000
+- **Example Row:**
+   | interaction_id | customer_id | campaign_id | action | date       |
+   |----------------|-------------|-------------|--------|------------|
+   | CI00001        | C00001      | CM0001      | Click  | 2024-03-15 |
 
 ## Requirements
 
@@ -242,7 +273,7 @@ The generated CSV files will be saved in the `datasets/` directory, organized by
 - `datasets/ReinventingHowWorkGetsDone/` - Complete operational management (11 files)
 - `datasets/RedefiningEngagementAndExperiences/` - Customer experience and marketing analytics (9 files)
 
-**Total: 30 CSV files** covering comprehensive business operations from customer analytics to internal operations and engagement tracking.
+**Total: 27 CSV files** covering comprehensive business operations from customer analytics to internal operations and engagement tracking.
 
 ## Customization
 
