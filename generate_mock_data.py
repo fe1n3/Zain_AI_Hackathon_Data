@@ -477,20 +477,7 @@ def generate_system_logs(n=1000):
         })
     return pd.DataFrame(data)
 
-def generate_knowledge_base(n=500):
-    categories = ["HR", "Finance", "IT", "Operations", "Policies"]
-    data = []
-    for i in range(1, n+1):
-        data.append({
-            "article_id": f"KB{i:05d}",
-            "title": fake.sentence(nb_words=6),
-            "category": random.choice(categories),
-            "content": fake.paragraph(nb_sentences=5),
-            "last_updated": fake.date_between(start_date='-2y', end_date='today')
-        })
-    return pd.DataFrame(data)
-
-# -----------------------------
+# -----------------------------know
 # Main runner
 # -----------------------------
 def main():
@@ -551,13 +538,11 @@ def main():
     save_csv(generate_task_assignments(10000), os.path.join(c2_dir, "TaskAssignments.csv"))
     save_csv(generate_procurement_requests(10000), os.path.join(c2_dir, "ProcurementRequests.csv"))
     save_csv(generate_system_logs(10000), os.path.join(c2_dir, "SystemLogs.csv"))
-    save_csv(generate_knowledge_base(10000), os.path.join(c2_dir, "KnowledgeBase.csv"))
 
     # ----- Challenge 3: Redefining Engagement & Experiences -----
     c3_dir = os.path.join(base_dir, "RedefiningEngagementAndExperiences")
     ensure_folder(c3_dir)
 
-    # save_csv(generate_engagement_history(customers_df.to_dict(orient="records"), 10000), os.path.join(c3_dir, "EngagementHistory.csv"))
     save_csv(generate_customer_profiles(10000), os.path.join(c3_dir, "CustomerProfiles.csv"))
     save_csv(generate_employee_profiles(10000), os.path.join(c3_dir, "EmployeeProfiles.csv"))
     save_csv(generate_campaigns(10000), os.path.join(c3_dir, "Campaigns.csv"))
