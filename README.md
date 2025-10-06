@@ -274,14 +274,3 @@ The generated CSV files will be saved in the `datasets/` directory, organized by
 - `datasets/RedefiningEngagementAndExperiences/` - Customer experience and marketing analytics (9 files)
 
 **Total: 27 CSV files** covering comprehensive business operations from customer analytics to internal operations and engagement tracking.
-
-## Customization
-
-- To change the number of rows, modify the `n` parameter values in the function calls within the `main()` function in `generate_mock_data.py`.
-- To add new fields or modify data generation logic, update the respective generator functions (e.g., `generate_customers()`, `generate_hr_requests()`, `generate_campaigns()`, etc.).
-- You can adjust the field values, categories, or business logic in the script to fit your specific needs.
-- Dataset sizes are optimized for different business functions:
-  - **Large datasets (10,000 rows)**: Core customer and product data for robust analytics
-  - **Medium datasets (500-2,000 rows)**: Operational data like employees, tasks, and content interactions
-  - **Small datasets (200-500 rows)**: Specialized data like projects, campaigns, and administrative records
-- To enable/disable specific datasets, comment/uncomment the corresponding lines in the `main()` function.
